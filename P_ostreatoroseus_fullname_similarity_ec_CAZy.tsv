@@ -1,0 +1,1873 @@
+"ProteinId"	"FullName"	"Similariry"	"EC"	"CAZy_HMMER"	"CAZy_Hotpep"	"CAZy_DIAMOND"	"Signalp"
+"KAF7789068.1"	"Beta-xylanase"	"Belongs to the glycosyl hydrolase 10 (cellulase F) family"	"3.2.1.8"	"GH10(86-414)"	"GH10+CBM1+CBM2"	"CBM1+GH10"	"N"
+"KAF7789077.1"	NA	NA	NA	"AA9(8-229)"	"AA9+CBM1"	"AA9+CBM1"	"Y(1-20)"
+"KAF7789080.1"	"RuvB-like helicase"	"Belongs to the RuvB family"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7789083.1"	NA	NA	NA	"GH92(203-558)"	"N"	"GH92"	"N"
+"KAF7789092.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7789093.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7789094.1"	"Nicotinate phosphoribosyltransferase"	"Belongs to the NAPRTase family"	"6.3.4.21"	NA	NA	NA	NA
+"KAF7789096.1"	NA	"Belongs to the ubiquitin-conjugating enzyme family"	"2.3.2.-"	NA	NA	NA	NA
+"KAF7789097.1"	"Phosphatidyl-N-methylethanolamine N-methyltransferase"	"Belongs to the class VI-like SAM-binding methyltransferase superfamily. PEMT/PEM2 methyltransferase family"	"2.1.1.71"	NA	NA	NA	NA
+"KAF7789106.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7789111.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7789123.1"	"Vacuolar protein-sorting-associated protein 36"	"Belongs to the VPS36 family"	NA	NA	NA	NA	NA
+"KAF7789127.1"	NA	NA	NA	"N"	"GH78"	"N"	"N"
+"KAF7789129.1"	"Prefoldin subunit 3"	"Belongs to the prefoldin subunit alpha family"	NA	NA	NA	NA	NA
+"KAF7789136.1"	NA	"Belongs to the globin family"	NA	NA	NA	NA	NA
+"KAF7789137.1"	"DNA-directed RNA polymerase"	"Belongs to the phage and mitochondrial RNA polymerase family"	"2.7.7.6"	NA	NA	NA	NA
+"KAF7789140.1"	"Tafazzin family protein"	"Belongs to the taffazin family"	NA	NA	NA	NA	NA
+"KAF7789141.1"	NA	"Belongs to the argonaute family"	NA	NA	NA	NA	NA
+"KAF7789154.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789160.1"	NA	NA	NA	"AA9(2-125)"	"N"	"N"	"N"
+"KAF7789170.1"	"2-(3-amino-3-carboxypropyl)histidine synthase subunit 2"	"Belongs to the DPH1/DPH2 family. DPH2 subfamily"	"2.5.1.108"	NA	NA	NA	NA
+"KAF7789199.1"	"1,3-beta-glucanosyltransferase"	"Belongs to the glycosyl hydrolase 72 family"	"2.4.1.-"	"GH72(22-342)"	"GH72+CBM43"	"CBM43+GH72"	"Y(1-24)"
+"KAF7789200.1"	NA	NA	NA	"CE4(208-321)"	"CE4"	"CE4"	"Y(1-46)"
+"KAF7789201.1"	NA	"Belongs to the nucleosome assembly protein (NAP) family"	NA	NA	NA	NA	NA
+"KAF7789205.1"	NA	"Belongs to the MCM family"	NA	NA	NA	NA	NA
+"KAF7789207.1"	"Mediator of RNA polymerase II transcription subunit 6"	"Belongs to the Mediator complex subunit 6 family"	NA	NA	NA	NA	NA
+"KAF7789215.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7789220.1"	"V-type proton ATPase subunit F"	"Belongs to the V-ATPase F subunit family"	NA	NA	NA	NA	NA
+"KAF7789231.1"	"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial"	"Belongs to the succinate/malate CoA ligase beta subunit family"	"6.2.1.5"	NA	NA	NA	NA
+"KAF7789231.1"	"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial"	"Belongs to the succinate/malate CoA ligase beta subunit family"	"6.2.1.-"	NA	NA	NA	NA
+"KAF7789231.1"	"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial"	"Belongs to the succinate/malate CoA ligase beta subunit family"	"6.2.1.5"	NA	NA	NA	NA
+"KAF7789231.1"	"Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial"	"Belongs to the succinate/malate CoA ligase beta subunit family"	"6.2.1.-"	NA	NA	NA	NA
+"KAF7789231.1"	"Succinate-CoA ligase subunit beta"	"Belongs to the succinate/malate CoA ligase beta subunit family"	"6.2.1.5"	NA	NA	NA	NA
+"KAF7789231.1"	"Succinate-CoA ligase subunit beta"	"Belongs to the succinate/malate CoA ligase beta subunit family"	"6.2.1.-"	NA	NA	NA	NA
+"KAF7789231.1"	"Succinate-CoA ligase subunit beta"	"Belongs to the succinate/malate CoA ligase beta subunit family"	"6.2.1.5"	NA	NA	NA	NA
+"KAF7789231.1"	"Succinate-CoA ligase subunit beta"	"Belongs to the succinate/malate CoA ligase beta subunit family"	"6.2.1.-"	NA	NA	NA	NA
+"KAF7789236.1"	"Cation-transporting ATPase"	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type V subfamily"	"7.2.2.-"	NA	NA	NA	NA
+"KAF7789247.1"	NA	"In the C-terminal section; belongs to the NAGSA dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7789247.1"	NA	"In the N-terminal section; belongs to the acetylglutamate kinase family"	NA	NA	NA	NA	NA
+"KAF7789249.1"	NA	"Belongs to the eukaryotic ribosomal protein eL38 family"	NA	NA	NA	NA	NA
+"KAF7789251.1"	NA	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family"	NA	NA	NA	NA	NA
+"KAF7789270.1"	NA	"Belongs to the acyl-CoA dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7789271.1"	NA	NA	NA	"GT1(263-440)"	"N"	"N"	"N"
+"KAF7789281.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7789282.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7789288.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789290.1"	NA	NA	NA	"N"	"N"	"AA3_2"	"N"
+"KAF7789293.1"	NA	NA	NA	"GH16_1(4-176)"	"N"	"N"	"N"
+"KAF7789309.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7789326.1"	"Kinase"	"Belongs to the inositol phosphokinase (IPK) family"	"2.7.-.-"	NA	NA	NA	NA
+"KAF7789327.1"	NA	"Belongs to the eIF-2B alpha/beta/delta subunits family"	NA	NA	NA	NA	NA
+"KAF7789328.1"	"5'-3' exoribonuclease"	"Belongs to the 5'-3' exonuclease family. XRN2/RAT1 subfamily"	"3.1.13.-"	NA	NA	NA	NA
+"KAF7789333.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789335.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789336.1"	NA	NA	NA	"GH2(21-640)"	"GH2"	"GH2"	"N"
+"KAF7789337.1"	"Poly(A) polymerase"	"Belongs to the poly(A) polymerase family"	"2.7.7.19"	NA	NA	NA	NA
+"KAF7789340.1"	"Eukaryotic translation initiation factor 3 subunit D"	"Belongs to the eIF-3 subunit D family"	NA	NA	NA	NA	NA
+"KAF7789371.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7789374.1"	"Spindle pole body component"	"Belongs to the TUBGCP family"	NA	NA	NA	NA	NA
+"KAF7789383.1"	"Autophagy-related protein"	"Belongs to the ATG22 family"	NA	NA	NA	NA	NA
+"KAF7789390.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7789397.1"	"Cytochrome c oxidase assembly factor 3"	"Belongs to the COA3 family"	NA	NA	NA	NA	NA
+"KAF7789398.1"	"Protein AF-9 homolog"	"Belongs to the YAF9 family"	NA	NA	NA	NA	NA
+"KAF7789405.1"	"Molybdopterin molybdenumtransferase"	"Belongs to the MoeA family"	"2.10.1.1"	NA	NA	NA	NA
+"KAF7789430.1"	"Inosine triphosphate pyrophosphatase"	"Belongs to the HAM1 NTPase family"	"3.6.1.9"	NA	NA	NA	NA
+"KAF7789430.1"	"Inosine triphosphate pyrophosphatase"	"Belongs to the HAM1 NTPase family"	"3.6.1.9"	NA	NA	NA	NA
+"KAF7789431.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7789433.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7789443.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7789447.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7789448.1"	NA	"Belongs to the GST superfamily"	NA	NA	NA	NA	NA
+"KAF7789449.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7789452.1"	"DNA-directed RNA polymerase subunit beta"	"Belongs to the RNA polymerase beta chain family"	"2.7.7.6"	NA	NA	NA	NA
+"KAF7789452.1"	"DNA-directed RNA polymerase subunit beta"	"Belongs to the RNA polymerase beta chain family"	"2.7.7.6"	NA	NA	NA	NA
+"KAF7789456.1"	NA	NA	NA	"AA3_2(3-384)"	"N"	"N"	"N"
+"KAF7789460.1"	"Eukaryotic translation initiation factor 3 subunit B"	"Belongs to the eIF-3 subunit B family"	NA	NA	NA	NA	NA
+"KAF7789460.1"	"Eukaryotic translation initiation factor 3 subunit B"	"Belongs to the eIF-3 subunit B family"	NA	NA	NA	NA	NA
+"KAF7789460.1"	"Eukaryotic translation initiation factor 3 subunit B"	"Belongs to the eIF-3 subunit B family"	NA	NA	NA	NA	NA
+"KAF7789460.1"	"Eukaryotic translation initiation factor 3 subunit B"	"Belongs to the eIF-3 subunit B family"	NA	NA	NA	NA	NA
+"KAF7789461.1"	NA	NA	"5.2.1.8"	NA	NA	NA	NA
+"KAF7789464.1"	"Histidine biosynthesis trifunctional protein"	"In the C-terminal section; belongs to the histidinol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7789465.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7789467.1"	"Pyruvate dehydrogenase E1 component subunit beta"	NA	"1.2.4.1"	NA	NA	NA	NA
+"KAF7789468.1"	"Pyruvate dehydrogenase E1 component subunit beta"	NA	"1.2.4.1"	NA	NA	NA	NA
+"KAF7789469.1"	NA	"Belongs to the metallo-dependent hydrolases superfamily"	NA	NA	NA	NA	NA
+"KAF7789471.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789475.1"	"Isocitrate dehydrogenase [NAD] subunit, mitochondrial"	"Belongs to the isocitrate and isopropylmalate dehydrogenases family"	NA	NA	NA	NA	NA
+"KAF7789476.1"	"DIS3-like exonuclease 2"	"Belongs to the RNR ribonuclease family. DIS3L2 subfamily"	"3.1.13.-"	NA	NA	NA	NA
+"KAF7789484.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789488.1"	"60S ribosomal protein L36"	"Belongs to the eukaryotic ribosomal protein eL36 family"	NA	NA	NA	NA	NA
+"KAF7789489.1"	"Casein kinase II subunit beta"	"Belongs to the casein kinase 2 subunit beta family"	NA	NA	NA	NA	NA
+"KAF7789490.1"	"Casein kinase II subunit beta"	"Belongs to the casein kinase 2 subunit beta family"	NA	NA	NA	NA	NA
+"KAF7789506.1"	NA	"Belongs to the FBPase class 1 family"	NA	NA	NA	NA	NA
+"KAF7789521.1"	"Glycylpeptide N-tetradecanoyltransferase"	"Belongs to the NMT family"	"2.3.1.97"	NA	NA	NA	NA
+"KAF7789523.1"	"T-complex protein 1 subunit delta"	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7789530.1"	NA	"Belongs to the PdxS/SNZ family"	NA	NA	NA	NA	NA
+"KAF7789531.1"	NA	"Belongs to the glycosyl hydrolase 43 family"	"3.2.1.-"	"GH43_24(43-306)"	"CBM13"	"CBM35+GH43_24"	"Y(1-19)"
+"KAF7789548.1"	"25S rRNA adenine-N(1) methyltransferase"	"Belongs to the BMT2 family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7789549.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7789553.1"	NA	NA	NA	"GH63(387-601)"	"GH63"	"GH63"	"N"
+"KAF7789555.1"	NA	"Belongs to the SLC26A/SulP transporter (TC 2.A.53) family"	NA	NA	NA	NA	NA
+"KAF7789557.1"	NA	NA	NA	"GH16_1(14-145)"	"N"	"N"	"N"
+"KAF7789562.1"	NA	"Belongs to the SLC26A/SulP transporter (TC 2.A.53) family"	NA	NA	NA	NA	NA
+"KAF7789567.1"	NA	"Belongs to the glycosyl hydrolase 31 family"	"3.2.1.-"	"GH31(266-702)"	"GH31"	"GH31"	"N"
+"KAF7789568.1"	"Transketolase"	"Belongs to the transketolase family"	"2.2.1.1"	NA	NA	NA	NA
+"KAF7789570.1"	"Nucleoside diphosphate kinase"	"Belongs to the NDK family"	"2.7.4.6"	NA	NA	NA	NA
+"KAF7789591.1"	NA	"Belongs to the universal ribosomal protein uS5 family"	NA	NA	NA	NA	NA
+"KAF7789605.1"	"Ubiquinone biosynthesis protein , mitochondrial"	"Belongs to the COQ4 family"	NA	NA	NA	NA	NA
+"KAF7789626.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7789642.1"	NA	"Belongs to the glycosyl hydrolase 18 family"	"3.2.1.-"	"GH18(12-208)"	"GH18+CBM1"	"CBM5+GH18"	"N"
+"KAF7789663.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7789665.1"	"Succinate dehydrogenase assembly factor 2, mitochondrial"	"Belongs to the SDHAF2 family"	NA	NA	NA	NA	NA
+"KAF7789667.1"	NA	"Belongs to the DEAD box helicase family"	NA	"N"	"N"	"GH37"	"N"
+"KAF7789677.1"	"Probable vacuolar protein sorting-associated protein 16 homolog"	"Belongs to the VPS16 family"	NA	NA	NA	NA	NA
+"KAF7789686.1"	NA	NA	NA	"GT20(114-604)"	"GT20"	"GT20"	"N"
+"KAF7789689.1"	"U6 snRNA-associated Sm-like protein LSm8"	"Belongs to the snRNP Sm proteins family"	NA	NA	NA	NA	NA
+"KAF7789691.1"	NA	"Belongs to the universal ribosomal protein uS5 family"	NA	NA	NA	NA	NA
+"KAF7789709.1"	NA	"Belongs to the ketol-acid reductoisomerase family"	NA	NA	NA	NA	NA
+"KAF7789715.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	NA	NA	NA	NA
+"KAF7789716.1"	"Inositol oxygenase"	"Belongs to the myo-inositol oxygenase family"	"1.13.99.1"	NA	NA	NA	NA
+"KAF7789718.1"	"40S ribosomal protein S6"	"Belongs to the eukaryotic ribosomal protein eS6 family"	NA	NA	NA	NA	NA
+"KAF7789719.1"	NA	"Belongs to the universal ribosomal protein uS15 family"	NA	NA	NA	NA	NA
+"KAF7789720.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789756.1"	"Checkpoint protein"	"Belongs to the HUS1 family"	NA	NA	NA	NA	NA
+"KAF7789766.1"	NA	"Belongs to the Orn/Lys/Arg decarboxylase class-II family"	NA	NA	NA	NA	NA
+"KAF7789767.1"	"Serine/threonine-protein phosphatase 2A activator"	"Belongs to the PTPA-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7789774.1"	NA	"Belongs to the class-II pyridoxal-phosphate-dependent aminotransferase family"	NA	NA	NA	NA	NA
+"KAF7789779.1"	"Fructose-bisphosphate aldolase"	"Belongs to the class II fructose-bisphosphate aldolase family"	"4.1.2.13"	NA	NA	NA	NA
+"KAF7789784.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789788.1"	"Mitochondrial import inner membrane translocase subunit"	"Belongs to the small Tim family"	NA	NA	NA	NA	NA
+"KAF7789792.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	NA	NA	NA	NA
+"KAF7789793.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"N"	"GH5+CBM1"	"N"	"N"
+"KAF7789799.1"	NA	NA	NA	"N"	"N"	"GH72"	"Y(1-24)"
+"KAF7789805.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7789807.1"	"Peptidyl-prolyl cis-trans isomerase"	"Belongs to the cyclophilin-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7789812.1"	"Arp2/3 complex 34 kDa subunit"	"Belongs to the ARPC2 family"	NA	NA	NA	NA	NA
+"KAF7789814.1"	"Anaphase-promoting complex subunit 10"	"Belongs to the APC10 family"	NA	NA	NA	NA	NA
+"KAF7789820.1"	"Citrate synthase"	"Belongs to the citrate synthase family"	NA	NA	NA	NA	NA
+"KAF7789822.1"	"tRNA (guanine-N(7)-)-methyltransferase"	"Belongs to the class I-like SAM-binding methyltransferase superfamily. TrmB family"	"2.1.1.33"	NA	NA	NA	NA
+"KAF7789846.1"	"ATP-dependent DNA helicase"	"Belongs to the helicase family"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7789856.1"	"V-type proton ATPase subunit C"	"Belongs to the V-ATPase C subunit family"	NA	NA	NA	NA	NA
+"KAF7789861.1"	"Copper transporter"	"Belongs to the copper transporter (Ctr) (TC 1.A.56) family. SLC31A subfamily"	NA	NA	NA	NA	NA
+"KAF7789871.1"	"6-phosphogluconolactonase"	"Belongs to the glucosamine/galactosamine-6-phosphate isomerase family. 6-phosphogluconolactonase subfamily"	"3.1.1.31"	NA	NA	NA	NA
+"KAF7789876.1"	"Branched-chain-amino-acid aminotransferase"	"Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family"	"2.6.1.42"	"N"	"N"	"GH47"	"N"
+"KAF7789877.1"	"6-phosphogluconate dehydrogenase, decarboxylating"	"Belongs to the 6-phosphogluconate dehydrogenase family"	"1.1.1.44"	"N"	"N"	"GT30"	"N"
+"KAF7789887.1"	NA	NA	NA	"N"	"GH3+CBM1"	"CBM1+GH3"	"N"
+"KAF7789892.1"	NA	"Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin-like GTPase superfamily. Septin GTPase family"	NA	NA	NA	NA	NA
+"KAF7789900.1"	"Mitochondrial import inner membrane translocase subunit"	"Belongs to the small Tim family"	NA	NA	NA	NA	NA
+"KAF7789903.1"	"Saccharopine dehydrogenase [NAD(+), L-lysine-forming]"	"Belongs to the AlaDH/PNT family"	"1.5.1.7"	NA	NA	NA	NA
+"KAF7789905.1"	NA	NA	NA	"GT8(3-264)"	"N"	"N"	"N"
+"KAF7789907.1"	"Lipoyl synthase, mitochondrial"	"Belongs to the radical SAM superfamily. Lipoyl synthase family"	"2.8.1.8"	NA	NA	NA	NA
+"KAF7789916.1"	NA	NA	NA	"N"	"N"	"GH43_30"	"N"
+"KAF7789918.1"	"Mitogen-activated protein kinase"	"Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. MAP kinase subfamily"	"2.7.11.24"	NA	NA	NA	NA
+"KAF7789918.1"	"Mitogen-activated protein kinase"	"Belongs to the protein kinase superfamily"	"2.7.11.24"	NA	NA	NA	NA
+"KAF7789920.1"	NA	"Belongs to the FMN-dependent alpha-hydroxy acid dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7789934.1"	NA	NA	NA	"N"	"GH2"	"GH2"	"N"
+"KAF7789942.1"	NA	"Belongs to the glycosyl hydrolase 35 family"	NA	"N"	"GH35"	"GH35"	"N"
+"KAF7789944.1"	NA	"Belongs to the heat shock protein 70 family"	NA	NA	NA	NA	NA
+"KAF7789954.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7789955.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789957.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789958.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789959.1"	"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial"	"Belongs to the complex I 51 kDa subunit family"	"7.1.1.2"	NA	NA	NA	NA
+"KAF7789960.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789965.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789967.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789968.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789970.1"	"Glucosamine 6-phosphate N-acetyltransferase"	"Belongs to the acetyltransferase family. GNA1 subfamily"	"2.3.1.4"	NA	NA	NA	NA
+"KAF7789974.1"	"Chitin synthase"	"Belongs to the chitin synthase family"	"2.4.1.16"	"GT2_Chitin_synth_1(261-423)"	"GT2"	"GT2"	"N"
+"KAF7789975.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7789983.1"	NA	"Belongs to the TPP enzyme family"	NA	NA	NA	NA	NA
+"KAF7789984.1"	NA	NA	NA	"GH12(91-242)"	"GH12"	"N"	"Y(1-19)"
+"KAF7789985.1"	NA	"Belongs to the ubiquitin-conjugating enzyme family"	"2.3.2.-"	NA	NA	NA	NA
+"KAF7789988.1"	"Carboxylic ester hydrolase"	"Belongs to the type-B carboxylesterase/lipase family"	"3.1.1.-"	NA	NA	NA	NA
+"KAF7789999.1"	NA	NA	NA	"AA1_2(39-396)"	"AA1"	"AA1_2"	"N"
+"KAF7790007.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7790009.1"	"Extracellular metalloproteinase"	"Belongs to the peptidase M36 family"	"3.4.24.-"	NA	NA	NA	NA
+"KAF7790019.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7790020.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7790033.1"	"Mitochondrial import inner membrane translocase subunit TIM44"	"Belongs to the Tim44 family"	NA	NA	NA	NA	NA
+"KAF7790034.1"	"Peptide-methionine (R)-S-oxide reductase"	"Belongs to the MsrB Met sulfoxide reductase family"	"1.8.4.12"	NA	NA	NA	NA
+"KAF7790059.1"	NA	NA	"3.2.1.-"	"GH18(47-420)"	"N"	"GH18"	"Y(1-33)"
+"KAF7790079.1"	NA	"Belongs to the iron/ascorbate-dependent oxidoreductase family"	NA	NA	NA	NA	NA
+"KAF7790089.1"	NA	NA	"3.2.1.-"	"GH18(197-704)"	"GH18+CBM5"	"N"	"N"
+"KAF7790090.1"	NA	NA	NA	"N"	"N"	"CBM13"	"N"
+"KAF7790103.1"	NA	"Belongs to the small GTPase superfamily. Arf family"	NA	NA	NA	NA	NA
+"KAF7790106.1"	NA	"Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family"	NA	NA	NA	NA	NA
+"KAF7790110.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7790118.1"	"Protein phosphatase"	"Belongs to the PP2C family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7790122.1"	"H/ACA ribonucleoprotein complex subunit"	"Belongs to the GAR1 family"	NA	NA	NA	NA	NA
+"KAF7790123.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7790125.1"	"Superoxide dismutase"	"Belongs to the iron/manganese superoxide dismutase family"	"1.15.1.1"	NA	NA	NA	NA
+"KAF7790127.1"	NA	NA	NA	"AA1_1(31-335)"	"AA1"	"AA1_1"	"Y(1-17)"
+"KAF7790128.1"	NA	"Belongs to the aspartate/ornithine carbamoyltransferase superfamily"	NA	NA	NA	NA	NA
+"KAF7790129.1"	NA	NA	NA	"GT69(161-385)"	"N"	"N"	"N"
+"KAF7790134.1"	"Proteasome subunit beta"	"Belongs to the peptidase T1B family"	"3.4.25.1"	NA	NA	NA	NA
+"KAF7790135.1"	"Tyrosine--tRNA ligase"	"Belongs to the class-I aminoacyl-tRNA synthetase family"	"6.1.1.1"	NA	NA	NA	NA
+"KAF7790135.1"	"Tyrosine--tRNA ligase"	"Belongs to the class-I aminoacyl-tRNA synthetase family"	"6.1.1.1"	NA	NA	NA	NA
+"KAF7790141.1"	NA	"Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin-like GTPase superfamily. Septin GTPase family"	NA	NA	NA	NA	NA
+"KAF7790145.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7790165.1"	NA	"Belongs to the thiolase-like superfamily. Thiolase family"	NA	NA	NA	NA	NA
+"KAF7790174.1"	"Dynein light chain"	"Belongs to the dynein light chain family"	NA	NA	NA	NA	NA
+"KAF7790187.1"	NA	NA	NA	"GH16_19(88-242)"	"N"	"N"	"Y(1-21)"
+"KAF7790191.1"	NA	NA	NA	"N"	"GH115"	"GH115"	"Y(1-21)"
+"KAF7790194.1"	NA	NA	NA	"CE1(40-195)"	"CE1+CBM1+CBM2"	"CBM1+CE1"	"Y(1-20)"
+"KAF7790196.1"	"Eukaryotic translation initiation factor 3 subunit E"	"Belongs to the eIF-3 subunit E family"	NA	NA	NA	NA	NA
+"KAF7790196.1"	"Eukaryotic translation initiation factor 3 subunit E"	"Belongs to the eIF-3 subunit E family"	NA	NA	NA	NA	NA
+"KAF7790196.1"	"Eukaryotic translation initiation factor 3 subunit E"	"Belongs to the eIF-3 subunit E family"	NA	NA	NA	NA	NA
+"KAF7790196.1"	"Eukaryotic translation initiation factor 3 subunit E"	"Belongs to the eIF-3 subunit E family"	NA	NA	NA	NA	NA
+"KAF7790205.1"	"Methyltransferase-like protein"	"Belongs to the methyltransferase superfamily. METL family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7790208.1"	NA	NA	NA	"N"	"N"	"CE3"	"N"
+"KAF7790214.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7790214.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7790215.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_15(100-252)"	"N"	"N"	"N"
+"KAF7790229.1"	"Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial"	"Belongs to the amidase family. GatA subfamily"	"6.3.5.7"	NA	NA	NA	NA
+"KAF7790238.1"	"DNA polymerase"	"Belongs to the DNA polymerase type-B family"	"2.7.7.7"	NA	NA	NA	NA
+"KAF7790240.1"	NA	"Belongs to the pirin family"	NA	NA	NA	NA	NA
+"KAF7790241.1"	NA	"Belongs to the pirin family"	NA	NA	NA	NA	NA
+"KAF7790250.1"	NA	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IB subfamily"	NA	NA	NA	NA	NA
+"KAF7790264.1"	NA	NA	NA	"GT2_Chitin_synth_2(435-935)"	"GT2"	"GT2"	"N"
+"KAF7790267.1"	NA	NA	NA	"GH55(42-792)"	"GH0+GH55"	"GH55"	"Y(1-26)"
+"KAF7790271.1"	"Sulfate adenylyltransferase"	"In the N-terminal section; belongs to the sulfate adenylyltransferase family"	"2.7.7.4"	NA	NA	NA	NA
+"KAF7790271.1"	"Sulfate adenylyltransferase"	"In the C-terminal section; belongs to the APS kinase family"	"2.7.7.4"	NA	NA	NA	NA
+"KAF7790272.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7790276.1"	NA	"Belongs to the DapA family"	NA	NA	NA	NA	NA
+"KAF7790299.1"	NA	"Belongs to the DOCK family"	NA	NA	NA	NA	NA
+"KAF7790299.1"	NA	"Belongs to the DOCK family"	NA	NA	NA	NA	NA
+"KAF7790303.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7790304.1"	"Sulfate adenylyltransferase"	"In the N-terminal section; belongs to the sulfate adenylyltransferase family"	"2.7.7.4"	NA	NA	NA	NA
+"KAF7790304.1"	"Sulfate adenylyltransferase"	"In the C-terminal section; belongs to the APS kinase family"	"2.7.7.4"	NA	NA	NA	NA
+"KAF7790316.1"	"Altered inheritance of mitochondria protein 41"	"Belongs to the AIM41 family"	NA	NA	NA	NA	NA
+"KAF7790317.1"	"Queuosine salvage protein"	"Belongs to the queuosine salvage protein family"	NA	NA	NA	NA	NA
+"KAF7790321.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7790325.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7790328.1"	"Pre-mRNA-splicing factor SLU7"	"Belongs to the SLU7 family"	NA	NA	NA	NA	NA
+"KAF7790329.1"	NA	NA	NA	"CE16(34-175)"	"CE16"	"N"	"Y(1-57)"
+"KAF7790330.1"	NA	NA	NA	"CE16(46-179)"	"CE16"	"N"	"Y(1-22)"
+"KAF7790337.1"	"Methylthioribose-1-phosphate isomerase"	"Belongs to the eIF-2B alpha/beta/delta subunits family. MtnA subfamily"	"5.3.1.23"	NA	NA	NA	NA
+"KAF7790339.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7790347.1"	"Formate dehydrogenase"	"Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family. FDH subfamily"	"1.17.1.9"	NA	NA	NA	NA
+"KAF7790347.1"	"Formate dehydrogenase"	"Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family"	"1.17.1.9"	NA	NA	NA	NA
+"KAF7790357.1"	"Origin recognition complex subunit 1"	"Belongs to the ORC1 family"	NA	NA	NA	NA	NA
+"KAF7790394.1"	"UTP--glucose-1-phosphate uridylyltransferase"	"Belongs to the UDPGP type 1 family"	"2.7.7.9"	NA	NA	NA	NA
+"KAF7790396.1"	NA	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7790403.1"	"Delta-aminolevulinic acid dehydratase"	"Belongs to the ALAD family"	"4.2.1.24"	NA	NA	NA	NA
+"KAF7790404.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	NA	NA	NA	NA
+"KAF7790412.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7790414.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7790416.1"	"FK506-binding protein"	"Belongs to the FKBP-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7790416.1"	"FK506-binding protein"	"Belongs to the FKBP-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7790421.1"	NA	"Belongs to the trans-sulfuration enzymes family"	NA	NA	NA	NA	NA
+"KAF7790432.1"	NA	"Belongs to the trans-sulfuration enzymes family"	NA	NA	NA	NA	NA
+"KAF7790453.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7790459.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7790469.1"	"Mediator of RNA polymerase II transcription subunit 14"	"Belongs to the Mediator complex subunit 14 family"	NA	NA	NA	NA	NA
+"KAF7790470.1"	NA	"Belongs to the MCM family"	NA	NA	NA	NA	NA
+"KAF7790498.1"	"Pre-mRNA-splicing factor 38"	"Belongs to the PRP38 family"	NA	NA	NA	NA	NA
+"KAF7790499.1"	"Pre-mRNA-splicing factor 38"	"Belongs to the PRP38 family"	NA	NA	NA	NA	NA
+"KAF7790500.1"	NA	NA	NA	"GH16_19(25-193)"	"N"	"N"	"N"
+"KAF7790506.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7790509.1"	"Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2"	"Belongs to the SWP1 family"	NA	NA	NA	NA	NA
+"KAF7790514.1"	"alpha-1,2-Mannosidase"	"Belongs to the glycosyl hydrolase 47 family"	"3.2.1.-"	NA	NA	NA	NA
+"KAF7790516.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7790518.1"	NA	NA	NA	"AA9(6-220)"	"AA9+CBM1"	"AA9+CBM1"	"Y(1-20)"
+"KAF7790522.1"	"Protoporphyrinogen oxidase"	"Belongs to the protoporphyrinogen/coproporphyrinogen oxidase family. Protoporphyrinogen oxidase subfamily"	"1.3.3.4"	NA	NA	NA	NA
+"KAF7790529.1"	"Histone H2B"	"Belongs to the histone H2B family"	NA	NA	NA	NA	NA
+"KAF7790531.1"	"Histone H2A"	"Belongs to the histone H2A family"	NA	NA	NA	NA	NA
+"KAF7790539.1"	NA	NA	NA	"GT24(1244-1481)"	"GT24"	"GT24"	"N"
+"KAF7790541.1"	"Plasma membrane ATPase"	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IIIA subfamily"	"7.1.2.1"	NA	NA	NA	NA
+"KAF7790546.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7790549.1"	"Protein transport protein SEC23"	"Belongs to the SEC23/SEC24 family. SEC23 subfamily"	NA	NA	NA	NA	NA
+"KAF7790557.1"	"tRNA(His) guanylyltransferase"	"Belongs to the tRNA(His) guanylyltransferase family"	"2.7.7.79"	NA	NA	NA	NA
+"KAF7790589.1"	"T-complex protein 1 subunit gamma"	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7790591.1"	"tRNA ligase"	"Belongs to the TRL1 family"	"6.5.1.3"	NA	NA	NA	NA
+"KAF7790597.1"	"Exocyst complex protein EXO70"	"Belongs to the EXO70 family"	NA	NA	NA	NA	NA
+"KAF7790600.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(58-280)"	"AA2"	"AA2"	"Y(1-31)"
+"KAF7790600.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(58-280)"	"AA2"	"AA2"	"Y(1-31)"
+"KAF7790600.1"	"Peroxidase"	"Belongs to the peroxidase family. Ligninase subfamily"	"1.11.1.-"	"AA2(58-280)"	"AA2"	"AA2"	"Y(1-31)"
+"KAF7790604.1"	NA	"Belongs to the FMN-dependent alpha-hydroxy acid dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7790605.1"	"40S ribosomal protein S30"	"Belongs to the eukaryotic ribosomal protein eS30 family"	NA	NA	NA	NA	NA
+"KAF7790606.1"	"ER membrane protein complex subunit 2"	"Belongs to the EMC2 family"	NA	NA	NA	NA	NA
+"KAF7790612.1"	"Ubiquitin-related modifier 1"	"Belongs to the URM1 family"	NA	NA	NA	NA	NA
+"KAF7790621.1"	NA	NA	NA	"GH5_31(1-203)"	"N"	"N"	"N"
+"KAF7790626.1"	"Isocitrate dehydrogenase [NADP]"	"Belongs to the isocitrate and isopropylmalate dehydrogenases family"	"1.1.1.42"	NA	NA	NA	NA
+"KAF7790627.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7790628.1"	NA	"Belongs to the protein kinase superfamily"	NA	"N"	"N"	"GH47"	"N"
+"KAF7790629.1"	"Purine nucleoside phosphorylase"	"Belongs to the PNP/MTAP phosphorylase family"	"2.4.2.1"	NA	NA	NA	NA
+"KAF7790634.1"	"Protein-S-isoprenylcysteine O-methyltransferase"	"Belongs to the class VI-like SAM-binding methyltransferase superfamily. Isoprenylcysteine carboxyl methyltransferase family"	"2.1.1.100"	NA	NA	NA	NA
+"KAF7790658.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7790662.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7790700.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7790705.1"	NA	"Belongs to the carnitine/choline acetyltransferase family"	NA	NA	NA	NA	NA
+"KAF7790720.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7790735.1"	NA	NA	NA	"N"	"N"	"CE3"	"N"
+"KAF7790736.1"	NA	NA	NA	"N"	"N"	"CE3"	"N"
+"KAF7790747.1"	"40S ribosomal protein S0"	"Belongs to the universal ribosomal protein uS2 family"	NA	NA	NA	NA	NA
+"KAF7790747.1"	"40S ribosomal protein S0"	"Belongs to the universal ribosomal protein uS2 family"	NA	NA	NA	NA	NA
+"KAF7790748.1"	"Glucosamine-6-phosphate isomerase"	"Belongs to the glucosamine/galactosamine-6-phosphate isomerase family"	"3.5.99.6"	NA	NA	NA	NA
+"KAF7790757.1"	NA	NA	NA	"GH5_9(287-580)"	"GH5"	"GH5_9"	"N"
+"KAF7790758.1"	"Phosphoribosylaminoimidazole carboxylase"	"In the C-terminal section; belongs to the AIR carboxylase family. Class I subfamily"	"4.1.1.21"	NA	NA	NA	NA
+"KAF7790769.1"	NA	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7790770.1"	"DNA-directed RNA polymerase subunit"	"Belongs to the RNA polymerase beta' chain family"	"2.7.7.6"	NA	NA	NA	NA
+"KAF7790772.1"	"Mediator of RNA polymerase II transcription subunit 10"	"Belongs to the Mediator complex subunit 10 family"	NA	NA	NA	NA	NA
+"KAF7790779.1"	NA	"Belongs to the CGI121/TPRKB family"	NA	NA	NA	NA	NA
+"KAF7790783.1"	NA	"Belongs to the actin family"	NA	NA	NA	NA	NA
+"KAF7790790.1"	NA	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7790791.1"	"Dolichyl-phosphate-mannose--protein mannosyltransferase"	"Belongs to the glycosyltransferase 39 family"	"2.4.1.109"	"GT39(72-311)"	"GT39"	"GT39"	"N"
+"KAF7790794.1"	NA	"Belongs to the cyclin family"	NA	NA	NA	NA	NA
+"KAF7790795.1"	NA	"Belongs to the LDH/MDH superfamily"	NA	NA	NA	NA	NA
+"KAF7790801.1"	NA	"Belongs to the acyl-CoA dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7790817.1"	"Ribonucloprotein"	"Belongs to the eukaryotic ribosomal protein eL8 family"	NA	NA	NA	NA	NA
+"KAF7790821.1"	"Transcription initiation factor IIF subunit alpha"	"Belongs to the TFIIF alpha subunit family"	NA	NA	NA	NA	NA
+"KAF7790822.1"	NA	NA	NA	"CE4(149-265)"	"N"	"CE4"	"Y(1-25)"
+"KAF7790827.1"	"Glucose-6-phosphate 1-dehydrogenase"	"Belongs to the glucose-6-phosphate dehydrogenase family"	"1.1.1.49"	"N"	"N"	"CBM13+GT27"	"N"
+"KAF7790827.1"	"Glucose-6-phosphate 1-dehydrogenase"	"Belongs to the glucose-6-phosphate dehydrogenase family"	"1.1.1.-"	"N"	"N"	"CBM13+GT27"	"N"
+"KAF7790838.1"	"Kinesin-like protein"	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	NA	NA	NA	NA
+"KAF7790838.1"	"Kinesin-like protein"	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	NA	NA	NA	NA
+"KAF7790840.1"	NA	"Belongs to the EMP24/GP25L family"	NA	NA	NA	NA	NA
+"KAF7790857.1"	"Folylpolyglutamate synthase"	"Belongs to the folylpolyglutamate synthase family"	"6.3.2.17"	NA	NA	NA	NA
+"KAF7790863.1"	"Ribosomal RNA-processing protein 8"	"Belongs to the methyltransferase superfamily. RRP8 family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7790871.1"	NA	NA	NA	"GH9(4-393)"	"GH9"	"GH9"	"N"
+"KAF7790886.1"	"Proteasome subunit beta"	"Belongs to the peptidase T1B family"	"3.4.25.1"	NA	NA	NA	NA
+"KAF7790888.1"	"Proteasome subunit alpha type"	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7790888.1"	"Proteasome subunit alpha type"	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7790890.1"	NA	NA	NA	"GH135(25-257)"	"N"	"N"	"Y(1-23)"
+"KAF7790891.1"	NA	NA	NA	"GH135(21-109)"	"N"	"N"	"N"
+"KAF7790893.1"	"cAMP-dependent protein kinase regulatory subunit"	"Belongs to the cAMP-dependent kinase regulatory chain family"	NA	NA	NA	NA	NA
+"KAF7790899.1"	NA	"Belongs to the trans-sulfuration enzymes family"	NA	NA	NA	NA	NA
+"KAF7790903.1"	NA	"Belongs to the peptidase M18 family"	NA	NA	NA	NA	NA
+"KAF7790904.1"	NA	"Belongs to the iron/ascorbate-dependent oxidoreductase family"	NA	NA	NA	NA	NA
+"KAF7790905.1"	"Alpha-1,3-glucosyltransferase"	"Belongs to the ALG6/ALG8 glucosyltransferase family"	"2.4.1.-"	"GT57(1-386)"	"GT57"	"GT57"	"N"
+"KAF7790912.1"	"ER membrane protein complex subunit 3"	"Belongs to the EMC3 family"	NA	NA	NA	NA	NA
+"KAF7790944.1"	NA	NA	NA	"N"	"N"	"CBM50"	"N"
+"KAF7790964.1"	NA	NA	NA	"PL14(203-363)"	"N"	"N"	"Y(1-46)"
+"KAF7790965.1"	NA	NA	NA	"GT4(191-374)"	"GT4"	"GT4"	"N"
+"KAF7791024.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7791030.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7791039.1"	NA	"Belongs to the glycosyl hydrolase 31 family"	"3.2.1.-"	"GH31(1-232)"	"N"	"GH31"	"N"
+"KAF7791040.1"	NA	"Belongs to the glycosyl hydrolase 31 family"	"3.2.1.-"	"N"	"GH31"	"N"	"Y(1-20)"
+"KAF7791042.1"	NA	NA	NA	"GH5_12(29-578)"	"GH5"	"GH5_12"	"N"
+"KAF7791046.1"	"Eukaryotic translation initiation factor 2A"	"Belongs to the WD repeat EIF2A family"	NA	NA	NA	NA	NA
+"KAF7791053.1"	"Kinase"	"Belongs to the inositol phosphokinase (IPK) family"	"2.7.-.-"	NA	NA	NA	NA
+"KAF7791059.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	NA	NA	NA	NA
+"KAF7791061.1"	"Endonuclease III homolog"	"Belongs to the Nth/MutY family"	"4.2.99.18"	NA	NA	NA	NA
+"KAF7791061.1"	"Endonuclease III homolog"	"Belongs to the Nth/MutY family"	"3.2.2.-"	NA	NA	NA	NA
+"KAF7791063.1"	NA	NA	NA	"PL14_4(157-371)"	"PL14"	"N"	"Y(1-19)"
+"KAF7791064.1"	NA	NA	NA	"PL14_4(180-397)"	"N"	"N"	"Y(1-22)"
+"KAF7791065.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7791067.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7791069.1"	NA	NA	NA	"CBM13(165-286)+CBM13(245-385)"	"N"	"N"	"N"
+"KAF7791072.1"	"RuvB-like helicase"	"Belongs to the RuvB family"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7791079.1"	"Carboxypeptidase"	"Belongs to the peptidase S10 family"	"3.4.16.-"	NA	NA	NA	NA
+"KAF7791080.1"	"Carboxypeptidase"	"Belongs to the peptidase S10 family"	"3.4.16.-"	NA	NA	NA	NA
+"KAF7791096.1"	NA	"Belongs to the precorrin methyltransferase family"	NA	NA	NA	NA	NA
+"KAF7791107.1"	"Ubiquitin carboxyl-terminal hydrolase"	"Belongs to the peptidase C19 family"	"3.4.19.12"	NA	NA	NA	NA
+"KAF7791124.1"	"ATP-dependent DNA helicase"	"Belongs to the helicase family"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7791126.1"	NA	NA	NA	"N"	"N"	"GH27"	"N"
+"KAF7791131.1"	"Peptidyl-prolyl cis-trans isomerase"	"Belongs to the cyclophilin-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7791139.1"	"Terpene synthase"	"Belongs to the terpene synthase family"	"4.2.3.-"	NA	NA	NA	NA
+"KAF7791141.1"	NA	NA	NA	"N"	"N"	"GH27"	"N"
+"KAF7791146.1"	"60S ribosomal protein L8"	"Belongs to the eukaryotic ribosomal protein eL8 family"	NA	NA	NA	NA	NA
+"KAF7791150.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7791173.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7791180.1"	NA	NA	NA	"GH13_23(45-430)"	"GH13"	"GH13_40"	"N"
+"KAF7791182.1"	NA	NA	NA	"AA1_1(31-358)"	"AA1"	"AA1_1"	"Y(1-17)"
+"KAF7791183.1"	"Phospholipid-transporting ATPase"	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IV subfamily"	"7.6.2.1"	NA	NA	NA	NA
+"KAF7791193.1"	"Formate dehydrogenase"	"Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family"	"1.17.1.9"	NA	NA	NA	NA
+"KAF7791193.1"	"Formate dehydrogenase"	"Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family. FDH subfamily"	"1.17.1.9"	NA	NA	NA	NA
+"KAF7791195.1"	NA	NA	NA	"N"	"GT20+CBM20"	"N"	"N"
+"KAF7791196.1"	NA	NA	NA	"GT20(4-234)"	"GT20"	"GT20"	"N"
+"KAF7791198.1"	"60S acidic ribosomal protein P0"	"Belongs to the universal ribosomal protein uL10 family"	NA	NA	NA	NA	NA
+"KAF7791230.1"	"tRNA (guanine(37)-N1)-methyltransferase"	"Belongs to the TRM5 / TYW2 family"	"2.1.1.228"	NA	NA	NA	NA
+"KAF7791245.1"	"Autophagy-related protein"	"Belongs to the ATG8 family"	NA	NA	NA	NA	NA
+"KAF7791250.1"	"Carboxylic ester hydrolase"	"Belongs to the type-B carboxylesterase/lipase family"	"3.1.1.-"	NA	NA	NA	NA
+"KAF7791255.1"	NA	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7791258.1"	"Translation machinery-associated protein 20"	"Belongs to the TMA20 family"	NA	NA	NA	NA	NA
+"KAF7791266.1"	"Calcium-transporting ATPase"	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family"	"7.2.2.10"	"N"	"N"	"CBM50"	"N"
+"KAF7791277.1"	NA	"Belongs to the heat shock protein 70 family"	NA	NA	NA	NA	NA
+"KAF7791291.1"	"Arabinogalactan endo-beta-1,4-galactanase"	"Belongs to the glycosyl hydrolase 53 family"	"3.2.1.89"	"GH53(106-278)"	"N"	"GH53"	"Y(1-26)"
+"KAF7791294.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	NA	NA	NA	NA
+"KAF7791310.1"	"Nuclear cap-binding protein subunit 2"	"Belongs to the RRM NCBP2 family"	NA	NA	NA	NA	NA
+"KAF7791311.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7791312.1"	"Pyrroline-5-carboxylate reductase"	"Belongs to the pyrroline-5-carboxylate reductase family"	"1.5.1.2"	NA	NA	NA	NA
+"KAF7791313.1"	"UDP-N-acetylglucosamine transferase subunit ALG13"	"Belongs to the glycosyltransferase 28 family"	"2.4.1.141"	"GT28(18-139)"	"N"	"N"	"N"
+"KAF7791330.1"	"Replication protein A subunit"	"Belongs to the replication factor A protein 1 family"	NA	NA	NA	NA	NA
+"KAF7791331.1"	NA	"Belongs to the peptidase M16 family"	NA	NA	NA	NA	NA
+"KAF7791332.1"	"Cyclin-dependent kinases regulatory subunit"	"Belongs to the CKS family"	NA	NA	NA	NA	NA
+"KAF7791337.1"	"Replication protein A subunit"	"Belongs to the replication factor A protein 1 family"	NA	NA	NA	NA	NA
+"KAF7791339.1"	"3-hydroxyisobutyryl-CoA hydrolase, mitochondrial"	"Belongs to the enoyl-CoA hydratase/isomerase family"	"3.1.2.4"	NA	NA	NA	NA
+"KAF7791342.1"	NA	"Belongs to the class-V pyridoxal-phosphate-dependent aminotransferase family"	NA	NA	NA	NA	NA
+"KAF7791343.1"	"Glucanase"	"Belongs to the glycosyl hydrolase family 6"	"3.2.1.-"	"GH6(113-409)"	"GH6+CBM1"	"CBM1+GH6"	"Y(1-21)"
+"KAF7791343.1"	"Glucanase"	"Belongs to the glycosyl hydrolase family 6"	"3.2.1.-"	"GH6(113-409)"	"GH6+CBM1"	"CBM1+GH6"	"Y(1-21)"
+"KAF7791343.1"	"Glucanase"	"Belongs to the glycosyl hydrolase family 6"	"3.2.1.-"	"GH6(113-409)"	"GH6+CBM1"	"CBM1+GH6"	"Y(1-21)"
+"KAF7791352.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7791354.1"	"Elongator complex protein 1"	"Belongs to the ELP1/IKA1 family"	NA	NA	NA	NA	NA
+"KAF7791364.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7791366.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7791371.1"	NA	NA	NA	"AA3_2(2-423)"	"AA3"	"AA3_2"	"N"
+"KAF7791400.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7791402.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7791407.1"	"Carboxylic ester hydrolase"	"Belongs to the type-B carboxylesterase/lipase family"	"3.1.1.-"	NA	NA	NA	NA
+"KAF7791418.1"	"F-actin-capping protein subunit alpha"	"Belongs to the F-actin-capping protein alpha subunit family"	NA	NA	NA	NA	NA
+"KAF7791419.1"	"Isocitrate lyase"	"Belongs to the isocitrate lyase/PEP mutase superfamily. Isocitrate lyase family"	NA	NA	NA	NA	NA
+"KAF7791426.1"	"RNA cytidine acetyltransferase"	"Belongs to the RNA cytidine acetyltransferase family. NAT10 subfamily"	"2.3.1.-"	NA	NA	NA	NA
+"KAF7791436.1"	"DNA replication ATP-dependent helicase/nuclease"	"Belongs to the DNA2/NAM7 helicase family"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7791436.1"	"DNA replication ATP-dependent helicase/nuclease"	"Belongs to the DNA2/NAM7 helicase family"	"3.1.-.-"	NA	NA	NA	NA
+"KAF7791451.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7791457.1"	NA	"Belongs to the GDA1/CD39 NTPase family"	NA	NA	NA	NA	NA
+"KAF7791470.1"	"Glycerol-3-phosphate dehydrogenase"	"Belongs to the FAD-dependent glycerol-3-phosphate dehydrogenase family"	"1.1.5.3"	NA	NA	NA	NA
+"KAF7791473.1"	"Histone H3"	"Belongs to the histone H3 family"	NA	NA	NA	NA	NA
+"KAF7791485.1"	NA	"Belongs to the actin family"	NA	NA	NA	NA	NA
+"KAF7791495.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7791496.1"	NA	NA	NA	"N"	"N"	"GH18"	"N"
+"KAF7791497.1"	"Protein-S-isoprenylcysteine O-methyltransferase"	"Belongs to the class VI-like SAM-binding methyltransferase superfamily. Isoprenylcysteine carboxyl methyltransferase family"	"2.1.1.100"	NA	NA	NA	NA
+"KAF7791498.1"	"Protein-S-isoprenylcysteine O-methyltransferase"	"Belongs to the class VI-like SAM-binding methyltransferase superfamily. Isoprenylcysteine carboxyl methyltransferase family"	"2.1.1.100"	NA	NA	NA	NA
+"KAF7791499.1"	"Protein-S-isoprenylcysteine O-methyltransferase"	"Belongs to the class VI-like SAM-binding methyltransferase superfamily. Isoprenylcysteine carboxyl methyltransferase family"	"2.1.1.100"	NA	NA	NA	NA
+"KAF7791504.1"	"Glutamate dehydrogenase"	"Belongs to the Glu/Leu/Phe/Val dehydrogenases family"	NA	NA	NA	NA	NA
+"KAF7791504.1"	"Glutamate dehydrogenase"	"Belongs to the Glu/Leu/Phe/Val dehydrogenases family"	NA	NA	NA	NA	NA
+"KAF7791522.1"	"Protein-S-isoprenylcysteine O-methyltransferase"	"Belongs to the class VI-like SAM-binding methyltransferase superfamily. Isoprenylcysteine carboxyl methyltransferase family"	"2.1.1.100"	NA	NA	NA	NA
+"KAF7791526.1"	"Protein-S-isoprenylcysteine O-methyltransferase"	"Belongs to the class VI-like SAM-binding methyltransferase superfamily. Isoprenylcysteine carboxyl methyltransferase family"	"2.1.1.100"	NA	NA	NA	NA
+"KAF7791540.1"	"rRNA adenine N(6)-methyltransferase"	"Belongs to the class I-like SAM-binding methyltransferase superfamily. rRNA adenine N(6)-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7791540.1"	"rRNA adenine N(6)-methyltransferase"	"Belongs to the class I-like SAM-binding methyltransferase superfamily. rRNA adenine N(6)-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7791540.1"	"rRNA adenine N(6)-methyltransferase"	"Belongs to the class I-like SAM-binding methyltransferase superfamily. rRNA adenine N(6)-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7791540.1"	"rRNA adenine N(6)-methyltransferase"	"Belongs to the class I-like SAM-binding methyltransferase superfamily. rRNA adenine N(6)-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7791543.1"	"Peptide hydrolase"	"Belongs to the peptidase M28 family"	"3.4.-.-"	NA	NA	NA	NA
+"KAF7791545.1"	"Sugar phosphate phosphatase"	"Belongs to the damage-control phosphatase family. Sugar phosphate phosphatase III subfamily"	"3.1.3.-"	NA	NA	NA	NA
+"KAF7791546.1"	"Sugar phosphate phosphatase"	"Belongs to the damage-control phosphatase family. Sugar phosphate phosphatase III subfamily"	"3.1.3.-"	NA	NA	NA	NA
+"KAF7791552.1"	NA	NA	NA	"GT20(162-611)"	"GT20"	"GT20"	"Y(1-24)"
+"KAF7791565.1"	NA	NA	NA	"GH16_1(61-282)"	"N"	"N"	"Y(1-21)"
+"KAF7791566.1"	NA	NA	NA	"GH16_1(71-290)"	"N"	"N"	"Y(1-26)"
+"KAF7791567.1"	NA	NA	NA	"GH16_1(81-296)"	"N"	"N"	"Y(1-20)"
+"KAF7791574.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7791578.1"	NA	"Belongs to the OSBP family"	NA	NA	NA	NA	NA
+"KAF7791586.1"	NA	NA	NA	"AA7(37-224)"	"N"	"N"	"N"
+"KAF7791587.1"	"DNA-directed RNA polymerase subunit beta"	"Belongs to the RNA polymerase beta chain family"	"2.7.7.6"	"N"	"N"	"GT7"	"N"
+"KAF7791596.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7791597.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7791600.1"	"T-complex protein 1 subunit eta"	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7791600.1"	"T-complex protein 1 subunit eta"	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7791601.1"	"T-complex protein 1 subunit eta"	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7791601.1"	"T-complex protein 1 subunit eta"	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7791621.1"	NA	"Belongs to the GMC oxidoreductase family"	NA	"AA3_2(49-672)"	"N"	"N"	"N"
+"KAF7791625.1"	"Homoserine dehydrogenase"	"Belongs to the homoserine dehydrogenase family"	"1.1.1.3"	NA	NA	NA	NA
+"KAF7791627.1"	"Histone H2B"	"Belongs to the histone H2B family"	NA	NA	NA	NA	NA
+"KAF7791628.1"	"Histone H2A"	"Belongs to the histone H2A family"	NA	NA	NA	NA	NA
+"KAF7791631.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7791648.1"	NA	NA	NA	"AA9(15-218)"	"AA9"	"N"	"N"
+"KAF7791649.1"	NA	NA	NA	"AA9(1-106)"	"AA9"	"N"	"N"
+"KAF7791660.1"	NA	"Belongs to the SecY/SEC61-alpha family"	NA	NA	NA	NA	NA
+"KAF7791669.1"	"F-actin-capping protein subunit beta"	"Belongs to the F-actin-capping protein beta subunit family"	NA	NA	NA	NA	NA
+"KAF7791681.1"	"Peptidyl-prolyl cis-trans isomerase"	"Belongs to the cyclophilin-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7791693.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	"N"	"N"	"GH55"	"N"
+"KAF7791695.1"	"Protein-L-isoaspartate O-methyltransferase"	"Belongs to the methyltransferase superfamily. L-isoaspartyl/D-aspartyl protein methyltransferase family"	"2.1.1.77"	NA	NA	NA	NA
+"KAF7791701.1"	"4-hydroxybenzoate polyprenyltransferase, mitochondrial"	"Belongs to the UbiA prenyltransferase family"	"2.5.1.39"	NA	NA	NA	NA
+"KAF7791703.1"	"Endoplasmic reticulum junction formation protein lunapark"	"Belongs to the lunapark family"	NA	NA	NA	NA	NA
+"KAF7791708.1"	NA	"Belongs to the peroxiredoxin family"	NA	"N"	"GH18"	"N"	"N"
+"KAF7791719.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_50(85-379)"	"GH5"	"GH5_50"	"N"
+"KAF7791726.1"	"Calmodulin"	"Belongs to the calmodulin family"	NA	NA	NA	NA	NA
+"KAF7791727.1"	NA	NA	NA	"AA3_2(18-248)"	"N"	"N"	"N"
+"KAF7791728.1"	NA	NA	NA	"AA3(75-658)"	"N"	"AA3_2"	"N"
+"KAF7791730.1"	"Eukaryotic translation initiation factor 3 subunit J"	"Belongs to the eIF-3 subunit J family"	NA	NA	NA	NA	NA
+"KAF7791745.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7791759.1"	"Trehalase"	"Belongs to the glycosyl hydrolase 37 family"	"3.2.1.28"	"GH37(150-721)"	"GH37"	"GH37"	"N"
+"KAF7791766.1"	NA	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family"	NA	"GT2_Chitin_synth_2(1235-1737)"	"GT2"	"GT2"	"N"
+"KAF7791776.1"	"Vacuolar protein sorting-associated protein 41"	"Belongs to the VPS41 family"	NA	NA	NA	NA	NA
+"KAF7791780.1"	"40S ribosomal protein S12"	"Belongs to the eukaryotic ribosomal protein eS12 family"	NA	NA	NA	NA	NA
+"KAF7791810.1"	NA	NA	NA	"AA7(29-453)"	"N"	"N"	"N"
+"KAF7791823.1"	NA	"Belongs to the thiolase-like superfamily. Thiolase family"	NA	NA	NA	NA	NA
+"KAF7791826.1"	NA	"Belongs to the universal ribosomal protein uS3 family"	NA	NA	NA	NA	NA
+"KAF7791828.1"	NA	NA	NA	"PL8(237-484)"	"N"	"PL8_4"	"N"
+"KAF7791829.1"	NA	NA	NA	"PL8(2-244)"	"N"	"N"	"N"
+"KAF7791841.1"	"Ribosomal protein L15"	"Belongs to the eukaryotic ribosomal protein eL15 family"	NA	NA	NA	NA	NA
+"KAF7791845.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7791849.1"	NA	"Belongs to the actin family"	NA	NA	NA	NA	NA
+"KAF7791850.1"	"40S ribosomal protein S24"	"Belongs to the eukaryotic ribosomal protein eS24 family"	NA	NA	NA	NA	NA
+"KAF7791854.1"	"DNA polymerase"	"Belongs to the DNA polymerase type-B family"	"2.7.7.7"	NA	NA	NA	NA
+"KAF7791865.1"	"Elongation of fatty acids protein"	"Belongs to the ELO family"	"2.3.1.199"	NA	NA	NA	NA
+"KAF7791871.1"	NA	"Belongs to the ClpA/ClpB family"	NA	"N"	"N"	"GH6"	"N"
+"KAF7791875.1"	NA	NA	NA	"AA7(135-326)"	"N"	"N"	"N"
+"KAF7791876.1"	NA	NA	NA	"AA7(150-593)"	"N"	"N"	"N"
+"KAF7791891.1"	"DNA ligase"	"Belongs to the ATP-dependent DNA ligase family"	"6.5.1.1"	NA	NA	NA	NA
+"KAF7791893.1"	"Elongation factor 1-alpha"	"Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. EF-Tu/EF-1A subfamily"	NA	NA	NA	NA	NA
+"KAF7791899.1"	"U6 snRNA-associated Sm-like protein LSm1"	"Belongs to the snRNP Sm proteins family"	NA	NA	NA	NA	NA
+"KAF7791905.1"	"Aspartate aminotransferase"	NA	"2.6.1.1"	NA	NA	NA	NA
+"KAF7791911.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7791914.1"	NA	NA	NA	"N"	"N"	"CE3"	"N"
+"KAF7791918.1"	"Golgi apparatus membrane protein TVP23"	"Belongs to the TVP23 family"	NA	NA	NA	NA	NA
+"KAF7791920.1"	"NADH-cytochrome b5 reductase"	"Belongs to the flavoprotein pyridine nucleotide cytochrome reductase family"	"1.6.2.2"	NA	NA	NA	NA
+"KAF7791931.1"	NA	"Belongs to the cyclin family"	NA	NA	NA	NA	NA
+"KAF7791936.1"	"Eukaryotic translation initiation factor 3 subunit K"	"Belongs to the eIF-3 subunit K family"	NA	NA	NA	NA	NA
+"KAF7791939.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7791940.1"	"Pescadillo homolog"	"Belongs to the pescadillo family"	NA	NA	NA	NA	NA
+"KAF7791949.1"	NA	NA	NA	"PL38(243-493)"	"N"	"N"	"Y(1-22)"
+"KAF7791956.1"	NA	"Belongs to the cyclin family"	NA	NA	NA	NA	NA
+"KAF7791988.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(45-221)"	"AA2"	"AA2"	"Y(1-28)"
+"KAF7791988.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(45-221)"	"AA2"	"AA2"	"Y(1-28)"
+"KAF7791988.1"	"Peroxidase"	"Belongs to the peroxidase family. Ligninase subfamily"	"1.11.1.-"	"AA2(45-221)"	"AA2"	"AA2"	"Y(1-28)"
+"KAF7791989.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(43-306)"	"AA2"	"AA2"	"Y(1-21)"
+"KAF7791989.1"	"Peroxidase"	"Belongs to the peroxidase family. Ligninase subfamily"	"1.11.1.-"	"AA2(43-306)"	"AA2"	"AA2"	"Y(1-21)"
+"KAF7791989.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(43-306)"	"AA2"	"AA2"	"Y(1-21)"
+"KAF7791990.1"	NA	"Belongs to the peptidase M48 family"	NA	NA	NA	NA	NA
+"KAF7791992.1"	NA	"Belongs to the SMC family"	NA	NA	NA	NA	NA
+"KAF7791993.1"	NA	NA	NA	"GH105(137-337)"	"N"	"N"	"Y(1-22)"
+"KAF7791999.1"	"NADPH:adrenodoxin oxidoreductase, mitochondrial"	"Belongs to the ferredoxin--NADP reductase type 1 family"	"1.18.1.6"	NA	NA	NA	NA
+"KAF7792005.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7792010.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7792015.1"	"GPN-loop GTPase"	"Belongs to the GPN-loop GTPase family"	"3.6.5.-"	NA	NA	NA	NA
+"KAF7792027.1"	NA	"Belongs to the glycosyl hydrolase 1 family"	"3.2.1.-"	"GH1(97-315)"	"N"	"GH1"	"N"
+"KAF7792028.1"	NA	"Belongs to the glycosyl hydrolase 1 family"	NA	"N"	"GH1"	"N"	"N"
+"KAF7792031.1"	"Acetyl-coenzyme A synthetase"	"Belongs to the ATP-dependent AMP-binding enzyme family"	"6.2.1.1"	NA	NA	NA	NA
+"KAF7792033.1"	"Acetyl-coenzyme A synthetase"	"Belongs to the ATP-dependent AMP-binding enzyme family"	"6.2.1.1"	NA	NA	NA	NA
+"KAF7792035.1"	"Probable cytosolic iron-sulfur protein assembly protein 1"	"Belongs to the WD repeat CIA1 family"	NA	NA	NA	NA	NA
+"KAF7792037.1"	NA	NA	NA	"GT1(67-486)"	"N"	"N"	"N"
+"KAF7792043.1"	NA	"Belongs to the glycosyl hydrolase 18 family"	"3.2.1.-"	"GH18(87-444)"	"GH18"	"GH18"	"Y(1-20)"
+"KAF7792050.1"	"Phosphoinositide phospholipase C"	NA	"3.1.4.11"	NA	NA	NA	NA
+"KAF7792051.1"	NA	"Belongs to the glycosyl hydrolase 18 family"	"3.2.1.-"	"GH18(34-405)"	"N"	"GH18"	"Y(1-19)"
+"KAF7792052.1"	"MICOS complex subunit MIC10"	"Belongs to the MICOS complex subunit Mic10 family"	NA	NA	NA	NA	NA
+"KAF7792064.1"	NA	"Belongs to the cyclin family"	NA	NA	NA	NA	NA
+"KAF7792066.1"	NA	NA	NA	"GH3(136-340)"	"GH3"	"GH3"	"Y(1-23)"
+"KAF7792073.1"	"CTP synthase"	"Belongs to the CTP synthase family"	"6.3.4.2"	NA	NA	NA	NA
+"KAF7792077.1"	"Exocyst complex component SEC5"	"Belongs to the SEC5 family"	NA	NA	NA	NA	NA
+"KAF7792078.1"	"Exocyst complex component SEC5"	"Belongs to the SEC5 family"	NA	NA	NA	NA	NA
+"KAF7792079.1"	"Ceramide very long chain fatty acid hydroxylase"	"Belongs to the sterol desaturase family. SCS7 subfamily"	"1.-.-.-"	NA	NA	NA	NA
+"KAF7792083.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7792089.1"	"Adenine DNA glycosylase"	"Belongs to the Nth/MutY family"	"3.2.2.31"	NA	NA	NA	NA
+"KAF7792095.1"	"Phosphotransferase"	"Belongs to the hexokinase family"	"2.7.1.-"	NA	NA	NA	NA
+"KAF7792096.1"	"ATP synthase subunit d, mitochondrial"	"Belongs to the ATPase d subunit family"	NA	NA	NA	NA	NA
+"KAF7792098.1"	NA	"Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin-like GTPase superfamily. TrmE GTPase family"	NA	NA	NA	NA	NA
+"KAF7792102.1"	"Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST2"	"Belongs to the DAD/OST2 family"	NA	NA	NA	NA	NA
+"KAF7792116.1"	"Cytoplasmic tRNA 2-thiolation protein 1"	"Belongs to the TtcA family. CTU1/NCS6/ATPBD3 subfamily"	"2.7.7.-"	NA	NA	NA	NA
+"KAF7792125.1"	"KRR1 small subunit processome component"	"Belongs to the KRR1 family"	NA	NA	NA	NA	NA
+"KAF7792128.1"	"Proteasome subunit alpha type"	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7792128.1"	"Proteasome subunit alpha type"	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7792131.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7792132.1"	"Proteasome subunit alpha type"	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7792132.1"	"Proteasome subunit alpha type"	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7792156.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7792176.1"	"DNA replication ATP-dependent helicase/nuclease"	"Belongs to the DNA2/NAM7 helicase family"	"3.1.-.-"	NA	NA	NA	NA
+"KAF7792176.1"	"DNA replication ATP-dependent helicase/nuclease"	"Belongs to the DNA2/NAM7 helicase family"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7792179.1"	"NEDD8-activating enzyme E1 regulatory subunit"	"Belongs to the ubiquitin-activating E1 family. ULA1 subfamily"	NA	NA	NA	NA	NA
+"KAF7792187.1"	NA	"Belongs to the argonaute family"	NA	NA	NA	NA	NA
+"KAF7792196.1"	NA	NA	NA	"AA5(114-630)"	"AA5"	"AA5_1"	"N"
+"KAF7792203.1"	NA	"Belongs to the enoyl-CoA hydratase/isomerase family"	NA	NA	NA	NA	NA
+"KAF7792205.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7792218.1"	"Electron transfer flavoprotein-ubiquinone oxidoreductase"	NA	"1.5.5.1"	NA	NA	NA	NA
+"KAF7792219.1"	"Electron transfer flavoprotein-ubiquinone oxidoreductase"	NA	"1.5.5.1"	NA	NA	NA	NA
+"KAF7792233.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7792236.1"	"Proteasome subunit beta"	"Belongs to the peptidase T1B family"	"3.4.25.1"	NA	NA	NA	NA
+"KAF7792243.1"	NA	"Belongs to the ubiquitin-conjugating enzyme family"	"2.3.2.-"	NA	NA	NA	NA
+"KAF7792263.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7792266.1"	"Glycylpeptide N-tetradecanoyltransferase"	"Belongs to the NMT family"	"2.3.1.97"	NA	NA	NA	NA
+"KAF7792267.1"	NA	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family"	NA	NA	NA	NA	NA
+"KAF7792270.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7792273.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7792277.1"	"Eukaryotic translation initiation factor 3 subunit C"	"Belongs to the eIF-3 subunit C family"	NA	NA	NA	NA	NA
+"KAF7792281.1"	"Adenylyl-sulfate kinase"	"Belongs to the APS kinase family"	"2.7.1.25"	NA	NA	NA	NA
+"KAF7792283.1"	NA	NA	NA	"AA2(45-244)"	"AA2"	"AA2"	"N"
+"KAF7792302.1"	"Ribosome biogenesis protein NSA2 homolog"	"Belongs to the eukaryotic ribosomal protein eS8 family. Ribosome biogenesis protein NSA2 subfamily"	NA	NA	NA	NA	NA
+"KAF7792310.1"	"Trafficking protein particle complex subunit"	"Belongs to the TRAPP small subunits family"	NA	NA	NA	NA	NA
+"KAF7792319.1"	"ATP-dependent RNA helicase DBP10"	"Belongs to the DEAD box helicase family. DDX54/DBP10 subfamily"	"3.6.4.13"	NA	NA	NA	NA
+"KAF7792327.1"	"Transmembrane 9 superfamily member"	"Belongs to the nonaspanin (TM9SF) (TC 9.A.2) family"	NA	NA	NA	NA	NA
+"KAF7792328.1"	"Tyrosine--tRNA ligase"	"Belongs to the class-I aminoacyl-tRNA synthetase family"	"6.1.1.1"	NA	NA	NA	NA
+"KAF7792328.1"	"Tyrosine--tRNA ligase"	"Belongs to the class-I aminoacyl-tRNA synthetase family"	"6.1.1.1"	NA	NA	NA	NA
+"KAF7792336.1"	"Histone acetyltransferase"	"Belongs to the MYST (SAS/MOZ) family"	"2.3.1.48"	"N"	"N"	"GH125"	"N"
+"KAF7792347.1"	NA	"Belongs to the universal ribosomal protein uS9 family"	NA	NA	NA	NA	NA
+"KAF7792349.1"	"E3 ubiquitin protein ligase"	"Belongs to the BRE1 family"	"2.3.2.27"	NA	NA	NA	NA
+"KAF7792352.1"	NA	NA	"2.1.1.-"	NA	NA	NA	NA
+"KAF7792371.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(45-304)"	"AA2"	"AA2"	"Y(1-22)"
+"KAF7792371.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(45-304)"	"AA2"	"AA2"	"Y(1-22)"
+"KAF7792371.1"	"Peroxidase"	"Belongs to the peroxidase family. Ligninase subfamily"	"1.11.1.-"	"AA2(45-304)"	"AA2"	"AA2"	"Y(1-22)"
+"KAF7792375.1"	"Cysteine proteinase 1, mitochondrial"	"Belongs to the peptidase C1 family"	"3.4.22.40"	NA	NA	NA	NA
+"KAF7792385.1"	"Ferrochelatase"	"Belongs to the ferrochelatase family"	"4.99.1.1"	NA	NA	NA	NA
+"KAF7792385.1"	"Ferrochelatase"	"Belongs to the ferrochelatase family"	"4.99.1.1"	NA	NA	NA	NA
+"KAF7792388.1"	NA	"Belongs to the ferrochelatase family"	NA	NA	NA	NA	NA
+"KAF7792392.1"	NA	NA	NA	"PL14_5(95-305)"	"PL14"	"N"	"Y(1-22)"
+"KAF7792396.1"	"Peptide hydrolase"	"Belongs to the peptidase M28 family"	"3.4.-.-"	NA	NA	NA	NA
+"KAF7792400.1"	NA	"Belongs to the glycosyl hydrolase 18 family"	"3.2.1.-"	"GH18(14-332)"	"GH18"	"GH18"	"N"
+"KAF7792406.1"	"DNA ligase"	"Belongs to the ATP-dependent DNA ligase family"	"6.5.1.1"	NA	NA	NA	NA
+"KAF7792410.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7792419.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7792423.1"	NA	"Belongs to the MIP/aquaporin (TC 1.A.8) family"	NA	NA	NA	NA	NA
+"KAF7792467.1"	"Kinesin-like protein"	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	NA	NA	NA	NA
+"KAF7792467.1"	"Kinesin-like protein"	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	NA	NA	NA	NA
+"KAF7792471.1"	NA	NA	NA	"GT59(29-312)"	"GT59"	"N"	"N"
+"KAF7792474.1"	"Pre-mRNA-processing factor 19"	"Belongs to the WD repeat PRP19 family"	"2.3.2.27"	NA	NA	NA	NA
+"KAF7792477.1"	"Catalase"	"Belongs to the catalase family"	"1.11.1.6"	NA	NA	NA	NA
+"KAF7792477.1"	"Catalase"	"Belongs to the catalase family"	"1.11.1.6"	NA	NA	NA	NA
+"KAF7792477.1"	"Catalase"	"Belongs to the catalase family"	"1.11.1.6"	NA	NA	NA	NA
+"KAF7792477.1"	"Catalase"	"Belongs to the catalase family"	"1.11.1.6"	NA	NA	NA	NA
+"KAF7792477.1"	"Catalase"	"Belongs to the catalase family"	"1.11.1.6"	NA	NA	NA	NA
+"KAF7792477.1"	"Catalase"	"Belongs to the catalase family"	"1.11.1.6"	NA	NA	NA	NA
+"KAF7792477.1"	"Catalase"	"Belongs to the catalase family"	"1.11.1.6"	NA	NA	NA	NA
+"KAF7792477.1"	"Catalase"	"Belongs to the catalase family"	"1.11.1.6"	NA	NA	NA	NA
+"KAF7792479.1"	"Sterol 3-beta-glucosyltransferase"	"Belongs to the glycosyltransferase 28 family"	"2.4.1.173"	"GT1(836-1256)"	"GT1"	"GT1"	"N"
+"KAF7792492.1"	"Carbonic anhydrase"	"Belongs to the beta-class carbonic anhydrase family"	"4.2.1.1"	NA	NA	NA	NA
+"KAF7792495.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7792498.1"	NA	"Belongs to the MCM family"	NA	NA	NA	NA	NA
+"KAF7792507.1"	NA	NA	NA	"N"	"N"	"GH146"	"N"
+"KAF7792508.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7792523.1"	NA	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7792531.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7792532.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7792533.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7792535.1"	"UDP-glucose 4-epimerase"	"Belongs to the NAD(P)-dependent epimerase/dehydratase family"	"5.1.3.2"	NA	NA	NA	NA
+"KAF7792545.1"	"AP-3 complex subunit delta"	"Belongs to the adaptor complexes large subunit family"	NA	NA	NA	NA	NA
+"KAF7792574.1"	NA	NA	NA	"N"	"GT1"	"N"	"N"
+"KAF7792575.1"	NA	"Belongs to the metallo-dependent hydrolases superfamily. Adenosine and AMP deaminases family"	NA	NA	NA	NA	NA
+"KAF7792592.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7792599.1"	"Vacuolar fusion protein MON1"	"Belongs to the MON1/SAND family"	NA	NA	NA	NA	NA
+"KAF7792611.1"	NA	"Belongs to the cullin family"	NA	NA	NA	NA	NA
+"KAF7792611.1"	NA	"Belongs to the cullin family"	NA	NA	NA	NA	NA
+"KAF7792615.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7792616.1"	NA	"Belongs to the peptidase M3 family"	NA	NA	NA	NA	NA
+"KAF7792617.1"	NA	"Belongs to the peptidase M3 family"	NA	NA	NA	NA	NA
+"KAF7792621.1"	NA	"Belongs to the peptidase M3 family"	NA	NA	NA	NA	NA
+"KAF7792642.1"	"Pyridoxal phosphate homeostasis protein"	"Belongs to the pyridoxal phosphate-binding protein YggS/PROSC family"	NA	NA	NA	NA	NA
+"KAF7792642.1"	"Pyridoxal phosphate homeostasis protein"	"Belongs to the pyridoxal phosphate-binding protein YggS/PROSC family"	NA	NA	NA	NA	NA
+"KAF7792647.1"	"Triosephosphate isomerase"	"Belongs to the triosephosphate isomerase family"	"5.3.1.1"	NA	NA	NA	NA
+"KAF7792655.1"	NA	NA	NA	"N"	"N"	"GH18"	"N"
+"KAF7792662.1"	NA	"Belongs to the universal ribosomal protein uS11 family"	NA	NA	NA	NA	NA
+"KAF7792682.1"	"Ubiquitin-activating enzyme E1-like"	"Belongs to the ubiquitin-activating E1 family"	NA	NA	NA	NA	NA
+"KAF7792686.1"	NA	NA	NA	"GH95(1-810)"	"GH95"	"GH95"	"N"
+"KAF7792687.1"	NA	NA	NA	"GH16_4(552-891)"	"N"	"N"	"N"
+"KAF7792688.1"	NA	NA	NA	"GT2_Glyco_trans_2_3(667-885)"	"GT0"	"GT0"	"N"
+"KAF7792696.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7792703.1"	"Transaldolase"	NA	"2.2.1.2"	NA	NA	NA	NA
+"KAF7792707.1"	NA	NA	NA	"AA3(15-518)"	"N"	"N"	"N"
+"KAF7792711.1"	"Proteasome subunit beta"	"Belongs to the peptidase T1B family"	"3.4.25.1"	NA	NA	NA	NA
+"KAF7792719.1"	"Ubiquitin-like protein ATG12"	"Belongs to the ATG12 family"	NA	NA	NA	NA	NA
+"KAF7792722.1"	"Clathrin light chain"	"Belongs to the clathrin light chain family"	NA	NA	NA	NA	NA
+"KAF7792735.1"	NA	NA	NA	"GT8(3-143)"	"N"	"N"	"N"
+"KAF7792736.1"	NA	NA	NA	"GT8(41-187)"	"N"	"N"	"Y(1-31)"
+"KAF7792737.1"	NA	NA	NA	"GT8(85-304)"	"N"	"N"	"N"
+"KAF7792744.1"	NA	"Belongs to the FMN-dependent alpha-hydroxy acid dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7792747.1"	NA	"Belongs to the cytochrome b5 family"	NA	NA	NA	NA	NA
+"KAF7792747.1"	NA	"Belongs to the FMN-dependent alpha-hydroxy acid dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7792750.1"	"Leucine carboxyl methyltransferase 1"	"Belongs to the methyltransferase superfamily. LCMT family"	"2.1.1.233"	NA	NA	NA	NA
+"KAF7792754.1"	"Mitochondrial import inner membrane translocase subunit TIM22"	"Belongs to the Tim17/Tim22/Tim23 family"	NA	NA	NA	NA	NA
+"KAF7792777.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7792787.1"	"Eukaryotic translation initiation factor 3 subunit L"	"Belongs to the eIF-3 subunit L family"	NA	NA	NA	NA	NA
+"KAF7792791.1"	NA	NA	NA	"N"	"N"	"GH23"	"N"
+"KAF7792802.1"	"Ribosome biogenesis protein ERB1"	"Belongs to the WD repeat BOP1/ERB1 family"	NA	"N"	"N"	"CE8"	"N"
+"KAF7792805.1"	NA	"Belongs to the MT-A70-like family"	NA	NA	NA	NA	NA
+"KAF7792808.1"	NA	NA	NA	"GT76(27-417)"	"N"	"N"	"N"
+"KAF7792809.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7792815.1"	NA	"Belongs to the GST superfamily"	NA	NA	NA	NA	NA
+"KAF7792827.1"	NA	"Belongs to the 14-3-3 family"	NA	NA	NA	NA	NA
+"KAF7792834.1"	"Mitochondrial distribution and morphology protein 34"	"Belongs to the MDM34 family"	NA	NA	NA	NA	NA
+"KAF7792841.1"	"Vesicular-fusion protein SEC18"	"Belongs to the AAA ATPase family"	"3.6.4.6"	NA	NA	NA	NA
+"KAF7792843.1"	"Eukaryotic translation initiation factor 3 subunit M"	"Belongs to the eIF-3 subunit M family"	NA	NA	NA	NA	NA
+"KAF7792848.1"	"Ribosome biogenesis regulatory protein"	"Belongs to the RRS1 family"	NA	NA	NA	NA	NA
+"KAF7792865.1"	NA	NA	NA	"GH3(34-221)"	"GH3"	"GH3"	"N"
+"KAF7792867.1"	"Eukaryotic translation initiation factor 3 subunit F"	"Belongs to the eIF-3 subunit F family"	NA	NA	NA	NA	NA
+"KAF7792871.1"	NA	"Belongs to the MCM family"	NA	NA	NA	NA	NA
+"KAF7792875.1"	"DNA replication complex GINS protein PSF2"	"Belongs to the GINS2/PSF2 family"	NA	NA	NA	NA	NA
+"KAF7792877.1"	"Actin-related protein 2/3 complex subunit 3"	"Belongs to the ARPC3 family"	NA	NA	NA	NA	NA
+"KAF7792878.1"	"20S-pre-rRNA D-site endonuclease NOB1"	"Belongs to the NOB1 family"	NA	NA	NA	NA	NA
+"KAF7792886.1"	"Peroxin-14"	"Belongs to the peroxin-14 family"	NA	NA	NA	NA	NA
+"KAF7792890.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7792891.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7792897.1"	"3-isopropylmalate dehydrogenase"	"Belongs to the isocitrate and isopropylmalate dehydrogenases family"	"1.1.1.85"	NA	NA	NA	NA
+"KAF7792898.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7792901.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7792903.1"	"Threonylcarbamoyl-AMP synthase"	"Belongs to the SUA5 family"	"2.7.7.87"	NA	NA	NA	NA
+"KAF7792921.1"	"Orotidine 5'-phosphate decarboxylase"	"Belongs to the OMP decarboxylase family"	"4.1.1.23"	NA	NA	NA	NA
+"KAF7792952.1"	NA	NA	NA	"CE16(21-283)+CE16(325-566)"	"N"	"N"	"N"
+"KAF7792957.1"	"Transcription elongation factor Spt6"	"Belongs to the SPT6 family"	NA	NA	NA	NA	NA
+"KAF7792960.1"	"Polyadenylate-binding protein"	"Belongs to the polyadenylate-binding protein type-1 family"	NA	NA	NA	NA	NA
+"KAF7792965.1"	"GTP:AMP phosphotransferase, mitochondrial"	"Belongs to the adenylate kinase family. AK3 subfamily"	"2.7.4.10"	NA	NA	NA	NA
+"KAF7792965.1"	"GTP:AMP phosphotransferase, mitochondrial"	"Belongs to the adenylate kinase family"	"2.7.4.10"	NA	NA	NA	NA
+"KAF7792967.1"	"Chromosome segregation in meiosis protein"	"Belongs to the CSM3 family"	NA	NA	NA	NA	NA
+"KAF7792973.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7792977.1"	"GTP-binding nuclear protein"	"Belongs to the small GTPase superfamily. Ran family"	NA	NA	NA	NA	NA
+"KAF7792984.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7792988.1"	NA	NA	NA	"GT48(744-1512)"	"GT48"	"GT48"	"N"
+"KAF7792990.1"	"Protein phosphatase"	"Belongs to the PP2C family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7792994.1"	"Dipeptidyl peptidase 3"	"Belongs to the peptidase M49 family"	"3.4.14.4"	NA	NA	NA	NA
+"KAF7793001.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7793014.1"	"Methionine aminopeptidase"	"Belongs to the peptidase M24A family"	"3.4.11.18"	NA	NA	NA	NA
+"KAF7793014.1"	"Methionine aminopeptidase"	"Belongs to the peptidase M24A family. Methionine aminopeptidase type 1 subfamily"	"3.4.11.18"	NA	NA	NA	NA
+"KAF7793026.1"	"Kynureninase"	"Belongs to the kynureninase family"	"3.7.1.3"	NA	NA	NA	NA
+"KAF7793026.1"	"Kynureninase"	"Belongs to the kynureninase family"	"3.7.1.3"	NA	NA	NA	NA
+"KAF7793026.1"	"Kynureninase"	"Belongs to the kynureninase family"	"3.7.1.3"	NA	NA	NA	NA
+"KAF7793026.1"	"Kynureninase"	"Belongs to the kynureninase family"	"3.7.1.3"	NA	NA	NA	NA
+"KAF7793026.1"	"Kynureninase"	"Belongs to the kynureninase family"	"3.7.1.3"	NA	NA	NA	NA
+"KAF7793026.1"	"Kynureninase"	"Belongs to the kynureninase family"	"3.7.1.3"	NA	NA	NA	NA
+"KAF7793026.1"	"Kynureninase"	"Belongs to the kynureninase family"	"3.7.1.3"	NA	NA	NA	NA
+"KAF7793026.1"	"Kynureninase"	"Belongs to the kynureninase family"	"3.7.1.3"	NA	NA	NA	NA
+"KAF7793029.1"	"AP complex subunit beta"	"Belongs to the adaptor complexes large subunit family"	NA	NA	NA	NA	NA
+"KAF7793034.1"	NA	NA	NA	"N"	"N"	"CE3"	"N"
+"KAF7793035.1"	NA	"Belongs to the pirin family"	NA	NA	NA	NA	NA
+"KAF7793036.1"	"Alternative oxidase"	"Belongs to the alternative oxidase family"	"1.-.-.-"	NA	NA	NA	NA
+"KAF7793037.1"	NA	NA	NA	"AA1_2(2-271)"	"AA1"	"AA1_2"	"N"
+"KAF7793045.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. RsmB/NOP family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7793073.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7793080.1"	"Succinyl-CoA:3-ketoacid-coenzyme A transferase"	"Belongs to the 3-oxoacid CoA-transferase family"	"2.8.3.5"	NA	NA	NA	NA
+"KAF7793084.1"	NA	NA	NA	"GH5_9(331-638)"	"GH5"	"GH5_9"	"N"
+"KAF7793086.1"	NA	NA	NA	"GH55(41-762)"	"GH0+GH55"	"GH55"	"Y(1-24)"
+"KAF7793094.1"	"Phospholipid scramblase"	"Belongs to the phospholipid scramblase family"	NA	NA	NA	NA	NA
+"KAF7793104.1"	"Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase"	NA	"2.4.1.258"	NA	NA	NA	NA
+"KAF7793108.1"	"Aspartate aminotransferase"	NA	"2.6.1.1"	NA	NA	NA	NA
+"KAF7793112.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_50(158-439)"	"N"	"GH5_50"	"N"
+"KAF7793117.1"	NA	"Belongs to the thiolase-like superfamily. Thiolase family"	NA	NA	NA	NA	NA
+"KAF7793118.1"	NA	"Belongs to the Nudix hydrolase family"	NA	NA	NA	NA	NA
+"KAF7793122.1"	NA	NA	NA	"GH13_22(98-499)+GH13_22(1153-1619)"	"GT5"	"GH13_22+GT5"	"Y(1-20)"
+"KAF7793124.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Trm1 family"	"2.1.1.216"	NA	NA	NA	NA
+"KAF7793126.1"	"mRNA cleavage and polyadenylation factor"	"Belongs to the Clp1 family. Clp1 subfamily"	NA	NA	NA	NA	NA
+"KAF7793130.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	"N"	"N"	"GT22"	"N"
+"KAF7793141.1"	"DNA-(apurinic or apyrimidinic site) endonuclease"	"Belongs to the DNA repair enzymes AP/ExoA family"	"3.1.-.-"	NA	NA	NA	NA
+"KAF7793143.1"	NA	NA	NA	"AA3_2(1-283)"	"N"	"N"	"N"
+"KAF7793151.1"	"Mannosyltransferase"	"Belongs to the glycosyltransferase 22 family"	"2.4.1.-"	"GT22(2-278)"	"GT22"	"N"	"N"
+"KAF7793156.1"	"ATP-dependent DNA helicase"	"Belongs to the DEAD box helicase family. DEAH subfamily. FANCM sub-subfamily"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7793157.1"	NA	NA	NA	"AA5_1(442-899)"	"AA5"	"AA5_1"	"N"
+"KAF7793160.1"	NA	"Belongs to the universal ribosomal protein uS13 family"	NA	NA	NA	NA	NA
+"KAF7793166.1"	NA	NA	NA	"GH47(24-225)"	"N"	"N"	"N"
+"KAF7793168.1"	"alpha-1,2-Mannosidase"	"Belongs to the glycosyl hydrolase 47 family"	"3.2.1.-"	"GH47(93-576)"	"GH47"	"GH47"	"N"
+"KAF7793170.1"	"Ubiquitin thioesterase OTU1"	NA	"3.4.19.12"	NA	NA	NA	NA
+"KAF7793173.1"	"Citrate synthase"	"Belongs to the citrate synthase family"	NA	NA	NA	NA	NA
+"KAF7793177.1"	"DNA primase large subunit"	"Belongs to the eukaryotic-type primase large subunit family"	NA	NA	NA	NA	NA
+"KAF7793178.1"	NA	"Belongs to the CDP-alcohol phosphatidyltransferase class-I family"	NA	NA	NA	NA	NA
+"KAF7793182.1"	"CDP-diacylglycerol--inositol 3-phosphatidyltransferase"	"Belongs to the CDP-alcohol phosphatidyltransferase class-I family"	"2.7.8.11"	NA	NA	NA	NA
+"KAF7793182.1"	"CDP-diacylglycerol--inositol 3-phosphatidyltransferase"	"Belongs to the CDP-alcohol phosphatidyltransferase class-I family"	"2.7.8.11"	NA	NA	NA	NA
+"KAF7793189.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7793201.1"	"Dolichyl-phosphate-mannose--protein mannosyltransferase"	"Belongs to the glycosyltransferase 39 family"	"2.4.1.109"	"GT39(143-246)"	"GT39"	"GT39"	"N"
+"KAF7793210.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7793211.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7793212.1"	NA	NA	NA	"GT15(74-344)"	"GT15"	"GT15"	"N"
+"KAF7793215.1"	"Protein transport protein sec16"	"Belongs to the SEC16 family"	NA	NA	NA	NA	NA
+"KAF7793218.1"	NA	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	"N"	"CBM57"	"N"	"N"
+"KAF7793219.1"	"Transcription elongation factor 1 homolog"	"Belongs to the ELOF1 family"	NA	NA	NA	NA	NA
+"KAF7793220.1"	"Kinesin-like protein"	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	"N"	"CBM57"	"N"	"N"
+"KAF7793220.1"	"Kinesin-like protein"	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	"N"	"CBM57"	"N"	"N"
+"KAF7793238.1"	"S-adenosylmethionine synthase"	"Belongs to the AdoMet synthase family"	"2.5.1.6"	NA	NA	NA	NA
+"KAF7793246.1"	NA	NA	NA	"N"	"N"	"GT8"	"N"
+"KAF7793267.1"	NA	"Belongs to the eIF-2B alpha/beta/delta subunits family"	NA	NA	NA	NA	NA
+"KAF7793268.1"	"Tryptophan synthase"	NA	"4.2.1.20"	NA	NA	NA	NA
+"KAF7793277.1"	"Amidophosphoribosyltransferase"	"In the C-terminal section; belongs to the purine/pyrimidine phosphoribosyltransferase family"	"2.4.2.14"	NA	NA	NA	NA
+"KAF7793283.1"	"Fanconi-associated nuclease"	"Belongs to the FAN1 family"	"3.1.4.1"	NA	NA	NA	NA
+"KAF7793287.1"	"Phospholipid-transporting ATPase"	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IV subfamily"	"7.6.2.1"	NA	NA	NA	NA
+"KAF7793302.1"	NA	"Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin-like GTPase superfamily. Septin GTPase family"	NA	NA	NA	NA	NA
+"KAF7793311.1"	"Phosphatidylserine decarboxylase proenzyme 1, mitochondrial"	"Belongs to the phosphatidylserine decarboxylase family. PSD-B subfamily. Eukaryotic type I sub-subfamily"	"4.1.1.65"	NA	NA	NA	NA
+"KAF7793313.1"	"Branched-chain-amino-acid aminotransferase"	"Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family"	"2.6.1.42"	NA	NA	NA	NA
+"KAF7793313.1"	"Branched-chain-amino-acid aminotransferase"	"Belongs to the class-IV pyridoxal-phosphate-dependent aminotransferase family"	"2.6.1.42"	NA	NA	NA	NA
+"KAF7793319.1"	"Mediator of RNA polymerase II transcription subunit 21"	"Belongs to the Mediator complex subunit 21 family"	NA	NA	NA	NA	NA
+"KAF7793324.1"	NA	"Belongs to the cullin family"	NA	NA	NA	NA	NA
+"KAF7793324.1"	NA	"Belongs to the cullin family"	NA	NA	NA	NA	NA
+"KAF7793327.1"	NA	NA	NA	"AA4(39-271)"	"N"	"N"	"N"
+"KAF7793328.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. RNA M5U methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7793333.1"	"Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex"	"Belongs to the 2-oxoacid dehydrogenase family"	"2.3.1.-"	NA	NA	NA	NA
+"KAF7793339.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	"N"	"N"	"GT95"	"N"
+"KAF7793358.1"	NA	"Belongs to the SNAP family"	NA	NA	NA	NA	NA
+"KAF7793359.1"	"Phosphoacetylglucosamine mutase"	"Belongs to the phosphohexose mutase family"	"5.4.2.3"	NA	NA	NA	NA
+"KAF7793368.1"	"Glycine cleavage system P protein"	"Belongs to the GcvP family"	"1.4.4.2"	NA	NA	NA	NA
+"KAF7793374.1"	"Mitochondrial intermediate peptidase"	"Belongs to the peptidase M3 family"	"3.4.24.59"	NA	NA	NA	NA
+"KAF7793377.1"	NA	NA	NA	"N"	"N"	"GH71"	"N"
+"KAF7793378.1"	NA	NA	NA	"GT8(6-228)"	"GT8"	"GT8"	"N"
+"KAF7793382.1"	"Inositol-pentakisphosphate 2-kinase"	NA	"2.7.1.158"	NA	NA	NA	NA
+"KAF7793385.1"	"DNA-directed RNA polymerase subunit beta"	"Belongs to the RNA polymerase beta chain family"	"2.7.7.6"	"N"	"N"	"GT7"	"N"
+"KAF7793385.1"	"DNA-directed RNA polymerase subunit beta"	"Belongs to the RNA polymerase beta chain family"	"2.7.7.6"	"N"	"N"	"GT7"	"N"
+"KAF7793395.1"	NA	NA	NA	"GT8(4-285)"	"N"	"N"	"N"
+"KAF7793399.1"	"SURF1-like protein"	"Belongs to the SURF1 family"	NA	NA	NA	NA	NA
+"KAF7793411.1"	NA	"Belongs to the arginase family"	NA	NA	NA	NA	NA
+"KAF7793411.1"	NA	"Belongs to the arginase family"	NA	NA	NA	NA	NA
+"KAF7793413.1"	NA	"Belongs to the BI1 family"	NA	NA	NA	NA	NA
+"KAF7793425.1"	"Cytosolic Fe-S cluster assembly factor CFD1"	"Belongs to the Mrp/NBP35 ATP-binding proteins family. NUBP2/CFD1 subfamily"	NA	NA	NA	NA	NA
+"KAF7793440.1"	"Bis(5'-adenosyl)-triphosphatase"	NA	"3.6.1.29"	NA	NA	NA	NA
+"KAF7793442.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7793445.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7793455.1"	"Mannosyltransferase"	"Belongs to the glycosyltransferase 22 family"	"2.4.1.-"	"GT22(58-539)"	"GT22"	"GT22"	"N"
+"KAF7793460.1"	"Methionine aminopeptidase"	"Belongs to the peptidase M24A family"	"3.4.11.18"	NA	NA	NA	NA
+"KAF7793463.1"	"Carboxylic ester hydrolase"	"Belongs to the type-B carboxylesterase/lipase family"	"3.1.1.-"	NA	NA	NA	NA
+"KAF7793476.1"	"Tubulin-specific chaperone A"	"Belongs to the TBCA family"	NA	NA	NA	NA	NA
+"KAF7793477.1"	"Mediator of RNA polymerase II transcription subunit 11"	"Belongs to the Mediator complex subunit 11 family"	NA	NA	NA	NA	NA
+"KAF7793479.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7793480.1"	"Mitochondrial pyruvate carrier"	"Belongs to the mitochondrial pyruvate carrier (MPC) (TC 2.A.105) family"	NA	NA	NA	NA	NA
+"KAF7793486.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7793495.1"	"Xylulose kinase"	"Belongs to the FGGY kinase family"	"2.7.1.17"	NA	NA	NA	NA
+"KAF7793501.1"	"Methylenetetrahydrofolate reductase"	"Belongs to the methylenetetrahydrofolate reductase family"	"1.5.1.20"	NA	NA	NA	NA
+"KAF7793510.1"	"Serine/threonine-protein kinase TOR"	"Belongs to the PI3/PI4-kinase family"	"2.7.11.1"	NA	NA	NA	NA
+"KAF7793512.1"	"Actin-related protein 8"	"Belongs to the actin family"	NA	NA	NA	NA	NA
+"KAF7793512.1"	"Actin-related protein 8"	"Belongs to the actin family"	NA	NA	NA	NA	NA
+"KAF7793522.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7793524.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7793529.1"	NA	NA	NA	"AA3_3(7-587)"	"AA3"	"AA3_3"	"N"
+"KAF7793533.1"	"U3 small nucleolar RNA-associated protein 10"	"Belongs to the HEATR1/UTP10 family"	NA	NA	NA	NA	NA
+"KAF7793549.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7793553.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7793556.1"	"Transcription initiation factor IIE subunit beta"	"Belongs to the TFIIE beta subunit family"	NA	NA	NA	NA	NA
+"KAF7793558.1"	"ATP-dependent DNA helicase"	"Belongs to the helicase family"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7793562.1"	"Dipeptidase"	"Belongs to the metallo-dependent hydrolases superfamily. Peptidase M19 family"	"3.4.13.19"	NA	NA	NA	NA
+"KAF7793579.1"	NA	"Belongs to the GST superfamily"	NA	NA	NA	NA	NA
+"KAF7793592.1"	"Phospho-2-dehydro-3-deoxyheptonate aldolase"	"Belongs to the class-II DAHP synthase family"	"2.5.1.54"	NA	NA	NA	NA
+"KAF7793598.1"	"NADH-cytochrome b5 reductase"	"Belongs to the flavoprotein pyridine nucleotide cytochrome reductase family"	"1.6.2.2"	NA	NA	NA	NA
+"KAF7793636.1"	"Fe-S cluster assembly protein DRE2"	"Belongs to the anamorsin family"	NA	NA	NA	NA	NA
+"KAF7793643.1"	"AP complex subunit sigma"	"Belongs to the adaptor complexes small subunit family"	NA	NA	NA	NA	NA
+"KAF7793655.1"	"Glutamine synthetase"	"Belongs to the glutamine synthetase family"	"6.3.1.2"	NA	NA	NA	NA
+"KAF7793663.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7793664.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7793672.1"	NA	NA	NA	"GT32(83-161)"	"GT32"	"GT32"	"Y(1-27)"
+"KAF7793678.1"	"Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase"	"Belongs to the histidine acid phosphatase family. VIP1 subfamily"	"2.7.4.21"	NA	NA	NA	NA
+"KAF7793678.1"	"Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase"	"Belongs to the histidine acid phosphatase family. VIP1 subfamily"	"2.7.4.24"	NA	NA	NA	NA
+"KAF7793679.1"	NA	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IB subfamily"	NA	NA	NA	NA	NA
+"KAF7793680.1"	"Spindle pole body component"	"Belongs to the TUBGCP family"	NA	NA	NA	NA	NA
+"KAF7793696.1"	NA	"Belongs to the universal ribosomal protein uL22 family"	NA	NA	NA	NA	NA
+"KAF7793697.1"	"Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1"	"Belongs to the OST1 family"	NA	NA	NA	NA	NA
+"KAF7793701.1"	"Mediator of RNA polymerase II transcription subunit 18"	"Belongs to the Mediator complex subunit 18 family"	NA	NA	NA	NA	NA
+"KAF7793704.1"	NA	NA	NA	"GH16_2(317-673)"	"N"	"GH16_2"	"N"
+"KAF7793706.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7793709.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7793713.1"	NA	NA	NA	"GH74(87-191)"	"GH74+CBM1+CBM2"	"CBM1+GH74"	"Y(1-63)"
+"KAF7793719.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7793754.1"	"Phosphatidylserine decarboxylase proenzyme 2"	"Belongs to the phosphatidylserine decarboxylase family. PSD-B subfamily. Eukaryotic type II sub-subfamily"	"4.1.1.65"	NA	NA	NA	NA
+"KAF7793775.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7793777.1"	NA	NA	NA	"GH63(616-1062)"	"GH0"	"GH0"	"N"
+"KAF7793796.1"	"Spindle pole body component"	"Belongs to the TUBGCP family"	NA	NA	NA	NA	NA
+"KAF7793813.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7793815.1"	NA	NA	NA	"GH154(17-382)"	"GH154"	"GH154"	"N"
+"KAF7793833.1"	NA	NA	NA	"AA3_2(2-386)"	"AA3"	"AA3_2"	"N"
+"KAF7793840.1"	"Phosphatidylinositol 4-kinase"	"Belongs to the PI3/PI4-kinase family"	"2.7.1.67"	NA	NA	NA	NA
+"KAF7793854.1"	NA	"Belongs to the PP2C family"	NA	NA	NA	NA	NA
+"KAF7793857.1"	"Meiotic nuclear division protein 1"	"Belongs to the MND1 family"	NA	NA	NA	NA	NA
+"KAF7793865.1"	"Probable electron transfer flavoprotein subunit alpha"	"Belongs to the ETF alpha-subunit/FixB family"	NA	NA	NA	NA	NA
+"KAF7793870.1"	"Extracellular metalloproteinase"	"Belongs to the peptidase M36 family"	"3.4.24.-"	NA	NA	NA	NA
+"KAF7793871.1"	"Extracellular metalloproteinase"	"Belongs to the peptidase M36 family"	"3.4.24.-"	NA	NA	NA	NA
+"KAF7793872.1"	"Altered inheritance of mitochondria protein 24, mitochondrial"	"Belongs to the AIM24 family"	NA	NA	NA	NA	NA
+"KAF7793903.1"	NA	"Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family"	NA	NA	NA	NA	NA
+"KAF7793934.1"	NA	NA	NA	"GT2_Chitin_synth_1(381-555)+GT2_Chitin_synth_2(533-748)"	"GT2"	"GT2"	"N"
+"KAF7793939.1"	NA	"Belongs to the small GTPase superfamily. Arf family"	NA	NA	NA	NA	NA
+"KAF7793941.1"	"UV excision repair protein RAD23"	"Belongs to the RAD23 family"	NA	NA	NA	NA	NA
+"KAF7793942.1"	"Lysophospholipase"	"Belongs to the lysophospholipase family"	"3.1.1.5"	NA	NA	NA	NA
+"KAF7793942.1"	"Lysophospholipase"	"Belongs to the lysophospholipase family"	"3.1.1.-"	NA	NA	NA	NA
+"KAF7793951.1"	NA	NA	NA	"GH16_1(49-292)"	"N"	"N"	"N"
+"KAF7793952.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7793953.1"	"Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase"	"Belongs to the very long-chain fatty acids dehydratase HACD family"	"4.2.1.134"	NA	NA	NA	NA
+"KAF7793967.1"	NA	"Belongs to the BI1 family"	NA	NA	NA	NA	NA
+"KAF7793969.1"	"Plasma membrane fusion protein PRM1"	"Belongs to the PRM1 family"	NA	NA	NA	NA	NA
+"KAF7793973.1"	"Malate synthase"	"Belongs to the malate synthase family"	"2.3.3.9"	NA	NA	NA	NA
+"KAF7793974.1"	"Protein GET1"	"Belongs to the WRB/GET1 family"	NA	NA	NA	NA	NA
+"KAF7793980.1"	NA	NA	NA	"GH92(84-334)"	"GH92"	"GH92"	"N"
+"KAF7793986.1"	NA	NA	"5.2.1.8"	NA	NA	NA	NA
+"KAF7793990.1"	"Protein"	"Belongs to the TRAFAC class dynamin-like GTPase superfamily. GB1/RHD3 GTPase family. RHD3 subfamily"	"3.6.5.-"	NA	NA	NA	NA
+"KAF7793990.1"	"Protein"	"Belongs to the TRAFAC class dynamin-like GTPase superfamily. GB1/RHD3 GTPase family"	"3.6.5.-"	NA	NA	NA	NA
+"KAF7794001.1"	"DNA topoisomerase"	"Belongs to the type IA topoisomerase family"	"5.6.2.1"	NA	NA	NA	NA
+"KAF7794003.1"	"ATP-citrate synthase"	"In the N-terminal section; belongs to the succinate/malate CoA ligase beta subunit family"	"2.3.3.8"	NA	NA	NA	NA
+"KAF7794003.1"	"ATP-citrate synthase"	"In the C-terminal section; belongs to the succinate/malate CoA ligase alpha subunit family"	"2.3.3.8"	NA	NA	NA	NA
+"KAF7794007.1"	NA	NA	NA	"AA6(5-200)"	"AA6"	"N"	"N"
+"KAF7794008.1"	NA	NA	NA	"AA6(76-271)"	"AA6"	"N"	"N"
+"KAF7794010.1"	"Glucose-6-phosphate isomerase"	"Belongs to the GPI family"	"5.3.1.9"	NA	NA	NA	NA
+"KAF7794017.1"	"Eukaryotic translation initiation factor 3 subunit G"	"Belongs to the eIF-3 subunit G family"	NA	NA	NA	NA	NA
+"KAF7794019.1"	NA	"Belongs to the trans-sulfuration enzymes family"	NA	NA	NA	NA	NA
+"KAF7794031.1"	"Ammonium transporter"	"Belongs to the ammonia transporter channel (TC 1.A.11.2) family"	NA	NA	NA	NA	NA
+"KAF7794054.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7794063.1"	NA	NA	NA	"GH44(261-694)"	"CBM2"	"GH44"	"Y(1-19)"
+"KAF7794067.1"	NA	"Belongs to the universal ribosomal protein uL16 family"	NA	NA	NA	NA	NA
+"KAF7794087.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7794115.1"	NA	"Belongs to the peroxisomal membrane protein PXMP2/4 family"	NA	NA	NA	NA	NA
+"KAF7794117.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7794122.1"	"SAGA-associated factor 11"	"Belongs to the SGF11 family"	NA	NA	NA	NA	NA
+"KAF7794127.1"	"Protein yippee-like"	"Belongs to the yippee family"	NA	NA	NA	NA	NA
+"KAF7794134.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7794140.1"	NA	NA	NA	"GT15(80-350)"	"GT15"	"GT15"	"Y(1-23)"
+"KAF7794142.1"	NA	NA	NA	"GT15(1-270)"	"GT15"	"GT15"	"N"
+"KAF7794179.1"	"Eukaryotic translation initiation factor 3 subunit A"	"Belongs to the eIF-3 subunit A family"	NA	NA	NA	NA	NA
+"KAF7794195.1"	NA	NA	NA	"GH16_1(1-219)+CBM13(248-336)"	"N"	"N"	"N"
+"KAF7794202.1"	"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial"	"Belongs to the FAD-dependent oxidoreductase 2 family. FRD/SDH subfamily"	"1.3.5.1"	NA	NA	NA	NA
+"KAF7794229.1"	NA	NA	NA	"GH10(16-154)"	"N"	"N"	"N"
+"KAF7794237.1"	NA	"Belongs to the glycosyl hydrolase 18 family"	"3.2.1.-"	"GH18(34-205)"	"N"	"N"	"N"
+"KAF7794247.1"	NA	"Belongs to the HSF family"	NA	NA	NA	NA	NA
+"KAF7794265.1"	NA	NA	NA	"GH16_1(122-315)"	"N"	"N"	"Y(1-19)"
+"KAF7794266.1"	NA	NA	NA	"GH16_1(129-232)"	"N"	"N"	"Y(1-19)"
+"KAF7794278.1"	"O-acyltransferase"	"Belongs to the membrane-bound acyltransferase family. Sterol o-acyltransferase subfamily"	NA	NA	NA	NA	NA
+"KAF7794283.1"	NA	"Belongs to the glycosyl hydrolase 28 family"	"3.2.1.-"	NA	NA	NA	NA
+"KAF7794284.1"	NA	"Belongs to the glycosyl hydrolase 28 family"	"3.2.1.-"	"GH28(37-310)"	"GH28"	"GH28"	"Y(1-21)"
+"KAF7794294.1"	"E3 ubiquitin-protein ligase PEP5"	"Belongs to the VPS11 family"	"2.3.2.27"	NA	NA	NA	NA
+"KAF7794299.1"	"Dolichyl-phosphate-mannose--protein mannosyltransferase"	"Belongs to the glycosyltransferase 39 family"	"2.4.1.109"	"GT39(64-305)"	"GT39"	"GT39"	"N"
+"KAF7794312.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7794322.1"	"DNA polymerase"	"Belongs to the DNA polymerase type-B family"	"2.7.7.7"	NA	NA	NA	NA
+"KAF7794325.1"	"Condensin complex subunit 2"	"Belongs to the CND2 (condensin subunit 2) family"	NA	NA	NA	NA	NA
+"KAF7794338.1"	"ATP synthase subunit e, mitochondrial"	"Belongs to the ATPase e subunit family"	NA	NA	NA	NA	NA
+"KAF7794344.1"	NA	"Belongs to the FPP/GGPP synthase family"	NA	NA	NA	NA	NA
+"KAF7794352.1"	NA	"Belongs to the calreticulin family"	NA	NA	NA	NA	NA
+"KAF7794373.1"	NA	NA	NA	"N"	"N"	"CBM12"	"Y(1-25)"
+"KAF7794385.1"	"3,4-dihydroxy-2-butanone 4-phosphate synthase"	"Belongs to the DHBP synthase family"	"4.1.99.12"	NA	NA	NA	NA
+"KAF7794386.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7794390.1"	"Histone H4"	"Belongs to the histone H4 family"	NA	NA	NA	NA	NA
+"KAF7794391.1"	"Histone H3"	"Belongs to the histone H3 family"	NA	NA	NA	NA	NA
+"KAF7794398.1"	NA	"Belongs to the ZIP transporter (TC 2.A.5) family"	NA	NA	NA	NA	NA
+"KAF7794399.1"	NA	"Belongs to the ZIP transporter (TC 2.A.5) family"	NA	NA	NA	NA	NA
+"KAF7794401.1"	"Nuclear pore complex protein Nup85"	"Belongs to the nucleoporin Nup85 family"	NA	NA	NA	NA	NA
+"KAF7794404.1"	"alpha-1,2-Mannosidase"	"Belongs to the glycosyl hydrolase 47 family"	"3.2.1.-"	"GH47(67-568)"	"GH47"	"GH47"	"N"
+"KAF7794405.1"	NA	"Belongs to the FGGY kinase family"	NA	NA	NA	NA	NA
+"KAF7794412.1"	"Phosphatidylinositol transfer protein SFH5"	"Belongs to the SFH5 family"	NA	NA	NA	NA	NA
+"KAF7794413.1"	NA	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IB subfamily"	NA	NA	NA	NA	NA
+"KAF7794421.1"	"tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit TRM82"	"Belongs to the WD repeat TRM82 family"	NA	NA	NA	NA	NA
+"KAF7794425.1"	"Histone H4"	"Belongs to the histone H4 family"	NA	NA	NA	NA	NA
+"KAF7794429.1"	"alpha-1,2-Mannosidase"	"Belongs to the glycosyl hydrolase 47 family"	"3.2.1.-"	"GH47(5-317)"	"GH47"	"N"	"N"
+"KAF7794433.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7794441.1"	"Glutamine-dependent NAD(+) synthetase"	"In the C-terminal section; belongs to the NAD synthetase family"	"6.3.5.1"	NA	NA	NA	NA
+"KAF7794444.1"	NA	"Belongs to the GMC oxidoreductase family"	NA	"AA3_2(115-370)"	"N"	"N"	"N"
+"KAF7794457.1"	"Arginine biosynthesis bifunctional protein ArgJ, mitochondrial"	"Belongs to the ArgJ family"	NA	NA	NA	NA	NA
+"KAF7794462.1"	NA	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	"N"	"CBM57"	"N"	"N"
+"KAF7794475.1"	"V-type proton ATPase subunit G"	"Belongs to the V-ATPase G subunit family"	NA	NA	NA	NA	NA
+"KAF7794478.1"	NA	"Belongs to the universal ribosomal protein uS19 family"	NA	NA	NA	NA	NA
+"KAF7794482.1"	NA	"Belongs to the universal ribosomal protein uS13 family"	NA	NA	NA	NA	NA
+"KAF7794487.1"	"1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase"	"Belongs to the acireductone dioxygenase (ARD) family"	"1.13.11.54"	NA	NA	NA	NA
+"KAF7794502.1"	"E3 ubiquitin ligase complex SCF subunit"	"Belongs to the SKP1 family"	NA	NA	NA	NA	NA
+"KAF7794512.1"	NA	"Belongs to the TRAFAC class dynamin-like GTPase superfamily. Dynamin/Fzo/YdjA family"	NA	NA	NA	NA	NA
+"KAF7794514.1"	NA	"Belongs to the DapA family"	NA	NA	NA	NA	NA
+"KAF7794522.1"	NA	NA	NA	"GH105(131-371)"	"N"	"GH0"	"Y(1-20)"
+"KAF7794525.1"	NA	"Belongs to the universal ribosomal protein uL3 family"	NA	NA	NA	NA	NA
+"KAF7794528.1"	"40S ribosomal protein S7"	"Belongs to the eukaryotic ribosomal protein eS7 family"	NA	NA	NA	NA	NA
+"KAF7794529.1"	"40S ribosomal protein S7"	"Belongs to the eukaryotic ribosomal protein eS7 family"	NA	NA	NA	NA	NA
+"KAF7794530.1"	"Mitochondrial distribution and morphology protein 10"	"Belongs to the MDM10 family"	NA	NA	NA	NA	NA
+"KAF7794532.1"	"Small nuclear ribonucleoprotein G"	"Belongs to the snRNP Sm proteins family"	NA	NA	NA	NA	NA
+"KAF7794537.1"	"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit"	"Belongs to the complex I NDUFA12 subunit family"	NA	NA	NA	NA	NA
+"KAF7794539.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7794541.1"	NA	"Belongs to the HisA/HisF family"	NA	NA	NA	NA	NA
+"KAF7794553.1"	NA	"Belongs to the thiolase-like superfamily. Chalcone/stilbene synthases family"	NA	NA	NA	NA	NA
+"KAF7794559.1"	NA	NA	NA	"N"	"N"	"GH51"	"N"
+"KAF7794568.1"	"Malate dehydrogenase"	"Belongs to the LDH/MDH superfamily"	"1.1.1.37"	NA	NA	NA	NA
+"KAF7794582.1"	NA	NA	NA	"AA3_3(1-509)"	"N"	"AA3_3"	"N"
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794587.1"	"Lon protease homolog"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794630.1"	"Endoplasmic reticulum transmembrane protein"	"Belongs to the BCAP29/BCAP31 family"	NA	NA	NA	NA	NA
+"KAF7794635.1"	"Aconitate hydratase, mitochondrial"	"Belongs to the aconitase/IPM isomerase family"	"4.2.1.-"	NA	NA	NA	NA
+"KAF7794654.1"	"Amine oxidase"	"Belongs to the copper/topaquinone oxidase family"	"1.4.3.-"	NA	NA	NA	NA
+"KAF7794663.1"	"Peptidyl-prolyl cis-trans isomerase"	"Belongs to the cyclophilin-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7794693.1"	"E3 ubiquitin-protein ligase"	"Belongs to the UBR1 family"	"2.3.2.27"	NA	NA	NA	NA
+"KAF7794694.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	NA	NA	NA	NA
+"KAF7794703.1"	NA	"Belongs to the complex I 30 kDa subunit family"	NA	NA	NA	NA	NA
+"KAF7794726.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7794755.1"	"Lon protease homolog, mitochondrial"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794755.1"	"Lon protease homolog, mitochondrial"	"Belongs to the peptidase S16 family"	"3.4.21.53"	NA	NA	NA	NA
+"KAF7794755.1"	"Lon protease homolog, mitochondrial"	"Belongs to the peptidase S16 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7794755.1"	"Lon protease homolog, mitochondrial"	"Belongs to the peptidase S16 family"	"3.4.21.53"	NA	NA	NA	NA
+"KAF7794759.1"	NA	"Belongs to the glycosyl hydrolase 18 family"	"3.2.1.-"	"GH18(7-169)"	"GH18+CBM1"	"N"	"N"
+"KAF7794760.1"	"Decapping nuclease"	"Belongs to the DXO/Dom3Z family"	"3.6.1.-"	NA	NA	NA	NA
+"KAF7794761.1"	NA	"Belongs to the cytochrome c family"	NA	NA	NA	NA	NA
+"KAF7794770.1"	"5'-3' exoribonuclease 1"	"Belongs to the 5'-3' exonuclease family"	"3.1.13.-"	NA	NA	NA	NA
+"KAF7794802.1"	"6-phosphofructokinase"	"Belongs to the phosphofructokinase type A (PFKA) family. ATP-dependent PFK group I subfamily. Eukaryotic two domain clade \"E\" sub-subfamily"	"2.7.1.11"	"N"	"N"	"GH76"	"N"
+"KAF7794802.1"	"6-phosphofructokinase"	"Belongs to the phosphofructokinase type A (PFKA) family. ATP-dependent PFK group I subfamily. Eukaryotic two domain clade 'E' sub-subfamily"	"2.7.1.11"	"N"	"N"	"GH76"	"N"
+"KAF7794802.1"	"ATP-dependent 6-phosphofructokinase"	"Belongs to the phosphofructokinase type A (PFKA) family. ATP-dependent PFK group I subfamily. Eukaryotic two domain clade 'E' sub-subfamily"	"2.7.1.11"	"N"	"N"	"GH76"	"N"
+"KAF7794802.1"	"6-phosphofructokinase"	"Belongs to the phosphofructokinase type A (PFKA) family. ATP-dependent PFK group I subfamily. Eukaryotic two domain clade \"E\" sub-subfamily"	"2.7.1.11"	"N"	"N"	"GH76"	"N"
+"KAF7794802.1"	"ATP-dependent 6-phosphofructokinase"	"Belongs to the phosphofructokinase type A (PFKA) family. ATP-dependent PFK group I subfamily. Eukaryotic two domain clade \"E\" sub-subfamily"	"2.7.1.11"	"N"	"N"	"GH76"	"N"
+"KAF7794802.1"	"ATP-dependent 6-phosphofructokinase"	"Belongs to the phosphofructokinase type A (PFKA) family. ATP-dependent PFK group I subfamily. Eukaryotic two domain clade \"E\" sub-subfamily"	"2.7.1.11"	"N"	"N"	"GH76"	"N"
+"KAF7794802.1"	"ATP-dependent 6-phosphofructokinase"	"Belongs to the phosphofructokinase type A (PFKA) family. ATP-dependent PFK group I subfamily. Eukaryotic two domain clade 'E' sub-subfamily"	"2.7.1.11"	"N"	"N"	"GH76"	"N"
+"KAF7794802.1"	"6-phosphofructokinase"	"Belongs to the phosphofructokinase type A (PFKA) family. ATP-dependent PFK group I subfamily. Eukaryotic two domain clade 'E' sub-subfamily"	"2.7.1.11"	"N"	"N"	"GH76"	"N"
+"KAF7794806.1"	NA	"Belongs to the iron/ascorbate-dependent oxidoreductase family"	NA	NA	NA	NA	NA
+"KAF7794808.1"	NA	"Belongs to the cullin family"	NA	NA	NA	NA	NA
+"KAF7794808.1"	NA	"Belongs to the cullin family"	NA	NA	NA	NA	NA
+"KAF7794809.1"	"Exportin-T"	"Belongs to the exportin family"	NA	NA	NA	NA	NA
+"KAF7794812.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_9(115-451)"	"GH5"	"GH5_9"	"Y(1-19)"
+"KAF7794844.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7794845.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7794852.1"	"Sugar phosphate phosphatase"	"Belongs to the damage-control phosphatase family. Sugar phosphate phosphatase III subfamily"	"3.1.3.-"	NA	NA	NA	NA
+"KAF7794857.1"	NA	NA	NA	"GT2_Chitin_synth_2(648-1170)"	"GT2"	"GT2"	"N"
+"KAF7794860.1"	NA	NA	NA	"GT69(209-470)"	"N"	"N"	"N"
+"KAF7794863.1"	NA	NA	NA	"GH89(10-673)"	"GH89"	"GH89"	"N"
+"KAF7794878.1"	NA	"Belongs to the OXA1/ALB3/YidC family"	NA	NA	NA	NA	NA
+"KAF7794893.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7794902.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Erg6/SMT family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7794906.1"	NA	NA	NA	"N"	"N"	"CBM12"	"N"
+"KAF7794908.1"	"Mitogen-activated protein kinase"	"Belongs to the protein kinase superfamily"	"2.7.11.24"	NA	NA	NA	NA
+"KAF7794908.1"	"Mitogen-activated protein kinase"	"Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. MAP kinase subfamily"	"2.7.11.24"	NA	NA	NA	NA
+"KAF7794948.1"	NA	NA	NA	"GH16_1(178-332)"	"N"	"N"	"Y(1-18)"
+"KAF7794951.1"	"Coronin"	"Belongs to the WD repeat coronin family"	NA	NA	NA	NA	NA
+"KAF7794965.1"	NA	NA	NA	"GT2_Glycos_transf_2(86-263)"	"N"	"GT2"	"Y(1-26)"
+"KAF7794975.1"	NA	"Belongs to the HSF family"	NA	NA	NA	NA	NA
+"KAF7794979.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7794981.1"	"Actin-related protein 2"	"Belongs to the actin family. ARP2 subfamily"	NA	NA	NA	NA	NA
+"KAF7794981.1"	"Actin-related protein 2"	"Belongs to the actin family"	NA	NA	NA	NA	NA
+"KAF7794992.1"	NA	NA	NA	"N"	"N"	"CE5"	"N"
+"KAF7795000.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7795008.1"	"Ubiquitin carboxyl-terminal hydrolase"	"Belongs to the peptidase C19 family"	"3.4.19.12"	NA	NA	NA	NA
+"KAF7795014.1"	NA	NA	NA	"N"	"N"	"GT31"	"N"
+"KAF7795024.1"	NA	NA	NA	"AA3_2(45-625)"	"AA3"	"AA3_2"	"Y(1-18)"
+"KAF7795027.1"	"Cytidine deaminase"	"Belongs to the cytidine and deoxycytidylate deaminase family"	"3.5.4.5"	NA	NA	NA	NA
+"KAF7795029.1"	NA	NA	NA	"AA3_2(55-641)"	"AA3"	"AA3_2"	"N"
+"KAF7795038.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7795039.1"	"Carboxypeptidase"	"Belongs to the peptidase S10 family"	"3.4.16.-"	NA	NA	NA	NA
+"KAF7795040.1"	"Carboxypeptidase"	"Belongs to the peptidase S10 family"	"3.4.16.-"	NA	NA	NA	NA
+"KAF7795045.1"	NA	NA	NA	"CE4(207-318)"	"CE4"	"CE4"	"N"
+"KAF7795054.1"	NA	"Belongs to the carnitine/choline acetyltransferase family"	NA	NA	NA	NA	NA
+"KAF7795075.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7795102.1"	NA	NA	NA	"GH115(40-672)"	"GH115"	"GH115"	"Y(1-27)"
+"KAF7795106.1"	"Ornithine aminotransferase"	"Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family"	"2.6.1.13"	NA	NA	NA	NA
+"KAF7795106.1"	"Ornithine aminotransferase"	"Belongs to the class-III pyridoxal-phosphate-dependent aminotransferase family"	"2.6.1.13"	NA	NA	NA	NA
+"KAF7795108.1"	"Defective in cullin neddylation protein"	NA	NA	NA	NA	NA	NA
+"KAF7795113.1"	"Phosphatidylethanolamine N-methyltransferase"	"Belongs to the class VI-like SAM-binding methyltransferase superfamily. CHO2 family"	"2.1.1.17"	NA	NA	NA	NA
+"KAF7795142.1"	"Phospho-2-dehydro-3-deoxyheptonate aldolase"	"Belongs to the class-I DAHP synthase family"	"2.5.1.54"	NA	NA	NA	NA
+"KAF7795172.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7795180.1"	"2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial"	"Belongs to the class I-like SAM-binding methyltransferase superfamily. MenG/UbiE family"	"2.1.1.201"	NA	NA	NA	NA
+"KAF7795181.1"	NA	"Belongs to the cullin family"	NA	NA	NA	NA	NA
+"KAF7795181.1"	NA	"Belongs to the cullin family"	NA	NA	NA	NA	NA
+"KAF7795188.1"	NA	"Belongs to the ubiquitin-conjugating enzyme family"	"2.3.2.-"	NA	NA	NA	NA
+"KAF7795194.1"	NA	NA	NA	"GH3(111-326)"	"N"	"N"	"N"
+"KAF7795210.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. RsmB/NOP family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7795214.1"	"4-hydroxybenzoate polyprenyltransferase, mitochondrial"	"Belongs to the UbiA prenyltransferase family"	"2.5.1.39"	NA	NA	NA	NA
+"KAF7795216.1"	"Glucanase"	"Belongs to the glycosyl hydrolase 7 (cellulase C) family"	"3.2.1.-"	"GH7(47-476)"	"GH7+CBM1"	"CBM1+GH7"	"N"
+"KAF7795224.1"	"Chorismate synthase"	"Belongs to the chorismate synthase family"	"4.2.3.5"	NA	NA	NA	NA
+"KAF7795225.1"	"Nuclear pore protein"	"Belongs to the nucleoporin interacting component (NIC) family"	NA	NA	NA	NA	NA
+"KAF7795230.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7795234.1"	"Histone-lysine N-methyltransferase, H3 lysine-79 specific"	"Belongs to the class I-like SAM-binding methyltransferase superfamily. DOT1 family"	"2.1.1.360"	NA	NA	NA	NA
+"KAF7795235.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7795246.1"	"Mediator of RNA polymerase II transcription subunit 17"	"Belongs to the Mediator complex subunit 17 family"	NA	NA	NA	NA	NA
+"KAF7795250.1"	"Lysophospholipase"	"Belongs to the lysophospholipase family"	"3.1.1.5"	NA	NA	NA	NA
+"KAF7795250.1"	"Lysophospholipase"	"Belongs to the lysophospholipase family"	"3.1.1.-"	NA	NA	NA	NA
+"KAF7795255.1"	NA	NA	NA	"AA3_2(2-401)"	"N"	"N"	"N"
+"KAF7795257.1"	NA	NA	NA	"AA3_2(11-380)"	"N"	"N"	"N"
+"KAF7795259.1"	"Peptidyl-prolyl cis-trans isomerase"	"Belongs to the cyclophilin-type PPIase family. PPIL4 subfamily"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7795261.1"	"Delta-1-pyrroline-5-carboxylate dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"Delta-1-pyrroline-5-carboxylate dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"Delta-1-pyrroline-5-carboxylate dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"Delta-1-pyrroline-5-carboxylate dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"L-glutamate gamma-semialdehyde dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"L-glutamate gamma-semialdehyde dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"Delta-1-pyrroline-5-carboxylate dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"Delta-1-pyrroline-5-carboxylate dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"L-glutamate gamma-semialdehyde dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"L-glutamate gamma-semialdehyde dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"L-glutamate gamma-semialdehyde dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795261.1"	"L-glutamate gamma-semialdehyde dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	"1.2.1.88"	NA	NA	NA	NA
+"KAF7795266.1"	"Protein disulfide-isomerase"	"Belongs to the protein disulfide isomerase family"	"5.3.4.1"	NA	NA	NA	NA
+"KAF7795266.1"	"Protein disulfide-isomerase"	"Belongs to the protein disulfide isomerase family"	"5.3.4.1"	NA	NA	NA	NA
+"KAF7795271.1"	"MICOS complex subunit MIC60"	"Belongs to the MICOS complex subunit Mic60 family"	NA	NA	NA	NA	NA
+"KAF7795273.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7795281.1"	"Calcium-transporting ATPase"	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family"	"7.2.2.10"	NA	NA	NA	NA
+"KAF7795315.1"	"Proliferating cell nuclear antigen"	"Belongs to the PCNA family"	NA	NA	NA	NA	NA
+"KAF7795316.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7795317.1"	"Kinesin-like protein"	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	NA	NA	NA	NA
+"KAF7795317.1"	"Kinesin-like protein"	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	NA	NA	NA	NA
+"KAF7795357.1"	"mRNA-capping enzyme subunit beta"	"Belongs to the fungal TPase family"	"3.1.3.33"	NA	NA	NA	NA
+"KAF7795358.1"	"2-oxoisovalerate dehydrogenase subunit alpha"	"Belongs to the BCKDHA family"	"1.2.4.4"	NA	NA	NA	NA
+"KAF7795367.1"	NA	NA	NA	"PL4_1(1-291)"	"PL4"	"PL4_1"	"N"
+"KAF7795369.1"	NA	NA	NA	"GH16_2(239-585)"	"N"	"GH16_2"	"N"
+"KAF7795395.1"	"FACT complex subunit POB3"	"Belongs to the SSRP1 family"	NA	NA	NA	NA	NA
+"KAF7795400.1"	NA	"Belongs to the MIP/aquaporin (TC 1.A.8) family"	NA	NA	NA	NA	NA
+"KAF7795402.1"	NA	"Belongs to the MIP/aquaporin (TC 1.A.8) family"	NA	NA	NA	NA	NA
+"KAF7795407.1"	"Queuosine salvage protein"	"Belongs to the queuosine salvage protein family"	NA	NA	NA	NA	NA
+"KAF7795410.1"	"Oligosaccharide translocation protein RFT1"	"Belongs to the RFT1 family"	NA	NA	NA	NA	NA
+"KAF7795429.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7795437.1"	NA	"Belongs to the MIP/aquaporin (TC 1.A.8) family"	NA	NA	NA	NA	NA
+"KAF7795456.1"	"Spindle pole body component"	"Belongs to the TUBGCP family"	NA	NA	NA	NA	NA
+"KAF7795462.1"	NA	NA	NA	"GH128(72-280)"	"N"	"N"	"Y(1-21)"
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 2nd section; belongs to the EPSP synthase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the C-terminal section; belongs to the shikimate dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 4th section; belongs to the type-I 3-dehydroquinase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the N-terminal section; belongs to the sugar phosphate cyclases superfamily. Dehydroquinate synthase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 2nd section; belongs to the EPSP synthase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 4th section; belongs to the type-I 3-dehydroquinase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the N-terminal section; belongs to the dehydroquinate synthase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 2nd section; belongs to the EPSP synthase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the N-terminal section; belongs to the sugar phosphate cyclases superfamily. Dehydroquinate synthase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 3rd section; belongs to the shikimate kinase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 4th section; belongs to the type-I 3-dehydroquinase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 2nd section; belongs to the EPSP synthase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the C-terminal section; belongs to the shikimate dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the N-terminal section; belongs to the dehydroquinate synthase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 4th section; belongs to the type-I 3-dehydroquinase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the C-terminal section; belongs to the shikimate dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the C-terminal section; belongs to the shikimate dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 3rd section; belongs to the shikimate kinase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 3rd section; belongs to the shikimate kinase family"	NA	NA	NA	NA	NA
+"KAF7795466.1"	"Pentafunctional AROM polypeptide"	"In the 3rd section; belongs to the shikimate kinase family"	NA	NA	NA	NA	NA
+"KAF7795479.1"	"Protein-S-isoprenylcysteine O-methyltransferase"	"Belongs to the class VI-like SAM-binding methyltransferase superfamily. Isoprenylcysteine carboxyl methyltransferase family"	"2.1.1.100"	NA	NA	NA	NA
+"KAF7795504.1"	"Fumarate reductase"	"Belongs to the FAD-dependent oxidoreductase 2 family. FRD/SDH subfamily"	"1.3.1.6"	NA	NA	NA	NA
+"KAF7795506.1"	"Autophagy protein 5"	"Belongs to the ATG5 family"	NA	NA	NA	NA	NA
+"KAF7795523.1"	NA	NA	NA	"GH79(18-385)"	"GH79"	"N"	"N"
+"KAF7795538.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7795540.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7795545.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	NA	NA	NA	NA
+"KAF7795546.1"	"Translation machinery-associated protein 22"	"Belongs to the DENR family"	NA	NA	NA	NA	NA
+"KAF7795554.1"	"Carboxypeptidase"	"Belongs to the peptidase S10 family"	"3.4.16.-"	NA	NA	NA	NA
+"KAF7795558.1"	"Carboxypeptidase"	"Belongs to the peptidase S10 family"	"3.4.16.-"	NA	NA	NA	NA
+"KAF7795559.1"	"ATP-dependent DNA helicase"	"Belongs to the helicase family"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7795568.1"	"3-hydroxyanthranilate 3,4-dioxygenase"	"Belongs to the 3-HAO family"	"1.13.11.6"	NA	NA	NA	NA
+"KAF7795593.1"	"Acyl-CoA desaturase"	"Belongs to the fatty acid desaturase type 1 family"	"1.14.19.1"	NA	NA	NA	NA
+"KAF7795602.1"	"Condensin complex subunit 1"	"Belongs to the CND1 (condensin subunit 1) family"	NA	NA	NA	NA	NA
+"KAF7795603.1"	"Ribosome assembly factor mrt4"	"Belongs to the universal ribosomal protein uL10 family"	NA	NA	NA	NA	NA
+"KAF7795604.1"	"Deoxyhypusine hydroxylase"	"Belongs to the deoxyhypusine hydroxylase family"	"1.14.99.29"	NA	NA	NA	NA
+"KAF7795619.1"	"DNA damage-binding protein CMR1"	"Belongs to the WD repeat DDB2/WDR76 family"	NA	NA	NA	NA	NA
+"KAF7795620.1"	"Flap endonuclease 1"	"Belongs to the XPG/RAD2 endonuclease family. FEN1 subfamily"	"3.1.-.-"	NA	NA	NA	NA
+"KAF7795624.1"	"DNA primase"	"Belongs to the eukaryotic-type primase small subunit family"	"2.7.7.-"	NA	NA	NA	NA
+"KAF7795632.1"	"Malic enzyme"	"Belongs to the malic enzymes family"	NA	NA	NA	NA	NA
+"KAF7795660.1"	"Nascent polypeptide-associated complex subunit beta"	"Belongs to the NAC-beta family"	NA	NA	NA	NA	NA
+"KAF7795663.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7795669.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7795671.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7795672.1"	"Autophagy-related protein 11"	"Belongs to the ATG11 family"	NA	NA	NA	NA	NA
+"KAF7795681.1"	NA	"Belongs to the glycosyl hydrolase 18 family"	"3.2.1.-"	"GH18(33-283)"	"GH18+CBM1+CBM19"	"CBM5+GH18"	"Y(1-27)"
+"KAF7795684.1"	"Terpene synthase"	"Belongs to the terpene synthase family"	"4.2.3.-"	NA	NA	NA	NA
+"KAF7795687.1"	NA	"Belongs to the EMP24/GP25L family"	NA	NA	NA	NA	NA
+"KAF7795688.1"	NA	NA	NA	"N"	"AA1"	"AA1_1"	"Y(1-22)"
+"KAF7795689.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7795691.1"	"U3 small nucleolar RNA-associated protein 25"	"Belongs to the UTP25 family"	NA	NA	NA	NA	NA
+"KAF7795693.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7795701.1"	"Coatomer subunit delta"	"Belongs to the adaptor complexes medium subunit family. Delta-COP subfamily"	NA	NA	NA	NA	NA
+"KAF7795701.1"	"Coatomer subunit delta"	"Belongs to the adaptor complexes medium subunit family. Delta-COP subfamily"	NA	NA	NA	NA	NA
+"KAF7795701.1"	"Coatomer subunit delta"	"Belongs to the adaptor complexes medium subunit family. Delta-COP subfamily"	NA	NA	NA	NA	NA
+"KAF7795701.1"	"Coatomer subunit delta"	"Belongs to the adaptor complexes medium subunit family. Delta-COP subfamily"	NA	NA	NA	NA	NA
+"KAF7795707.1"	"Protein YOP1"	"Belongs to the DP1 family"	NA	NA	NA	NA	NA
+"KAF7795713.1"	NA	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IB subfamily"	NA	NA	NA	NA	NA
+"KAF7795715.1"	"Dihydrolipoyl dehydrogenase"	"Belongs to the class-I pyridine nucleotide-disulfide oxidoreductase family"	"1.8.1.4"	NA	NA	NA	NA
+"KAF7795716.1"	NA	NA	NA	"AA7(71-259)"	"N"	"N"	"Y(1-37)"
+"KAF7795718.1"	"Phosphotransferase"	"Belongs to the hexokinase family"	"2.7.1.-"	NA	NA	NA	NA
+"KAF7795719.1"	NA	"Belongs to the universal ribosomal protein uL14 family"	NA	NA	NA	NA	NA
+"KAF7795722.1"	"Ribosome biogenesis protein YTM1"	"Belongs to the WD repeat WDR12/YTM1 family"	NA	NA	NA	NA	NA
+"KAF7795730.1"	NA	"Belongs to the FMN-dependent alpha-hydroxy acid dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7795732.1"	"Histone H2A"	"Belongs to the histone H2A family"	NA	NA	NA	NA	NA
+"KAF7795734.1"	"AP complex subunit beta"	"Belongs to the adaptor complexes large subunit family"	NA	NA	NA	NA	NA
+"KAF7795741.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7795743.1"	"Actin-related protein 2/3 complex subunit 5"	"Belongs to the ARPC5 family"	NA	NA	NA	NA	NA
+"KAF7795747.1"	NA	NA	NA	"GT49(135-460)"	"N"	"N"	"N"
+"KAF7795753.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7795753.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7795755.1"	NA	NA	NA	"GH3(122-323)"	"GH3+CBM1"	"GH3"	"N"
+"KAF7795757.1"	NA	NA	NA	"N"	"GH79"	"GH79"	"N"
+"KAF7795769.1"	"Protein-S-isoprenylcysteine O-methyltransferase"	"Belongs to the class VI-like SAM-binding methyltransferase superfamily. Isoprenylcysteine carboxyl methyltransferase family"	"2.1.1.100"	NA	NA	NA	NA
+"KAF7795778.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7795780.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7795782.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7795783.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7795784.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7795799.1"	NA	NA	NA	"GH55(4-335)"	"N"	"GH55"	"N"
+"KAF7795804.1"	NA	NA	NA	"GT48(763-1532)"	"GT48"	"GT48"	"N"
+"KAF7795834.1"	NA	NA	NA	"GT2_Glyco_trans_2_3(123-342)"	"GT0"	"GT0"	"N"
+"KAF7795857.1"	"40S ribosomal protein S1"	"Belongs to the eukaryotic ribosomal protein eS1 family"	NA	NA	NA	NA	NA
+"KAF7795870.1"	"Uroporphyrinogen decarboxylase"	"Belongs to the uroporphyrinogen decarboxylase family"	"4.1.1.37"	NA	NA	NA	NA
+"KAF7795883.1"	"60S ribosomal protein L29"	"Belongs to the eukaryotic ribosomal protein eL29 family"	NA	NA	NA	NA	NA
+"KAF7795886.1"	NA	"Belongs to the peroxiredoxin family"	NA	"N"	"GH18"	"N"	"N"
+"KAF7795900.1"	"Serine/threonine-protein kinase"	"Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. CDC5/Polo subfamily"	"2.7.11.21"	NA	NA	NA	NA
+"KAF7795913.1"	"Extracellular metalloproteinase"	"Belongs to the peptidase M36 family"	"3.4.24.-"	NA	NA	NA	NA
+"KAF7795916.1"	"Tubulin beta chain"	"Belongs to the tubulin family"	NA	NA	NA	NA	NA
+"KAF7795918.1"	NA	NA	NA	"N"	"GH145"	"N"	"N"
+"KAF7795939.1"	"CAAX prenyl protease"	"Belongs to the peptidase M48A family"	"3.4.24.84"	NA	NA	NA	NA
+"KAF7795940.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7795942.1"	"Autophagy-related protein"	"Belongs to the ATG22 family"	NA	NA	NA	NA	NA
+"KAF7795944.1"	NA	"Belongs to the peptidase M24B family"	NA	NA	NA	NA	NA
+"KAF7795945.1"	NA	NA	NA	"GH105(132-376)"	"N"	"GH0"	"Y(1-20)"
+"KAF7795951.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. RsmB/NOP family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7795961.1"	NA	"Belongs to the alpha-IPM synthase/homocitrate synthase family"	NA	NA	NA	NA	NA
+"KAF7795964.1"	NA	"Belongs to the trans-sulfuration enzymes family"	NA	NA	NA	NA	NA
+"KAF7795966.1"	"Terpene synthase"	"Belongs to the terpene synthase family"	"4.2.3.-"	NA	NA	NA	NA
+"KAF7795972.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7795980.1"	"Urease"	"In the C-terminal section; belongs to the metallo-dependent hydrolases superfamily. Urease alpha subunit family"	"3.5.1.5"	NA	NA	NA	NA
+"KAF7795989.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7795990.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7796010.1"	NA	NA	NA	"AA14(1-234)"	"N"	"N"	"N"
+"KAF7796022.1"	"Cyanate hydratase"	"Belongs to the cyanase family"	"4.2.1.104"	NA	NA	NA	NA
+"KAF7796025.1"	NA	NA	NA	"AA14(1-255)"	"N"	"AA14"	"N"
+"KAF7796029.1"	"RNA polymerase II transcription factor B subunit 2"	"Belongs to the TFB2 family"	NA	NA	NA	NA	NA
+"KAF7796033.1"	NA	"Belongs to the MIP/aquaporin (TC 1.A.8) family"	NA	NA	NA	NA	NA
+"KAF7796045.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7796050.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7796053.1"	NA	"Belongs to the heat shock protein 70 family"	NA	NA	NA	NA	NA
+"KAF7796054.1"	"Ubiquitin carboxyl-terminal hydrolase"	"Belongs to the peptidase C19 family"	"3.4.19.12"	NA	NA	NA	NA
+"KAF7796055.1"	NA	"Belongs to the nucleosome assembly protein (NAP) family"	NA	NA	NA	NA	NA
+"KAF7796057.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7796062.1"	NA	"Belongs to the peroxisomal membrane protein PXMP2/4 family"	NA	NA	NA	NA	NA
+"KAF7796066.1"	"Succinate dehydrogenase [ubiquinone] cytochrome b small subunit"	"Belongs to the CybS family"	NA	NA	NA	NA	NA
+"KAF7796088.1"	NA	NA	NA	"AA3_3(10-590)"	"AA3"	"AA3_3"	"N"
+"KAF7796091.1"	NA	"Belongs to the TCTP family"	NA	NA	NA	NA	NA
+"KAF7796095.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7796107.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7796117.1"	"3-hydroxy-3-methylglutaryl coenzyme A reductase"	"Belongs to the HMG-CoA reductase family"	"1.1.1.34"	NA	NA	NA	NA
+"KAF7796123.1"	NA	"Belongs to the eukaryotic ribosomal protein eL42 family"	NA	NA	NA	NA	NA
+"KAF7796133.1"	"E3 ubiquitin-protein ligase listerin"	"Belongs to the LTN1 family"	"2.3.2.27"	NA	NA	NA	NA
+"KAF7796134.1"	NA	"Belongs to the two pore domain potassium channel (TC 1.A.1.8) family"	NA	NA	NA	NA	NA
+"KAF7796139.1"	NA	"Belongs to the OSBP family"	NA	NA	NA	NA	NA
+"KAF7796141.1"	"Protein HIR"	"Belongs to the WD repeat HIR1 family"	NA	NA	NA	NA	NA
+"KAF7796144.1"	"40S ribosomal protein S26"	"Belongs to the eukaryotic ribosomal protein eS26 family"	NA	NA	NA	NA	NA
+"KAF7796158.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7796160.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7796189.1"	"alpha-1,2-Mannosidase"	"Belongs to the glycosyl hydrolase 47 family"	"3.2.1.-"	"GH47(83-557)"	"GH47"	"GH47"	"N"
+"KAF7796196.1"	NA	NA	NA	"CBM13(32-151)"	"N"	"N"	"Y(1-20)"
+"KAF7796197.1"	NA	NA	NA	"CBM13(66-211)+CBM13(167-293)"	"N"	"N"	"Y(1-19)"
+"KAF7796230.1"	"Peptidyl-prolyl cis-trans isomerase"	"Belongs to the cyclophilin-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7796235.1"	NA	NA	NA	"GH88(72-393)"	"N"	"GH88"	"Y(1-29)"
+"KAF7796241.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7796250.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7796252.1"	"Glucanase"	"Belongs to the glycosyl hydrolase 7 (cellulase C) family"	"3.2.1.-"	"GH7(20-449)"	"GH7+CBM1"	"CBM1+GH7"	"Y(1-22)"
+"KAF7796260.1"	"Mitochondrial Rho GTPase"	"Belongs to the mitochondrial Rho GTPase family"	"3.6.5.-"	NA	NA	NA	NA
+"KAF7796268.1"	"Carboxylic ester hydrolase"	"Belongs to the type-B carboxylesterase/lipase family"	"3.1.1.-"	NA	NA	NA	NA
+"KAF7796271.1"	"Alpha-1,3-glucosyltransferase"	"Belongs to the ALG6/ALG8 glucosyltransferase family"	"2.4.1.-"	"GT57(1-325)"	"GT57"	"N"	"N"
+"KAF7796278.1"	NA	"Belongs to the acyl-CoA dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7796284.1"	NA	"Belongs to the glycosyl hydrolase 30 family"	"3.2.1.-"	"GH30_3(56-410)"	"N"	"GH30_3"	"Y(1-20)"
+"KAF7796287.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7796292.1"	"Ribonucleoside-diphosphate reductase"	"Belongs to the ribonucleoside diphosphate reductase large chain family"	"1.17.4.1"	NA	NA	NA	NA
+"KAF7796304.1"	NA	"Belongs to the TPP enzyme family"	NA	NA	NA	NA	NA
+"KAF7796326.1"	"AP-1 complex subunit gamma"	"Belongs to the adaptor complexes large subunit family"	NA	"N"	"N"	"GH47"	"N"
+"KAF7796329.1"	"DNA ligase"	"Belongs to the ATP-dependent DNA ligase family"	"6.5.1.1"	NA	NA	NA	NA
+"KAF7796338.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7796339.1"	"Transcription initiation factor TFIID subunit 10"	"Belongs to the TAF10 family"	NA	NA	NA	NA	NA
+"KAF7796343.1"	"Aldehyde dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7796343.1"	"Aldehyde dehydrogenase"	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7796344.1"	NA	NA	NA	"GH13_25(1121-1575)"	"GH133"	"GH13_25+GH133"	"N"
+"KAF7796348.1"	"Cytosolic Fe-S cluster assembly factor"	"Belongs to the Mrp/NBP35 ATP-binding proteins family. NUBP1/NBP35 subfamily"	NA	NA	NA	NA	NA
+"KAF7796349.1"	"U2 snRNP auxiliary factor large subunit"	"Belongs to the splicing factor SR family"	NA	NA	NA	NA	NA
+"KAF7796363.1"	"Coatomer subunit epsilon"	"Belongs to the COPE family"	NA	NA	NA	NA	NA
+"KAF7796366.1"	"Serine/threonine-protein kinase Tel1"	"Belongs to the PI3/PI4-kinase family. ATM subfamily"	"2.7.11.1"	NA	NA	NA	NA
+"KAF7796369.1"	NA	"Belongs to the glutamine synthetase family"	NA	NA	NA	NA	NA
+"KAF7796377.1"	NA	"Belongs to the ubiquitin-conjugating enzyme family"	"2.3.2.-"	NA	NA	NA	NA
+"KAF7796379.1"	"60S ribosomal export protein NMD3"	"Belongs to the NMD3 family"	NA	NA	NA	NA	NA
+"KAF7796391.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7796395.1"	NA	NA	NA	"GH16_2(34-388)"	"N"	"GH16_2"	"N"
+"KAF7796397.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7796413.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7796438.1"	NA	NA	NA	"AA1_1(122-312)"	"AA1"	"AA1_1"	"Y(1-21)"
+"KAF7796441.1"	NA	NA	NA	"CE15(111-438)"	"CE15+CBM1"	"CBM1+CE15"	"Y(1-24)"
+"KAF7796448.1"	NA	"Belongs to the MIP/aquaporin (TC 1.A.8) family"	NA	NA	NA	NA	NA
+"KAF7796449.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7796466.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7796468.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7796471.1"	NA	"Belongs to the eIF-1A family"	NA	NA	NA	NA	NA
+"KAF7796472.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7796473.1"	NA	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7796474.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(1-153)"	"AA2"	"AA2"	"N"
+"KAF7796474.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(1-153)"	"AA2"	"AA2"	"N"
+"KAF7796474.1"	"Peroxidase"	"Belongs to the peroxidase family. Ligninase subfamily"	"1.11.1.-"	"AA2(1-153)"	"AA2"	"AA2"	"N"
+"KAF7796476.1"	"Alkyl transferase"	"Belongs to the UPP synthase family"	"2.5.1.-"	NA	NA	NA	NA
+"KAF7796482.1"	"Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1"	"Belongs to the DDOST 48 kDa subunit family"	NA	NA	NA	NA	NA
+"KAF7796486.1"	"Adenylate kinase"	"Belongs to the adenylate kinase family"	"2.7.4.3"	NA	NA	NA	NA
+"KAF7796486.1"	"Adenylate kinase"	"Belongs to the adenylate kinase family. AK2 subfamily"	"2.7.4.3"	NA	NA	NA	NA
+"KAF7796500.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7796516.1"	"Uridylate kinase"	"Belongs to the adenylate kinase family"	"2.7.4.14"	NA	NA	NA	NA
+"KAF7796516.1"	"Uridylate kinase"	"Belongs to the adenylate kinase family. UMP-CMP kinase subfamily"	"2.7.4.14"	NA	NA	NA	NA
+"KAF7796524.1"	NA	NA	NA	"GH3(36-249)"	"GH3"	"GH3"	"N"
+"KAF7796525.1"	NA	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family"	NA	"N"	"N"	"GT2"	"N"
+"KAF7796526.1"	"E3 ubiquitin-protein ligase"	NA	"2.3.2.26"	NA	NA	NA	NA
+"KAF7796538.1"	NA	"Belongs to the CDC50/LEM3 family"	NA	NA	NA	NA	NA
+"KAF7796555.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7796562.1"	"Glucanase"	"Belongs to the glycosyl hydrolase 7 (cellulase C) family"	"3.2.1.-"	"GH7(20-449)"	"GH7+CBM1"	"CBM1+GH7"	"Y(1-27)"
+"KAF7796564.1"	NA	"Belongs to the peptidase M16 family"	NA	NA	NA	NA	NA
+"KAF7796570.1"	"Elongation factor Ts, mitochondrial"	"Belongs to the EF-Ts family"	NA	NA	NA	NA	NA
+"KAF7796574.1"	NA	"Belongs to the fatty acid desaturase type 1 family"	NA	NA	NA	NA	NA
+"KAF7796588.1"	"ATPase GET3"	"Belongs to the arsA ATPase family"	"3.6.-.-"	NA	NA	NA	NA
+"KAF7796589.1"	"Signal recognition particle subunit SRP68"	"Belongs to the SRP68 family"	NA	NA	NA	NA	NA
+"KAF7796591.1"	"DNA-directed RNA polymerase subunit"	"Belongs to the RNA polymerase beta' chain family"	"2.7.7.6"	NA	NA	NA	NA
+"KAF7796592.1"	"Vacuolar protein sorting-associated protein 27"	"Belongs to the VPS27 family"	NA	NA	NA	NA	NA
+"KAF7796593.1"	"Proline dehydrogenase"	"Belongs to the proline oxidase family"	"1.5.5.2"	NA	NA	NA	NA
+"KAF7796596.1"	"DNA topoisomerase 2"	"Belongs to the type II topoisomerase family"	"5.6.2.2"	NA	NA	NA	NA
+"KAF7796608.1"	"Protein-lysine N-methyltransferase EFM4"	"Belongs to the class I-like SAM-binding methyltransferase superfamily. EFM4 family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7796615.1"	NA	"Belongs to the GST superfamily"	NA	NA	NA	NA	NA
+"KAF7796616.1"	NA	"Belongs to the actin family"	NA	"N"	"N"	"GT22"	"N"
+"KAF7796617.1"	NA	NA	NA	"AA3_3(1-497)"	"AA3"	"AA3_3"	"N"
+"KAF7796618.1"	NA	"Belongs to the acyl-CoA dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7796620.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7796623.1"	NA	"Belongs to the cyclin family"	NA	NA	NA	NA	NA
+"KAF7796638.1"	"Protein arginine N-methyltransferase"	"Belongs to the class I-like SAM-binding methyltransferase superfamily"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7796657.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(118-364)"	"N"	"AA2"	"Y(1-22)"
+"KAF7796657.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(118-364)"	"N"	"AA2"	"Y(1-22)"
+"KAF7796675.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7796676.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7796677.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7796678.1"	NA	NA	NA	"GH3(37-250)"	"GH3"	"GH3"	"N"
+"KAF7796685.1"	NA	"Belongs to the universal ribosomal protein uL3 family"	NA	NA	NA	NA	NA
+"KAF7796687.1"	NA	"Belongs to the small GTPase superfamily. SAR1 family"	NA	NA	NA	NA	NA
+"KAF7796689.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7796700.1"	NA	"Belongs to the actin-binding proteins ADF family. GMF subfamily"	NA	NA	NA	NA	NA
+"KAF7796709.1"	NA	"Belongs to the glutamine synthetase family"	NA	NA	NA	NA	NA
+"KAF7796712.1"	NA	"Belongs to the ubiquitin-conjugating enzyme family"	"2.3.2.-"	NA	NA	NA	NA
+"KAF7796713.1"	"Ribonucloprotein"	"Belongs to the eukaryotic ribosomal protein eL8 family"	NA	NA	NA	NA	NA
+"KAF7796721.1"	"Vacuolar protein sorting-associated protein 28"	"Belongs to the VPS28 family"	NA	NA	NA	NA	NA
+"KAF7796721.1"	"Vacuolar protein sorting-associated protein 28"	"Belongs to the VPS28 family"	NA	NA	NA	NA	NA
+"KAF7796721.1"	"Vacuolar protein sorting-associated protein 28"	"Belongs to the VPS28 family"	NA	NA	NA	NA	NA
+"KAF7796727.1"	"tRNA-splicing endonuclease subunit Sen34"	"Belongs to the tRNA-intron endonuclease family"	"4.6.1.16"	NA	NA	NA	NA
+"KAF7796733.1"	NA	NA	NA	"N"	"N"	"GT4"	"N"
+"KAF7796735.1"	NA	NA	NA	"GT4(21-191)"	"N"	"GT4"	"N"
+"KAF7796738.1"	"Adenylyl cyclase-associated protein"	"Belongs to the CAP family"	NA	NA	NA	NA	NA
+"KAF7796749.1"	"Protein N-terminal glutamine amidohydrolase"	"Belongs to the NTAQ1 family"	"3.5.1.122"	NA	NA	NA	NA
+"KAF7796767.1"	"Aminopeptidase"	"Belongs to the peptidase M1 family"	"3.4.11.-"	NA	NA	NA	NA
+"KAF7796772.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7796787.1"	"Galactose-1-phosphate uridylyltransferase"	"Belongs to the galactose-1-phosphate uridylyltransferase type 1 family"	"2.7.7.12"	NA	NA	NA	NA
+"KAF7796789.1"	"Protein SDA1"	"Belongs to the SDA1 family"	NA	NA	NA	NA	NA
+"KAF7796791.1"	"Phosphoglycerate kinase"	"Belongs to the phosphoglycerate kinase family"	"2.7.2.3"	NA	NA	NA	NA
+"KAF7796811.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7796816.1"	NA	"Belongs to the EMP24/GP25L family"	NA	NA	NA	NA	NA
+"KAF7796821.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7796827.1"	NA	NA	NA	"CE16(58-327)"	"CE16"	"N"	"N"
+"KAF7796857.1"	NA	"Belongs to the iron/ascorbate-dependent oxidoreductase family"	NA	NA	NA	NA	NA
+"KAF7796871.1"	"Cytochrome c heme lyase"	"Belongs to the cytochrome c-type heme lyase family"	"4.4.1.17"	NA	NA	NA	NA
+"KAF7796873.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7796877.1"	NA	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7796878.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7796890.1"	"FACT complex subunit"	"Belongs to the peptidase M24 family. SPT16 subfamily"	NA	NA	NA	NA	NA
+"KAF7796893.1"	"DNA-directed RNA polymerase III subunit RPC3"	"Belongs to the RNA polymerase beta chain family"	NA	NA	NA	NA	NA
+"KAF7796894.1"	NA	"Belongs to the histone H1/H5 family"	NA	NA	NA	NA	NA
+"KAF7796900.1"	NA	NA	NA	"GH3(64-317)"	"GH3"	"GH3"	"N"
+"KAF7796901.1"	NA	NA	NA	"GH3(64-317)"	"GH3"	"GH3"	"Y(1-23)"
+"KAF7796905.1"	"Solute carrier family 40 protein"	"Belongs to the ferroportin (FP) (TC 2.A.100) family. SLC40A subfamily"	NA	NA	NA	NA	NA
+"KAF7796906.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7796906.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7796909.1"	NA	NA	NA	"GH88(72-402)"	"GH88"	"GH88"	"Y(1-25)"
+"KAF7796910.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7796910.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7796919.1"	"Histone acetyltransferase type B catalytic subunit"	"Belongs to the HAT1 family"	"2.3.1.48"	NA	NA	NA	NA
+"KAF7796926.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7796943.1"	NA	"Belongs to the arginase family"	NA	NA	NA	NA	NA
+"KAF7796963.1"	"Histone H2B"	"Belongs to the histone H2B family"	NA	NA	NA	NA	NA
+"KAF7796979.1"	NA	"Belongs to the HSF family"	NA	NA	NA	NA	NA
+"KAF7796988.1"	NA	NA	NA	"N"	"GT48"	"GT48"	"N"
+"KAF7796989.1"	NA	NA	NA	"GT48(1-486)"	"GT48"	"GT48"	"N"
+"KAF7796994.1"	NA	NA	NA	"AA5(144-656)"	"AA5"	"AA5_1"	"N"
+"KAF7796995.1"	NA	NA	NA	"AA5(375-892)"	"AA5"	"AA5_1"	"N"
+"KAF7796997.1"	NA	NA	NA	"AA5(533-1051)"	"AA5"	"AA5_1"	"N"
+"KAF7797009.1"	"Elongation factor G, mitochondrial"	"Belongs to the GTP-binding elongation factor family. EF-G/EF-2 subfamily"	NA	NA	NA	NA	NA
+"KAF7797014.1"	NA	NA	NA	"GT2_Glyco_trans_2_3(544-759)"	"GT0"	"GT0"	"N"
+"KAF7797017.1"	NA	NA	NA	"GT2_Glyco_trans_2_3(496-713)"	"GT0"	"GT0"	"N"
+"KAF7797019.1"	NA	NA	NA	"GH16_4(272-606)"	"N"	"GH16_4"	"N"
+"KAF7797020.1"	NA	NA	NA	"GT2_Glyco_trans_2_3(503-718)"	"GT0"	"GT0"	"N"
+"KAF7797035.1"	"Transcription elongation factor SPT5"	"Belongs to the SPT5 family"	NA	NA	NA	NA	NA
+"KAF7797052.1"	"Peptidyl-prolyl cis-trans isomerase"	"Belongs to the cyclophilin-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7797054.1"	"Transcription initiation factor IIA subunit 2"	"Belongs to the TFIIA subunit 2 family"	NA	NA	NA	NA	NA
+"KAF7797058.1"	"26S proteasome regulatory subunit RPN1"	"Belongs to the proteasome subunit S2 family"	NA	"N"	"N"	"GT0"	"N"
+"KAF7797068.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7797069.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7797072.1"	NA	NA	NA	"GH51(1-312)"	"GH51"	"GH51"	"N"
+"KAF7797078.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7797079.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7797100.1"	"Ribonuclease"	"Belongs to the RNase HII family"	"3.1.26.4"	NA	NA	NA	NA
+"KAF7797101.1"	NA	NA	NA	"GH13_5(40-321)"	"GH13"	"GH13_5"	"N"
+"KAF7797112.1"	NA	"Belongs to the universal ribosomal protein uS7 family"	NA	NA	NA	NA	NA
+"KAF7797119.1"	"Mitochondrial import inner membrane translocase subunit TIM50"	"Belongs to the TIM50 family"	NA	NA	NA	NA	NA
+"KAF7797120.1"	NA	NA	NA	"CE16(44-169)"	"CE16+CBM1"	"N"	"Y(1-23)"
+"KAF7797128.1"	NA	"Belongs to the TCP-1 chaperonin family"	NA	NA	NA	NA	NA
+"KAF7797145.1"	"Peptide hydrolase"	"Belongs to the peptidase M28 family"	"3.4.-.-"	NA	NA	NA	NA
+"KAF7797157.1"	NA	"Belongs to the GST superfamily"	NA	NA	NA	NA	NA
+"KAF7797162.1"	"Coatomer subunit zeta"	"Belongs to the adaptor complexes small subunit family"	NA	NA	NA	NA	NA
+"KAF7797165.1"	NA	NA	NA	"N"	"N"	"CBM48+GH13_8"	"N"
+"KAF7797168.1"	NA	NA	NA	"AA12(10-195)"	"N"	"N"	"N"
+"KAF7797173.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7797174.1"	"Chitin synthase"	"Belongs to the chitin synthase family"	"2.4.1.16"	"GT2_Chitin_synth_1(197-350)"	"GT2"	"GT2"	"N"
+"KAF7797175.1"	NA	"Belongs to the enoyl-CoA hydratase/isomerase family"	NA	NA	NA	NA	NA
+"KAF7797177.1"	"Isocitrate lyase"	"Belongs to the isocitrate lyase/PEP mutase superfamily. Isocitrate lyase family"	NA	NA	NA	NA	NA
+"KAF7797181.1"	"Mitochondrial inner membrane protease ATP23"	"Belongs to the peptidase M76 family"	"3.4.24.-"	NA	NA	NA	NA
+"KAF7797185.1"	NA	"Belongs to the class-V pyridoxal-phosphate-dependent aminotransferase family"	NA	NA	NA	NA	NA
+"KAF7797189.1"	NA	"Belongs to the actin family"	NA	NA	NA	NA	NA
+"KAF7797190.1"	"tRNA-splicing endonuclease subunit Sen2"	"Belongs to the tRNA-intron endonuclease family"	"4.6.1.16"	NA	NA	NA	NA
+"KAF7797201.1"	"GTP-binding protein"	"Belongs to the GTR/RAG GTP-binding protein family"	NA	NA	NA	NA	NA
+"KAF7797205.1"	"Eukaryotic translation initiation factor 6"	"Belongs to the eIF-6 family"	NA	NA	NA	NA	NA
+"KAF7797206.1"	"Protein arginine methyltransferase NDUFAF7"	"Belongs to the NDUFAF7 family"	"2.1.1.320"	NA	NA	NA	NA
+"KAF7797208.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(43-300)"	"AA2"	"AA2"	"Y(1-26)"
+"KAF7797208.1"	"Peroxidase"	"Belongs to the peroxidase family. Ligninase subfamily"	"1.11.1.-"	"AA2(43-300)"	"AA2"	"AA2"	"Y(1-26)"
+"KAF7797208.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(43-300)"	"AA2"	"AA2"	"Y(1-26)"
+"KAF7797209.1"	"Peroxidase"	"Belongs to the peroxidase family. Ligninase subfamily"	"1.11.1.-"	"AA2(1-159)"	"AA2"	"N"	"N"
+"KAF7797209.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(1-159)"	"AA2"	"N"	"N"
+"KAF7797209.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(1-159)"	"AA2"	"N"	"N"
+"KAF7797212.1"	"Beta-xylanase"	"Belongs to the glycosyl hydrolase 10 (cellulase F) family"	"3.2.1.8"	"GH10(44-337)"	"GH10+CBM1"	"CBM1+GH10"	"N"
+"KAF7797213.1"	"Beta-xylanase"	"Belongs to the glycosyl hydrolase 10 (cellulase F) family"	"3.2.1.8"	"GH10(86-402)"	"GH10+CBM1"	"CBM1+GH10"	"Y(1-21)"
+"KAF7797214.1"	"Beta-xylanase"	"Belongs to the glycosyl hydrolase 10 (cellulase F) family"	"3.2.1.8"	"GH10(39-346)"	"CBM1"	"CBM1+GH10"	"Y(1-28)"
+"KAF7797215.1"	"Beta-xylanase"	"Belongs to the glycosyl hydrolase 10 (cellulase F) family"	"3.2.1.8"	"GH10(42-334)"	"GH10+CBM1"	"CBM1+GH10"	"Y(1-28)"
+"KAF7797216.1"	"Beta-xylanase"	"Belongs to the glycosyl hydrolase 10 (cellulase F) family"	"3.2.1.8"	"GH10(117-298)"	"GH10+CBM1"	"N"	"Y(1-29)"
+"KAF7797217.1"	NA	"Belongs to the glycosyl hydrolase 17 family"	NA	"GH17(210-478)"	"GH17"	"N"	"N"
+"KAF7797220.1"	NA	NA	NA	"GH16_1(59-308)"	"N"	"N"	"Y(1-19)"
+"KAF7797221.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7797249.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7797261.1"	NA	"Belongs to the cytochrome b5 family"	NA	NA	NA	NA	NA
+"KAF7797270.1"	NA	"Belongs to the zinc-containing alcohol dehydrogenase family"	NA	"N"	"N"	"GH93"	"N"
+"KAF7797272.1"	NA	"Belongs to the spermidine/spermine synthase family"	NA	NA	NA	NA	NA
+"KAF7797279.1"	"Protein farnesyltransferase subunit beta"	"Belongs to the protein prenyltransferase subunit beta family"	"2.5.1.58"	NA	NA	NA	NA
+"KAF7797283.1"	"Phospholipase"	"Belongs to the phospholipase D family"	"3.1.4.4"	NA	NA	NA	NA
+"KAF7797287.1"	"Nuclear pore complex protein"	"Belongs to the nucleoporin Nup84/Nup107 family"	NA	NA	NA	NA	NA
+"KAF7797288.1"	"Nuclear pore complex protein"	"Belongs to the nucleoporin Nup84/Nup107 family"	NA	NA	NA	NA	NA
+"KAF7797289.1"	"Nuclear pore complex protein"	"Belongs to the nucleoporin Nup84/Nup107 family"	NA	NA	NA	NA	NA
+"KAF7797295.1"	"Nucleolar GTP-binding protein 1"	"Belongs to the TRAFAC class OBG-HflX-like GTPase superfamily. OBG GTPase family. NOG subfamily"	NA	NA	NA	NA	NA
+"KAF7797298.1"	"Lysine--tRNA ligase"	NA	"6.1.1.6"	NA	NA	NA	NA
+"KAF7797313.1"	"Telomerase reverse transcriptase"	"Belongs to the reverse transcriptase family. Telomerase subfamily"	"2.7.7.49"	NA	NA	NA	NA
+"KAF7797329.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7797362.1"	"GPN-loop GTPase 2"	"Belongs to the GPN-loop GTPase family"	NA	NA	NA	NA	NA
+"KAF7797370.1"	NA	NA	NA	"AA9(15-102)"	"AA9"	"N"	"N"
+"KAF7797374.1"	NA	"Belongs to the NUP family"	NA	NA	NA	NA	NA
+"KAF7797383.1"	NA	"Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7797396.1"	"NADPH--cytochrome P450 reductase"	"Belongs to the NADPH--cytochrome P450 reductase family"	"1.6.2.4"	NA	NA	NA	NA
+"KAF7797396.1"	"NADPH--cytochrome P450 reductase"	"In the N-terminal section; belongs to the flavodoxin family"	"1.6.2.4"	NA	NA	NA	NA
+"KAF7797396.1"	"NADPH--cytochrome P450 reductase"	"In the C-terminal section; belongs to the flavoprotein pyridine nucleotide cytochrome reductase family"	"1.6.2.4"	NA	NA	NA	NA
+"KAF7797398.1"	"Sensitive to high expression protein 9, mitochondrial"	"Belongs to the SHE9 family"	NA	NA	NA	NA	NA
+"KAF7797400.1"	NA	NA	NA	"GH71(30-423)"	"GH71"	"N"	"Y(1-19)"
+"KAF7797401.1"	NA	NA	NA	"GH71(1-422)"	"GH71"	"GH71"	"N"
+"KAF7797403.1"	NA	"Belongs to the PP2C family"	NA	NA	NA	NA	NA
+"KAF7797428.1"	"Alternative oxidase"	"Belongs to the alternative oxidase family"	"1.-.-.-"	NA	NA	NA	NA
+"KAF7797457.1"	"Phospho-2-dehydro-3-deoxyheptonate aldolase"	"Belongs to the class-I DAHP synthase family"	"2.5.1.54"	NA	NA	NA	NA
+"KAF7797471.1"	NA	"Belongs to the universal ribosomal protein uL6 family"	NA	NA	NA	NA	NA
+"KAF7797473.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7797475.1"	NA	NA	NA	"GH71(15-437)"	"GH71"	"GH71"	"N"
+"KAF7797477.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7797489.1"	"tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRM61"	"Belongs to the class I-like SAM-binding methyltransferase superfamily. TRM61 family"	"2.1.1.220"	NA	NA	NA	NA
+"KAF7797502.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7797503.1"	"Cytochrome c heme lyase"	"Belongs to the cytochrome c-type heme lyase family"	"4.4.1.17"	NA	NA	NA	NA
+"KAF7797507.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7797519.1"	NA	"Belongs to the HSF family"	NA	NA	NA	NA	NA
+"KAF7797530.1"	NA	NA	NA	"GH128(1-187)"	"N"	"N"	"N"
+"KAF7797531.1"	NA	NA	NA	"GH128(144-380)"	"N"	"N"	"Y(1-30)"
+"KAF7797533.1"	NA	"Belongs to the universal ribosomal protein uL11 family"	NA	NA	NA	NA	NA
+"KAF7797538.1"	NA	NA	NA	"GH125(7-344)"	"N"	"GH125"	"N"
+"KAF7797542.1"	"GPN-loop GTPase 3"	"Belongs to the GPN-loop GTPase family"	NA	NA	NA	NA	NA
+"KAF7797549.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7797550.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7797554.1"	"Carbonic anhydrase"	"Belongs to the beta-class carbonic anhydrase family"	"4.2.1.1"	NA	NA	NA	NA
+"KAF7797561.1"	"Pre-mRNA-splicing factor CWC24"	"Belongs to the CWC24 family"	NA	NA	NA	NA	NA
+"KAF7797576.1"	"Carbonic anhydrase"	"Belongs to the beta-class carbonic anhydrase family"	"4.2.1.1"	NA	NA	NA	NA
+"KAF7797585.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7797594.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7797603.1"	"Diphosphomevalonate decarboxylase"	"Belongs to the diphosphomevalonate decarboxylase family"	"4.1.1.33"	NA	NA	NA	NA
+"KAF7797603.1"	"Diphosphomevalonate decarboxylase"	"Belongs to the diphosphomevalonate decarboxylase family"	"4.1.1.33"	NA	NA	NA	NA
+"KAF7797603.1"	"Diphosphomevalonate decarboxylase"	"Belongs to the diphosphomevalonate decarboxylase family"	"4.1.1.33"	NA	NA	NA	NA
+"KAF7797603.1"	"Diphosphomevalonate decarboxylase"	"Belongs to the diphosphomevalonate decarboxylase family"	"4.1.1.33"	NA	NA	NA	NA
+"KAF7797603.1"	"Diphosphomevalonate decarboxylase"	"Belongs to the diphosphomevalonate decarboxylase family"	"4.1.1.33"	NA	NA	NA	NA
+"KAF7797603.1"	"Diphosphomevalonate decarboxylase"	"Belongs to the diphosphomevalonate decarboxylase family"	"4.1.1.33"	NA	NA	NA	NA
+"KAF7797603.1"	"Diphosphomevalonate decarboxylase"	"Belongs to the diphosphomevalonate decarboxylase family"	"4.1.1.33"	NA	NA	NA	NA
+"KAF7797603.1"	"Diphosphomevalonate decarboxylase"	"Belongs to the diphosphomevalonate decarboxylase family"	"4.1.1.33"	NA	NA	NA	NA
+"KAF7797605.1"	NA	NA	NA	"N"	"CBM5"	"N"	"N"
+"KAF7797616.1"	NA	NA	NA	"GH92(309-536)"	"GH92"	"GH92"	"N"
+"KAF7797618.1"	NA	NA	NA	"AA5_1(144-683)"	"AA5"	"AA5_1"	"Y(1-24)"
+"KAF7797624.1"	"Small nuclear ribonucleoprotein Sm D3"	"Belongs to the snRNP core protein family"	NA	NA	NA	NA	NA
+"KAF7797626.1"	"Proteasome subunit alpha type"	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7797626.1"	"Proteasome subunit alpha type"	"Belongs to the peptidase T1A family"	NA	NA	NA	NA	NA
+"KAF7797628.1"	"Gluconokinase"	"Belongs to the gluconokinase GntK/GntV family"	"2.7.1.12"	NA	NA	NA	NA
+"KAF7797638.1"	NA	"Belongs to the thiolase-like superfamily. Beta-ketoacyl-ACP synthases family"	NA	NA	NA	NA	NA
+"KAF7797647.1"	NA	"Belongs to the DNA mismatch repair MutS family"	NA	NA	NA	NA	NA
+"KAF7797655.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_5(52-346)"	"GH5+CBM1"	"GH5_5"	"Y(1-22)"
+"KAF7797657.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_5(44-339)"	"GH5+CBM1"	"GH5_5"	"Y(1-21)"
+"KAF7797667.1"	NA	"Belongs to the glycosyl hydrolase 1 family"	NA	"GH1(7-170)"	"GH1"	"N"	"N"
+"KAF7797670.1"	"Peptidyl-prolyl cis-trans isomerase"	"Belongs to the cyclophilin-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7797671.1"	"Peptidyl-prolyl cis-trans isomerase"	"Belongs to the cyclophilin-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7797673.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7797674.1"	"Protein BCP1"	"Belongs to the BCP1 family"	NA	NA	NA	NA	NA
+"KAF7797675.1"	"Vacuolar protein sorting-associated protein 35"	"Belongs to the VPS35 family"	NA	NA	NA	NA	NA
+"KAF7797691.1"	"Vacuolar protein sorting-associated protein 29"	"Belongs to the VPS29 family"	NA	NA	NA	NA	NA
+"KAF7797708.1"	NA	NA	NA	"AA9(9-229)"	"AA9+CBM1"	"AA9+CBM1"	"Y(1-27)"
+"KAF7797709.1"	NA	NA	NA	"AA9(8-228)"	"N"	"AA9+CBM1"	"Y(1-21)"
+"KAF7797710.1"	NA	NA	NA	"AA9(3-138)"	"N"	"N"	"N"
+"KAF7797712.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7797750.1"	"60S ribosomal protein L13"	"Belongs to the eukaryotic ribosomal protein eL13 family"	NA	NA	NA	NA	NA
+"KAF7797753.1"	"Imidazole glycerol phosphate synthase hisHF"	"In the C-terminal section; belongs to the HisA/HisF family"	NA	NA	NA	NA	NA
+"KAF7797753.1"	"Imidazole glycerol phosphate synthase hisHF"	"Belongs to the HisA/HisF family"	NA	NA	NA	NA	NA
+"KAF7797754.1"	"D-3-phosphoglycerate dehydrogenase"	"Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family"	"1.1.1.95"	NA	NA	NA	NA
+"KAF7797754.1"	"D-3-phosphoglycerate dehydrogenase"	"Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family"	"1.1.1.399"	NA	NA	NA	NA
+"KAF7797755.1"	"D-3-phosphoglycerate dehydrogenase"	"Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family"	"1.1.1.95"	NA	NA	NA	NA
+"KAF7797755.1"	"D-3-phosphoglycerate dehydrogenase"	"Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family"	"1.1.1.399"	NA	NA	NA	NA
+"KAF7797756.1"	"DNA repair protein RAD51 homolog"	"Belongs to the RecA family. RAD51 subfamily"	NA	NA	NA	NA	NA
+"KAF7797756.1"	"DNA repair protein RAD51 homolog"	"Belongs to the RecA family"	NA	NA	NA	NA	NA
+"KAF7797757.1"	"DNA repair protein RAD51 homolog"	"Belongs to the RecA family. RAD51 subfamily"	NA	NA	NA	NA	NA
+"KAF7797757.1"	"DNA repair protein RAD51 homolog"	"Belongs to the RecA family"	NA	NA	NA	NA	NA
+"KAF7797758.1"	"DNA repair protein RAD51 homolog"	"Belongs to the RecA family. RAD51 subfamily"	NA	NA	NA	NA	NA
+"KAF7797758.1"	"DNA repair protein RAD51 homolog"	"Belongs to the RecA family"	NA	NA	NA	NA	NA
+"KAF7797760.1"	NA	"Belongs to the universal ribosomal protein uS9 family"	NA	NA	NA	NA	NA
+"KAF7797766.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7797772.1"	"Protein YOP1"	"Belongs to the DP1 family"	NA	NA	NA	NA	NA
+"KAF7797781.1"	"Ribosomal protein L19"	"Belongs to the eukaryotic ribosomal protein eL19 family"	NA	NA	NA	NA	NA
+"KAF7797787.1"	"DNA-directed RNA polymerase subunit"	"Belongs to the RNA polymerase beta' chain family"	"2.7.7.6"	NA	NA	NA	NA
+"KAF7797789.1"	"Vacuolar protein sorting-associated protein 35"	"Belongs to the VPS35 family"	NA	NA	NA	NA	NA
+"KAF7797801.1"	NA	NA	NA	"GT33(60-292)"	"GT33"	"N"	"N"
+"KAF7797804.1"	NA	"Belongs to the peptidase A1 family"	NA	NA	NA	NA	NA
+"KAF7797806.1"	NA	"Belongs to the OSBP family"	NA	NA	NA	NA	NA
+"KAF7797812.1"	NA	NA	NA	"GH18(227-414)"	"GH18+CBM18"	"N"	"N"
+"KAF7797818.1"	NA	"Belongs to the actin family"	NA	NA	NA	NA	NA
+"KAF7797825.1"	"Copper transporter"	"Belongs to the copper transporter (Ctr) (TC 1.A.56) family. SLC31A subfamily"	NA	NA	NA	NA	NA
+"KAF7797836.1"	NA	NA	NA	"GH38(99-357)"	"GH38"	"GH38"	"N"
+"KAF7797859.1"	NA	"Belongs to the SecY/SEC61-alpha family"	NA	NA	NA	NA	NA
+"KAF7797860.1"	"Ubiquitin-like modifier-activating enzyme ATG7"	"Belongs to the ATG7 family"	NA	NA	NA	NA	NA
+"KAF7797887.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7797888.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7797894.1"	"Cation-transporting ATPase"	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type V subfamily"	"7.2.2.-"	NA	NA	NA	NA
+"KAF7797896.1"	"Ribosome production factor 2 homolog"	"Belongs to the RPF2 family"	NA	NA	NA	NA	NA
+"KAF7797915.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7797916.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7797924.1"	NA	NA	NA	"AA5_1(28-625)"	"AA5"	"AA5_1"	"Y(1-18)"
+"KAF7797931.1"	"Very-long-chain 3-oxoacyl-CoA reductase"	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	"1.1.1.330"	NA	NA	NA	NA
+"KAF7797941.1"	NA	NA	NA	"AA3_2(3-525)"	"N"	"N"	"N"
+"KAF7797958.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7797960.1"	"Terpene synthase"	"Belongs to the terpene synthase family"	"4.2.3.-"	NA	NA	NA	NA
+"KAF7797961.1"	"Terpene synthase"	"Belongs to the terpene synthase family"	"4.2.3.-"	NA	NA	NA	NA
+"KAF7797962.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7797964.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7797971.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7797979.1"	"Calcium uniporter protein"	"Belongs to the MCU (TC 1.A.77) family"	NA	NA	NA	NA	NA
+"KAF7797982.1"	"GPI-anchored wall transfer protein"	"Belongs to the PIGW family"	"2.3.-.-"	NA	NA	NA	NA
+"KAF7797983.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(45-163)+AA2(208-339)"	"AA2"	"AA2"	"Y(1-29)"
+"KAF7797983.1"	"Peroxidase"	"Belongs to the peroxidase family. Ligninase subfamily"	"1.11.1.-"	"AA2(45-163)+AA2(208-339)"	"AA2"	"AA2"	"Y(1-29)"
+"KAF7797983.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(45-163)+AA2(208-339)"	"AA2"	"AA2"	"Y(1-29)"
+"KAF7797994.1"	NA	NA	NA	"GH5_12(9-353)"	"GH5"	"GH5_12"	"N"
+"KAF7798005.1"	"Clathrin heavy chain"	"Belongs to the clathrin heavy chain family"	NA	NA	NA	NA	NA
+"KAF7798018.1"	"Pyruvate carboxylase"	NA	"6.4.1.1"	NA	NA	NA	NA
+"KAF7798019.1"	"GDP-mannose transporter"	"Belongs to the TPT transporter family. SLC35D subfamily"	NA	NA	NA	NA	NA
+"KAF7798027.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7798029.1"	"MMS19 nucleotide excision repair protein"	"Belongs to the MET18/MMS19 family"	NA	NA	NA	NA	NA
+"KAF7798037.1"	"MICOS complex subunit"	NA	NA	NA	NA	NA	NA
+"KAF7798039.1"	NA	"Belongs to the thiolase-like superfamily. Beta-ketoacyl-ACP synthases family"	NA	NA	NA	NA	NA
+"KAF7798060.1"	NA	"Belongs to the major facilitator superfamily. Proton-dependent oligopeptide transporter (POT/PTR) (TC 2.A.17) family"	NA	NA	NA	NA	NA
+"KAF7798065.1"	"Autophagy-related protein 13"	"Belongs to the ATG13 family. Fungi subfamily"	NA	NA	NA	NA	NA
+"KAF7798084.1"	NA	NA	NA	"GH12(105-258)"	"GH12"	"N"	"Y(1-26)"
+"KAF7798086.1"	NA	"Belongs to the arginase family"	NA	NA	NA	NA	NA
+"KAF7798086.1"	NA	"Belongs to the arginase family"	NA	NA	NA	NA	NA
+"KAF7798087.1"	NA	NA	NA	"GH105(50-402)"	"GH105"	"N"	"Y(1-22)"
+"KAF7798088.1"	"Dolichol-phosphate mannosyltransferase subunit 1"	"Belongs to the glycosyltransferase 2 family"	"2.4.1.83"	"GT2_Glycos_transf_2(10-178)"	"GT2"	"GT2"	"N"
+"KAF7798090.1"	"DNA polymerase epsilon catalytic subunit"	"Belongs to the DNA polymerase type-B family"	"2.7.7.7"	NA	NA	NA	NA
+"KAF7798091.1"	"Glucosamine 6-phosphate N-acetyltransferase"	"Belongs to the acetyltransferase family. GNA1 subfamily"	"2.3.1.4"	NA	NA	NA	NA
+"KAF7798099.1"	"60S ribosomal protein L20"	"Belongs to the eukaryotic ribosomal protein eL20 family"	NA	NA	NA	NA	NA
+"KAF7798101.1"	NA	"Belongs to the trans-sulfuration enzymes family"	NA	NA	NA	NA	NA
+"KAF7798107.1"	"Cleavage and polyadenylation specificity factor subunit 5"	"Belongs to the Nudix hydrolase family. CPSF5 subfamily"	NA	NA	NA	NA	NA
+"KAF7798119.1"	NA	"Belongs to the MCM family"	NA	NA	NA	NA	NA
+"KAF7798125.1"	"Signal peptidase complex catalytic subunit SEC11"	"Belongs to the peptidase S26B family"	"3.4.21.89"	NA	NA	NA	NA
+"KAF7798128.1"	NA	NA	NA	"PL38(69-365)"	"N"	"N"	"Y(1-25)"
+"KAF7798140.1"	NA	"Belongs to the glycosyl hydrolase 28 family"	"3.2.1.-"	NA	NA	NA	NA
+"KAF7798148.1"	"4-nitrophenylphosphatase"	NA	"3.1.3.41"	NA	NA	NA	NA
+"KAF7798158.1"	NA	NA	NA	"GT69(143-381)"	"GT69"	"GT69"	"N"
+"KAF7798159.1"	NA	NA	NA	"CE17(126-286)"	"N"	"N"	"N"
+"KAF7798164.1"	"NAD-dependent protein deacylase"	"Belongs to the sirtuin family. Class III subfamily"	"2.3.1.-"	NA	NA	NA	NA
+"KAF7798170.1"	NA	NA	NA	"GT90(326-620)"	"GT90"	"GT90"	"N"
+"KAF7798174.1"	"Serine/threonine-protein phosphatase 2A activator"	"Belongs to the PTPA-type PPIase family"	"5.2.1.8"	NA	NA	NA	NA
+"KAF7798178.1"	NA	"Belongs to the glycosyl hydrolase 28 family"	"3.2.1.-"	"GH28(18-194)"	"GH28"	"N"	"N"
+"KAF7798181.1"	NA	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Myosin family"	NA	"GT2_Chitin_synth_2(1229-1736)"	"GT2"	"GT2"	"N"
+"KAF7798195.1"	NA	"Belongs to the glycosyl hydrolase 31 family"	"3.2.1.-"	"GH31(327-869)"	"GH31"	"GH31"	"N"
+"KAF7798198.1"	"GDT1 family protein"	"Belongs to the GDT1 family"	NA	NA	NA	NA	NA
+"KAF7798203.1"	NA	NA	NA	"AA9(14-231)"	"N"	"N"	"N"
+"KAF7798204.1"	NA	NA	NA	"AA9(9-231)"	"N"	"N"	"Y(1-23)"
+"KAF7798219.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7798220.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7798240.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7798252.1"	NA	NA	NA	"AA3_2(70-558)"	"N"	"AA3_2"	"N"
+"KAF7798257.1"	"Glutathione synthetase"	"Belongs to the eukaryotic GSH synthase family"	"6.3.2.3"	NA	NA	NA	NA
+"KAF7798258.1"	NA	NA	NA	"GH131(21-300)"	"N"	"N"	"N"
+"KAF7798260.1"	NA	NA	NA	"AA3_2(7-472)"	"AA3"	"N"	"N"
+"KAF7798262.1"	NA	"Belongs to the GMC oxidoreductase family"	NA	"AA3_2(37-597)"	"N"	"AA3_2"	"Y(1-25)"
+"KAF7798267.1"	NA	"Belongs to the GMC oxidoreductase family"	NA	"AA3_2(15-532)+AA3_2(546-1106)"	"AA3"	"AA3_2"	"N"
+"KAF7798269.1"	NA	NA	NA	"AA3_2(1-270)"	"N"	"N"	"N"
+"KAF7798279.1"	"Proteasome subunit beta"	"Belongs to the peptidase T1B family"	"3.4.25.1"	NA	NA	NA	NA
+"KAF7798289.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7798290.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7798291.1"	NA	NA	"2.1.1.-"	NA	NA	NA	NA
+"KAF7798296.1"	"Trehalase"	"Belongs to the glycosyl hydrolase 37 family"	"3.2.1.28"	"GH37(97-555)"	"GH37"	"GH37"	"Y(1-29)"
+"KAF7798297.1"	"GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase"	"Belongs to the glycosyltransferase group 1 family. Glycosyltransferase 4 subfamily"	"2.4.1.131"	"GT4(304-467)"	"GT4"	"GT4"	"N"
+"KAF7798298.1"	NA	"Belongs to the FMN-dependent alpha-hydroxy acid dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7798303.1"	"Thioredoxin reductase"	"Belongs to the class-II pyridine nucleotide-disulfide oxidoreductase family"	"1.8.1.9"	"N"	"N"	"GT4"	"N"
+"KAF7798303.1"	"Thioredoxin reductase"	"Belongs to the class-II pyridine nucleotide-disulfide oxidoreductase family"	"1.8.1.9"	"N"	"N"	"GT4"	"N"
+"KAF7798303.1"	"Thioredoxin reductase"	"Belongs to the class-II pyridine nucleotide-disulfide oxidoreductase family"	"1.8.1.9"	"N"	"N"	"GT4"	"N"
+"KAF7798303.1"	"Thioredoxin reductase"	"Belongs to the class-II pyridine nucleotide-disulfide oxidoreductase family"	"1.8.1.9"	"N"	"N"	"GT4"	"N"
+"KAF7798306.1"	"NAD-specific glutamate dehydrogenase"	"Belongs to the Glu/Leu/Phe/Val dehydrogenases family"	"1.4.1.2"	NA	NA	NA	NA
+"KAF7798324.1"	NA	NA	NA	"GH15(10-308)"	"GH15"	"N"	"N"
+"KAF7798325.1"	NA	"Belongs to the chaperonin (HSP60) family"	NA	NA	NA	NA	NA
+"KAF7798334.1"	NA	"Belongs to the metallo-dependent hydrolases superfamily"	NA	NA	NA	NA	NA
+"KAF7798336.1"	NA	"Belongs to the enoyl-CoA hydratase/isomerase family"	NA	NA	NA	NA	NA
+"KAF7798342.1"	"DNA-directed RNA polymerase subunit"	"Belongs to the RNA polymerase beta' chain family"	"2.7.7.6"	NA	NA	NA	NA
+"KAF7798345.1"	NA	"Belongs to the DEAD box helicase family"	NA	"N"	"N"	"GT8"	"N"
+"KAF7798357.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7798363.1"	NA	"Belongs to the iron/ascorbate-dependent oxidoreductase family"	NA	NA	NA	NA	NA
+"KAF7798370.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7798374.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7798378.1"	NA	NA	NA	"GH13_8(231-524)"	"GH13+CBM48"	"CBM48+GH13_8"	"N"
+"KAF7798383.1"	NA	"Belongs to the ClpA/ClpB family"	NA	"N"	"N"	"GH6"	"N"
+"KAF7798395.1"	"Coatomer subunit beta'"	"Belongs to the WD repeat COPB2 family"	NA	NA	NA	NA	NA
+"KAF7798409.1"	NA	NA	NA	"CE16(111-379)"	"CE0"	"N"	"N"
+"KAF7798414.1"	"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial"	"Belongs to the complex I NDUFS4 subunit family"	NA	NA	NA	NA	NA
+"KAF7798417.1"	NA	NA	NA	"GH131(58-270)"	"GH131+CBM1"	"N"	"Y(1-20)"
+"KAF7798421.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7798429.1"	NA	"Belongs to the universal ribosomal protein uL22 family"	NA	NA	NA	NA	NA
+"KAF7798433.1"	"Thiamine thiazole synthase"	"Belongs to the THI4 family"	NA	NA	NA	NA	NA
+"KAF7798435.1"	NA	"Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin-like GTPase superfamily. Septin GTPase family"	NA	NA	NA	NA	NA
+"KAF7798437.1"	NA	"Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin-like GTPase superfamily. Septin GTPase family"	NA	NA	NA	NA	NA
+"KAF7798449.1"	"Prohibitin"	"Belongs to the prohibitin family"	NA	NA	NA	NA	NA
+"KAF7798452.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7798454.1"	"Carboxylic ester hydrolase"	"Belongs to the type-B carboxylesterase/lipase family"	"3.1.1.-"	NA	NA	NA	NA
+"KAF7798456.1"	"Coatomer subunit alpha"	NA	NA	NA	NA	NA	NA
+"KAF7798458.1"	"DNA mismatch repair protein"	"Belongs to the DNA mismatch repair MutS family"	NA	NA	NA	NA	NA
+"KAF7798458.1"	"DNA mismatch repair protein"	"Belongs to the DNA mismatch repair MutS family"	NA	NA	NA	NA	NA
+"KAF7798462.1"	"Phosphodiesterase"	"Belongs to the cyclic nucleotide phosphodiesterase family"	"3.1.4.-"	NA	NA	NA	NA
+"KAF7798468.1"	"Peptide hydrolase"	"Belongs to the peptidase M28 family"	"3.4.-.-"	NA	NA	NA	NA
+"KAF7798471.1"	"Lysozyme"	"Belongs to the glycosyl hydrolase 25 family"	"3.2.1.17"	"GH25(32-156)"	"GH25"	"N"	"Y(1-20)"
+"KAF7798474.1"	"GPI-anchor transamidase"	"Belongs to the peptidase C13 family"	"3.-.-.-"	NA	NA	NA	NA
+"KAF7798484.1"	NA	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	NA	NA	NA	NA
+"KAF7798487.1"	"Beta-hexosaminidase"	"Belongs to the glycosyl hydrolase 20 family"	"3.2.1.52"	"GH20(154-455)"	"GH20"	"GH20"	"N"
+"KAF7798490.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7798494.1"	"Mitogen-activated protein kinase"	"Belongs to the protein kinase superfamily"	"2.7.11.24"	NA	NA	NA	NA
+"KAF7798494.1"	"Mitogen-activated protein kinase"	"Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. MAP kinase subfamily"	"2.7.11.24"	NA	NA	NA	NA
+"KAF7798495.1"	"Protein-serine/threonine kinase"	"Belongs to the PDK/BCKDK protein kinase family"	"2.7.11.-"	NA	NA	NA	NA
+"KAF7798514.1"	NA	"Belongs to the MT-A70-like family"	NA	NA	NA	NA	NA
+"KAF7798516.1"	NA	NA	NA	"GH92(9-386)"	"GH92"	"N"	"N"
+"KAF7798517.1"	"Peptidyl-prolyl cis-trans isomerase"	NA	"5.2.1.8"	NA	NA	NA	NA
+"KAF7798520.1"	"alpha-1,2-Mannosidase"	"Belongs to the glycosyl hydrolase 47 family"	"3.2.1.-"	"GH47(1-258)"	"N"	"N"	"N"
+"KAF7798523.1"	"Histone H4"	"Belongs to the histone H4 family"	NA	NA	NA	NA	NA
+"KAF7798526.1"	"Spindle pole body component"	"Belongs to the TUBGCP family"	NA	NA	NA	NA	NA
+"KAF7798543.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7798545.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7798559.1"	NA	NA	NA	"AA1_1(38-339)"	"AA1"	"AA1_1"	"Y(1-21)"
+"KAF7798560.1"	NA	NA	NA	"AA1_1(91-393)"	"AA1"	"AA1_1"	"N"
+"KAF7798563.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7798579.1"	"Phosphomannomutase"	"Belongs to the eukaryotic PMM family"	"5.4.2.8"	NA	NA	NA	NA
+"KAF7798580.1"	"Terpene cyclase/mutase family member"	"Belongs to the terpene cyclase/mutase family"	"5.4.99.-"	NA	NA	NA	NA
+"KAF7798582.1"	NA	NA	NA	"GH16_1(182-269)"	"N"	"N"	"N"
+"KAF7798587.1"	NA	"Belongs to the tRNA nucleotidyltransferase/poly(A) polymerase family"	NA	NA	NA	NA	NA
+"KAF7798589.1"	NA	"Belongs to the DEAD box helicase family"	NA	NA	NA	NA	NA
+"KAF7798591.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7798593.1"	NA	NA	NA	"CE15(46-374)"	"CE15"	"CE15"	"Y(1-24)"
+"KAF7798594.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7798597.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7798606.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7798608.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_31(48-336)"	"N"	"GH5_31"	"Y(1-26)"
+"KAF7798609.1"	NA	NA	NA	"GH16_1(60-316)"	"N"	"GH16_1"	"Y(1-19)"
+"KAF7798615.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7798624.1"	"Small nuclear ribonucleoprotein E"	"Belongs to the snRNP Sm proteins family"	NA	NA	NA	NA	NA
+"KAF7798631.1"	"Ammonium transporter"	"Belongs to the ammonia transporter channel (TC 1.A.11.2) family"	NA	NA	NA	NA	NA
+"KAF7798657.1"	"ATP-dependent (S)-NAD(P)H-hydrate dehydratase"	"Belongs to the NnrD/CARKD family"	"4.2.1.93"	NA	NA	NA	NA
+"KAF7798658.1"	NA	"Belongs to the phosphohexose mutase family"	NA	NA	NA	NA	NA
+"KAF7798668.1"	"Histone H2A"	"Belongs to the histone H2A family"	NA	NA	NA	NA	NA
+"KAF7798675.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7798694.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7798707.1"	NA	NA	NA	"GT66(26-690)"	"GT66"	"GT66"	"N"
+"KAF7798713.1"	NA	"Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family"	NA	NA	NA	NA	NA
+"KAF7798723.1"	NA	NA	NA	"GH35(54-162)"	"N"	"N"	"Y(1-24)"
+"KAF7798728.1"	NA	"Belongs to the CDP-alcohol phosphatidyltransferase class-I family"	NA	NA	NA	NA	NA
+"KAF7798735.1"	"3-hydroxy-3-methylglutaryl coenzyme A synthase"	"Belongs to the thiolase-like superfamily. HMG-CoA synthase family"	"2.3.3.10"	NA	NA	NA	NA
+"KAF7798776.1"	"Squalene monooxygenase"	"Belongs to the squalene monooxygenase family"	"1.14.14.17"	NA	NA	NA	NA
+"KAF7798790.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7798793.1"	NA	NA	NA	"GH79(91-480)"	"GH79"	"GH79"	"Y(1-21)"
+"KAF7798794.1"	NA	NA	NA	"GH79(99-490)"	"GH79"	"GH79"	"Y(1-23)"
+"KAF7798795.1"	"Stress response protein NST1"	"Belongs to the NST1 family"	NA	NA	NA	NA	NA
+"KAF7798796.1"	"Phospholipid-transporting ATPase"	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IV subfamily"	"7.6.2.1"	NA	NA	NA	NA
+"KAF7798806.1"	NA	NA	NA	"GH5_9(288-415)"	"GH5"	"N"	"N"
+"KAF7798807.1"	NA	NA	NA	"GH5_9(1-194)"	"N"	"N"	"N"
+"KAF7798811.1"	"3-methyl-2-oxobutanoate hydroxymethyltransferase"	"Belongs to the PanB family"	"2.1.2.11"	NA	NA	NA	NA
+"KAF7798819.1"	"Nicotinamide-nucleotide adenylyltransferase"	"Belongs to the eukaryotic NMN adenylyltransferase family"	"2.7.7.1"	NA	NA	NA	NA
+"KAF7798820.1"	NA	NA	NA	"CE9(69-293)+CE9(369-531)"	"CE9"	"N"	"N"
+"KAF7798843.1"	NA	"Belongs to the glycosyl hydrolase 31 family"	"3.2.1.-"	"GH31(294-750)"	"GH31"	"GH31"	"N"
+"KAF7798862.1"	"Kinesin-like protein"	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	"N"	"CBM57"	"N"	"N"
+"KAF7798862.1"	"Kinesin-like protein"	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	"N"	"CBM57"	"N"	"N"
+"KAF7798863.1"	NA	"Belongs to the peptidase S8 family"	NA	"N"	"CBM57"	"N"	"Y(1-19)"
+"KAF7798867.1"	NA	"Belongs to the glycosyl hydrolase 28 family"	"3.2.1.-"	"GH28(44-360)"	"N"	"N"	"Y(1-24)"
+"KAF7798869.1"	"U6 snRNA-associated Sm-like protein LSm4"	"Belongs to the snRNP Sm proteins family"	NA	NA	NA	NA	NA
+"KAF7798875.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7798888.1"	"Tubulin alpha chain"	"Belongs to the tubulin family"	NA	NA	NA	NA	NA
+"KAF7798890.1"	"Tubulin alpha chain"	"Belongs to the tubulin family"	NA	NA	NA	NA	NA
+"KAF7798896.1"	"RNA methyltransferase"	"Belongs to the methyltransferase superfamily"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7798898.1"	"Exocyst complex component SEC15"	"Belongs to the SEC15 family"	NA	NA	NA	NA	NA
+"KAF7798899.1"	NA	"Belongs to the small GTPase superfamily. Arf family"	NA	NA	NA	NA	NA
+"KAF7798901.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	NA	NA	NA	NA
+"KAF7798902.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7798904.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7798906.1"	"Cleavage and polyadenylation specificity factor subunit 2"	"Belongs to the metallo-beta-lactamase superfamily. RNA-metabolizing metallo-beta-lactamase-like family. CPSF2/YSH1 subfamily"	NA	NA	NA	NA	NA
+"KAF7798909.1"	NA	NA	NA	"GH79(38-259)"	"N"	"N"	"Y(1-19)"
+"KAF7798910.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7798913.1"	NA	NA	NA	"N"	"GH2"	"GH2"	"N"
+"KAF7798916.1"	"Chitin synthase"	"Belongs to the chitin synthase family"	"2.4.1.16"	"GT2_Chitin_synth_1(203-374)+GT2_Chitin_synth_2(351-641)"	"GT2"	"GT2"	"N"
+"KAF7798938.1"	NA	"Belongs to the OXA1/ALB3/YidC family"	NA	NA	NA	NA	NA
+"KAF7798939.1"	"60S ribosomal protein L6"	"Belongs to the eukaryotic ribosomal protein eL6 family"	NA	NA	NA	NA	NA
+"KAF7798955.1"	"Neutral ceramidase"	"Belongs to the neutral ceramidase family"	"3.5.1.23"	NA	NA	NA	NA
+"KAF7798976.1"	"ER lumen protein-retaining receptor"	"Belongs to the ERD2 family"	NA	NA	NA	NA	NA
+"KAF7799012.1"	"AdoMet-dependent rRNA methyltransferase SPB1"	"Belongs to the class I-like SAM-binding methyltransferase superfamily. RNA methyltransferase RlmE family. SPB1 subfamily"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7799025.1"	"Acetyltransferase component of pyruvate dehydrogenase complex"	"Belongs to the 2-oxoacid dehydrogenase family"	"2.3.1.12"	NA	NA	NA	NA
+"KAF7799033.1"	"Peroxin-14"	"Belongs to the peroxin-14 family"	NA	NA	NA	NA	NA
+"KAF7799034.1"	"Elongation factor Tu"	"Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. EF-Tu/EF-1A subfamily"	NA	NA	NA	NA	NA
+"KAF7799034.1"	"Elongation factor Tu"	"Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. EF-Tu/EF-1A subfamily"	NA	NA	NA	NA	NA
+"KAF7799035.1"	"Glycine cleavage system H protein"	"Belongs to the GcvH family"	NA	NA	NA	NA	NA
+"KAF7799049.1"	"Mediator of RNA polymerase II transcription subunit 5"	"Belongs to the Mediator complex subunit 5 family"	NA	NA	NA	NA	NA
+"KAF7799051.1"	"Eukaryotic translation initiation factor 3 subunit H"	"Belongs to the eIF-3 subunit H family"	NA	NA	NA	NA	NA
+"KAF7799059.1"	NA	"Belongs to the bacterial ribosomal protein bL17 family"	NA	NA	NA	NA	NA
+"KAF7799060.1"	"Acyl carrier protein"	NA	NA	NA	NA	NA	NA
+"KAF7799061.1"	NA	"Belongs to the universal ribosomal protein uL13 family"	NA	NA	NA	NA	NA
+"KAF7799090.1"	"40S ribosomal protein S25"	"Belongs to the eukaryotic ribosomal protein eS25 family"	NA	NA	NA	NA	NA
+"KAF7799103.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7799104.1"	NA	"Belongs to the acyl-CoA dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7799108.1"	NA	NA	NA	"GT8(234-471)"	"N"	"N"	"N"
+"KAF7799109.1"	NA	NA	NA	"GT8(12-256)"	"N"	"N"	"N"
+"KAF7799115.1"	NA	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	NA	NA	NA	NA
+"KAF7799118.1"	NA	"Belongs to the peptidase M24B family"	NA	NA	NA	NA	NA
+"KAF7799122.1"	"Mediator of RNA polymerase II transcription subunit 13"	"Belongs to the Mediator complex subunit 13 family"	NA	NA	NA	NA	NA
+"KAF7799124.1"	NA	NA	NA	"AA6(59-252)"	"AA6"	"N"	"N"
+"KAF7799125.1"	"Patatin-like phospholipase domain-containing protein"	"Belongs to the PLPL family"	"3.1.1.-"	NA	NA	NA	NA
+"KAF7799135.1"	NA	"Belongs to the peroxiredoxin family. Prx5 subfamily"	NA	NA	NA	NA	NA
+"KAF7799137.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	"N"	"N"	"GT13"	"N"
+"KAF7799141.1"	"Non-structural maintenance of chromosomes element 4"	"Belongs to the NSE4 family"	NA	NA	NA	NA	NA
+"KAF7799159.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_22(58-352)"	"GH5"	"GH5_22"	"N"
+"KAF7799160.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_22(58-351)"	"GH5"	"GH5_22"	"N"
+"KAF7799181.1"	NA	NA	NA	"GH79(48-470)"	"N"	"N"	"N"
+"KAF7799182.1"	NA	NA	NA	"GH79(37-463)"	"N"	"N"	"N"
+"KAF7799198.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7799204.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7799205.1"	NA	NA	NA	"AA3_2(35-494)"	"AA3"	"N"	"N"
+"KAF7799213.1"	"Alpha-1,4 glucan phosphorylase"	"Belongs to the glycogen phosphorylase family"	"2.4.1.1"	"GT35(183-911)"	"GT35"	"GT35"	"N"
+"KAF7799219.1"	NA	NA	NA	"CBM21(294-440)"	"N"	"N"	"N"
+"KAF7799222.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_9(86-397)"	"GH5"	"GH5_9"	"Y(1-23)"
+"KAF7799227.1"	NA	NA	NA	"AA3_2(25-234)"	"N"	"N"	"N"
+"KAF7799229.1"	NA	"Belongs to the alpha-IPM synthase/homocitrate synthase family"	NA	NA	NA	NA	NA
+"KAF7799233.1"	"rRNA-processing protein"	"Belongs to the CGR1 family"	NA	NA	NA	NA	NA
+"KAF7799238.1"	NA	NA	NA	"N"	"N"	"AA1"	"N"
+"KAF7799240.1"	NA	"Belongs to the PP2C family"	NA	NA	NA	NA	NA
+"KAF7799244.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7799254.1"	"Pyruvate kinase"	"Belongs to the pyruvate kinase family"	"2.7.1.40"	NA	NA	NA	NA
+"KAF7799255.1"	"Pyruvate kinase"	"Belongs to the pyruvate kinase family"	"2.7.1.40"	NA	NA	NA	NA
+"KAF7799264.1"	"Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial"	"Belongs to the succinate/malate CoA ligase alpha subunit family"	"6.2.1.5"	NA	NA	NA	NA
+"KAF7799264.1"	"Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial"	"Belongs to the TRAFAC class TrmE-Era-EngA-EngB-Septin-like GTPase superfamily. Septin GTPase family"	"6.2.1.5"	NA	NA	NA	NA
+"KAF7799264.1"	"Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial"	"Belongs to the succinate/malate CoA ligase alpha subunit family"	"6.2.1.5"	NA	NA	NA	NA
+"KAF7799273.1"	"Rhomboid-like protein"	"Belongs to the peptidase S54 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7799273.1"	"RHOMBOID-like protein"	"Belongs to the peptidase S54 family"	"3.4.21.-"	NA	NA	NA	NA
+"KAF7799284.1"	NA	"Belongs to the ubiquitin-conjugating enzyme family"	"2.3.2.-"	NA	NA	NA	NA
+"KAF7799302.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7799303.1"	"S-formylglutathione hydrolase"	"Belongs to the esterase D family"	"3.1.2.12"	"CE1(54-309)"	"N"	"N"	"N"
+"KAF7799319.1"	"Mediator of RNA polymerase II transcription subunit 7"	"Belongs to the Mediator complex subunit 7 family"	NA	NA	NA	NA	NA
+"KAF7799320.1"	NA	NA	NA	"N"	"N"	"CBM1+GH5_5"	"N"
+"KAF7799321.1"	NA	"Belongs to the glycosyl hydrolase 5 (cellulase A) family"	NA	"GH5_5(79-277)"	"GH5+CBM1"	"CBM1+GH5_5"	"N"
+"KAF7799323.1"	"Exocyst complex component Sec8"	"Belongs to the SEC8 family"	NA	NA	NA	NA	NA
+"KAF7799327.1"	NA	NA	NA	"GH20(117-371)"	"GH20"	"GH20"	"N"
+"KAF7799335.1"	NA	NA	NA	"PL35(529-714)"	"PL35"	"PL35"	"N"
+"KAF7799336.1"	NA	"Belongs to the thiolase-like superfamily. Thiolase family"	NA	NA	NA	NA	NA
+"KAF7799343.1"	NA	NA	NA	"GT21(61-319)"	"GT21"	"GT21"	"N"
+"KAF7799358.1"	"Adenylosuccinate synthetase"	"Belongs to the adenylosuccinate synthetase family"	"6.3.4.4"	"N"	"N"	"GT47"	"N"
+"KAF7799358.1"	"Adenylosuccinate synthetase"	"Belongs to the adenylosuccinate synthetase family"	"6.3.4.4"	"N"	"N"	"GT47"	"N"
+"KAF7799358.1"	"Adenylosuccinate synthetase"	"Belongs to the adenylosuccinate synthetase family"	"6.3.4.4"	"N"	"N"	"GT47"	"N"
+"KAF7799358.1"	"Adenylosuccinate synthetase"	"Belongs to the adenylosuccinate synthetase family"	"6.3.4.4"	"N"	"N"	"GT47"	"N"
+"KAF7799358.1"	"Adenylosuccinate synthetase"	"Belongs to the adenylosuccinate synthetase family"	"6.3.4.4"	"N"	"N"	"GT47"	"N"
+"KAF7799358.1"	"Adenylosuccinate synthetase"	"Belongs to the adenylosuccinate synthetase family"	"6.3.4.4"	"N"	"N"	"GT47"	"N"
+"KAF7799358.1"	"Adenylosuccinate synthetase"	"Belongs to the adenylosuccinate synthetase family"	"6.3.4.4"	"N"	"N"	"GT47"	"N"
+"KAF7799358.1"	"Adenylosuccinate synthetase"	"Belongs to the adenylosuccinate synthetase family"	"6.3.4.4"	"N"	"N"	"GT47"	"N"
+"KAF7799370.1"	"Sister chromatid cohesion protein"	"Belongs to the SCC2/Nipped-B family"	NA	NA	NA	NA	NA
+"KAF7799406.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7799407.1"	NA	NA	NA	"CE8(84-267)"	"N"	"N"	"N"
+"KAF7799411.1"	NA	"Belongs to the peptidase M16 family"	NA	NA	NA	NA	NA
+"KAF7799413.1"	"Probable electron transfer flavoprotein subunit beta"	"Belongs to the ETF beta-subunit/FixA family"	NA	NA	NA	NA	NA
+"KAF7799429.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7799432.1"	NA	NA	NA	"GH16_1(67-309)"	"N"	"N"	"Y(1-18)"
+"KAF7799440.1"	NA	NA	NA	"GH20(174-388)"	"GH20"	"GH20"	"Y(1-61)"
+"KAF7799462.1"	NA	NA	NA	"CBM21(315-420)"	"N"	"N"	"N"
+"KAF7799472.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7799501.1"	"UDP-glucose 6-dehydrogenase"	"Belongs to the UDP-glucose/GDP-mannose dehydrogenase family"	"1.1.1.22"	NA	NA	NA	NA
+"KAF7799510.1"	NA	NA	NA	"GT2_Glyco_tranf_2_3(6-178)"	"N"	"GT2"	"N"
+"KAF7799528.1"	NA	"Belongs to the universal ribosomal protein uS17 family"	NA	NA	NA	NA	NA
+"KAF7799529.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family. PP-Z subfamily"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7799529.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7799529.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family. PP-Z subfamily"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7799529.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family. PP-Z subfamily"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7799529.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7799529.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family. PP-Z subfamily"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7799529.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7799529.1"	"Serine/threonine-protein phosphatase"	"Belongs to the PPP phosphatase family"	"3.1.3.16"	NA	NA	NA	NA
+"KAF7799534.1"	"Peroxisomal membrane protein PEX16"	"Belongs to the peroxin-16 family"	NA	NA	NA	NA	NA
+"KAF7799537.1"	NA	NA	NA	"N"	"GT31"	"GT31"	"N"
+"KAF7799544.1"	"Arginase"	"Belongs to the arginase family"	"3.5.3.1"	NA	NA	NA	NA
+"KAF7799544.1"	"Arginase"	"Belongs to the arginase family"	"3.5.3.1"	NA	NA	NA	NA
+"KAF7799544.1"	"Arginase"	"Belongs to the arginase family"	"3.5.3.1"	NA	NA	NA	NA
+"KAF7799547.1"	NA	"Belongs to the acyl-CoA dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7799553.1"	"Actin-related protein 2/3 complex subunit"	"Belongs to the WD repeat ARPC1 family"	NA	NA	NA	NA	NA
+"KAF7799555.1"	NA	"Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family"	NA	"N"	"CBM57"	"N"	"N"
+"KAF7799563.1"	"6,7-dimethyl-8-ribityllumazine synthase"	"Belongs to the DMRL synthase family"	"2.5.1.78"	NA	NA	NA	NA
+"KAF7799569.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7799574.1"	NA	NA	NA	"AA5_1(29-578)"	"AA5"	"AA5_1"	"Y(1-21)"
+"KAF7799580.1"	"DNA replication licensing factor MCM7"	"Belongs to the MCM family"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7799580.1"	"DNA replication licensing factor MCM7"	"Belongs to the MCM family"	"3.6.4.12"	NA	NA	NA	NA
+"KAF7799581.1"	NA	"Belongs to the peptidase S8 family"	NA	NA	NA	NA	NA
+"KAF7799582.1"	"Autophagy-related protein 9"	"Belongs to the ATG9 family"	NA	NA	NA	NA	NA
+"KAF7799584.1"	NA	"Belongs to the HSF family"	NA	NA	NA	NA	NA
+"KAF7799585.1"	"Conserved oligomeric Golgi complex subunit 6"	"Belongs to the COG6 family"	NA	NA	NA	NA	NA
+"KAF7799599.1"	"CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase"	"Belongs to the CDP-alcohol phosphatidyltransferase class-II family"	"2.7.8.5"	NA	NA	NA	NA
+"KAF7799600.1"	"D-aminoacyl-tRNA deacylase"	"Belongs to the DTD family"	"3.1.1.-"	NA	NA	NA	NA
+"KAF7799600.1"	"D-aminoacyl-tRNA deacylase"	"Belongs to the DTD family"	"3.1.1.96"	NA	NA	NA	NA
+"KAF7799606.1"	"Elongator complex protein 3"	"Belongs to the ELP3 family"	"2.3.1.-"	NA	NA	NA	NA
+"KAF7799607.1"	"Mitochondrial distribution and morphology protein 12"	"Belongs to the MDM12 family"	NA	NA	NA	NA	NA
+"KAF7799611.1"	NA	NA	NA	"CE16(1-104)"	"N"	"N"	"N"
+"KAF7799616.1"	"Acetolactate synthase"	"Belongs to the TPP enzyme family"	"2.2.1.6"	NA	NA	NA	NA
+"KAF7799616.1"	"Acetolactate synthase"	"Belongs to the TPP enzyme family"	"2.2.1.6"	NA	NA	NA	NA
+"KAF7799645.1"	NA	"Belongs to the protein disulfide isomerase family"	NA	NA	NA	NA	NA
+"KAF7799649.1"	NA	"Belongs to the SMC family"	NA	NA	NA	NA	NA
+"KAF7799667.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7799686.1"	"Histone deacetylase"	"Belongs to the histone deacetylase family. HD Type 1 subfamily"	"3.5.1.98"	NA	NA	NA	NA
+"KAF7799691.1"	"Mediator of RNA polymerase II transcription subunit 4"	"Belongs to the Mediator complex subunit 4 family"	NA	NA	NA	NA	NA
+"KAF7799705.1"	"Glucoamylase"	"Belongs to the glycosyl hydrolase 15 family"	"3.2.1.3"	"GH15(46-448)+CBM20(481-566)"	"GH15+CBM20"	"CBM20+GH15"	"Y(1-20)"
+"KAF7799714.1"	"Glucoamylase"	"Belongs to the glycosyl hydrolase 15 family"	"3.2.1.3"	"GH15(47-452)+CBM20(486-571)"	"GH15+CBM20"	"CBM20+GH15"	"Y(1-22)"
+"KAF7799721.1"	"Carboxypeptidase"	"Belongs to the peptidase S10 family"	"3.4.16.-"	NA	NA	NA	NA
+"KAF7799747.1"	"Phosphatidate cytidylyltransferase"	"Belongs to the CDS family"	"2.7.7.41"	NA	NA	NA	NA
+"KAF7799748.1"	"DNA topoisomerase I"	"Belongs to the type IB topoisomerase family"	"5.6.2.1"	NA	NA	NA	NA
+"KAF7799749.1"	"Threonine dehydratase"	"Belongs to the serine/threonine dehydratase family"	"4.3.1.19"	NA	NA	NA	NA
+"KAF7799752.1"	"Prefoldin subunit 4"	"Belongs to the prefoldin subunit beta family"	NA	NA	NA	NA	NA
+"KAF7799757.1"	"RNA-dependent RNA polymerase"	"Belongs to the RdRP family"	"2.7.7.48"	NA	NA	NA	NA
+"KAF7799773.1"	NA	"Belongs to the carnitine/choline acetyltransferase family"	NA	NA	NA	NA	NA
+"KAF7799803.1"	"Peroxidase"	"Belongs to the peroxidase family. Ligninase subfamily"	"1.11.1.-"	"AA2(48-307)"	"AA2"	"AA2"	"Y(1-21)"
+"KAF7799803.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(48-307)"	"AA2"	"AA2"	"Y(1-21)"
+"KAF7799803.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(48-307)"	"AA2"	"AA2"	"Y(1-21)"
+"KAF7799808.1"	"Probable acetate kinase"	"Belongs to the acetokinase family"	"2.7.2.1"	NA	NA	NA	NA
+"KAF7799810.1"	"Amine oxidase"	"Belongs to the copper/topaquinone oxidase family"	"1.4.3.-"	NA	NA	NA	NA
+"KAF7799811.1"	NA	NA	NA	"AA9(8-106)"	"N"	"N"	"Y(1-27)"
+"KAF7799812.1"	NA	NA	NA	"AA9(9-229)"	"AA9+CBM1"	"AA9+CBM1"	"Y(1-27)"
+"KAF7799830.1"	"Vacuolar protein sorting-associated protein 29"	"Belongs to the VPS29 family"	NA	NA	NA	NA	NA
+"KAF7799877.1"	NA	NA	"3.2.1.-"	"GH18(14-297)"	"GH18+CBM12+CBM18+CBM5"	"CBM18+GH18"	"N"
+"KAF7799890.1"	NA	"Belongs to the D-isomer specific 2-hydroxyacid dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7799895.1"	NA	NA	NA	"N"	"N"	"GT1"	"N"
+"KAF7799903.1"	NA	"Belongs to the PAL/histidase family"	NA	NA	NA	NA	NA
+"KAF7799943.1"	"Amine oxidase"	"Belongs to the copper/topaquinone oxidase family"	"1.4.3.-"	NA	NA	NA	NA
+"KAF7799956.1"	"Alanine--tRNA ligase"	"Belongs to the class-II aminoacyl-tRNA synthetase family"	"6.1.1.7"	NA	NA	NA	NA
+"KAF7799961.1"	"Replication factor C subunit 1"	"Belongs to the activator 1 large subunit family"	NA	NA	NA	NA	NA
+"KAF7799963.1"	NA	NA	NA	"GH85(56-348)"	"N"	"GH85"	"N"
+"KAF7799966.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7799969.1"	"Purine nucleoside phosphorylase"	"Belongs to the PNP/MTAP phosphorylase family. MTAP subfamily"	"2.4.2.1"	NA	NA	NA	NA
+"KAF7799979.1"	"Inosine-5'-monophosphate dehydrogenase"	"Belongs to the IMPDH/GMPR family"	"1.1.1.205"	NA	NA	NA	NA
+"KAF7799979.1"	"Inosine-5'-monophosphate dehydrogenase"	"Belongs to the IMPDH/GMPR family"	"1.1.1.205"	NA	NA	NA	NA
+"KAF7799980.1"	"Beta-xylanase"	"Belongs to the glycosyl hydrolase 10 (cellulase F) family"	"3.2.1.8"	"GH10(79-368)"	"GH10+CBM1+CBM2"	"CBM1+GH10"	"Y(1-21)"
+"KAF7799984.1"	NA	NA	NA	"GH79(45-405)"	"N"	"N"	"Y(1-20)"
+"KAF7799999.1"	NA	"Belongs to the acyl-CoA dehydrogenase family"	NA	"N"	"N"	"CE8"	"N"
+"KAF7800014.1"	NA	"Belongs to the actin family"	NA	NA	NA	NA	NA
+"KAF7800031.1"	NA	"Belongs to the peroxisomal membrane protein PXMP2/4 family"	NA	NA	NA	NA	NA
+"KAF7800033.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7800040.1"	NA	NA	NA	"AA3_2(11-410)"	"AA3"	"N"	"N"
+"KAF7800043.1"	NA	NA	NA	"AA3_2(33-461)"	"AA3"	"N"	"N"
+"KAF7800051.1"	NA	NA	NA	"GH16_2(206-556)"	"N"	"GH16_2"	"N"
+"KAF7800076.1"	NA	"Belongs to the short-chain dehydrogenases/reductases (SDR) family"	NA	NA	NA	NA	NA
+"KAF7800079.1"	NA	"Belongs to the peroxiredoxin family. Prx5 subfamily"	NA	NA	NA	NA	NA
+"KAF7800081.1"	NA	"Belongs to the class I-like SAM-binding methyltransferase superfamily. Cation-independent O-methyltransferase family"	"2.1.1.-"	NA	NA	NA	NA
+"KAF7800091.1"	"Phospholipid-transporting ATPase"	"Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family. Type IV subfamily"	"7.6.2.1"	NA	NA	NA	NA
+"KAF7800093.1"	"Multifunctional tryptophan biosynthesis protein"	NA	NA	NA	NA	NA	NA
+"KAF7800096.1"	NA	"Belongs to the protein kinase superfamily"	NA	NA	NA	NA	NA
+"KAF7800102.1"	"Carboxypeptidase"	"Belongs to the peptidase S10 family"	"3.4.16.-"	NA	NA	NA	NA
+"KAF7800103.1"	NA	NA	NA	"N"	"N"	"GH27"	"N"
+"KAF7800106.1"	NA	"Belongs to the class-I aminoacyl-tRNA synthetase family"	NA	NA	NA	NA	NA
+"KAF7800118.1"	"S-(hydroxymethyl)glutathione dehydrogenase"	"Belongs to the zinc-containing alcohol dehydrogenase family. Class-III subfamily"	"1.1.1.284"	NA	NA	NA	NA
+"KAF7800130.1"	"Ubiquitin carboxyl-terminal hydrolase"	"Belongs to the peptidase C19 family"	"3.4.19.12"	NA	NA	NA	NA
+"KAF7800137.1"	"Glucosamine 6-phosphate N-acetyltransferase"	"Belongs to the acetyltransferase family. GNA1 subfamily"	"2.3.1.4"	NA	NA	NA	NA
+"KAF7800150.1"	NA	NA	NA	"AA5_1(26-623)"	"AA5"	"AA5_1"	"Y(1-18)"
+"KAF7800154.1"	NA	"Belongs to the iron/ascorbate-dependent oxidoreductase family"	NA	NA	NA	NA	NA
+"KAF7800158.1"	NA	NA	NA	"GH2(85-743)"	"GH2"	"GH2"	"Y(1-50)"
+"KAF7800159.1"	"U3 small nucleolar RNA-associated protein 22"	"Belongs to the NRAP family"	NA	NA	NA	NA	NA
+"KAF7800169.1"	NA	NA	NA	"GH13_1(55-379)"	"N"	"CBM20+GH13_1"	"Y(1-21)"
+"KAF7800179.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7800181.1"	NA	NA	NA	"GH79(17-382)"	"N"	"N"	"N"
+"KAF7800184.1"	NA	NA	NA	"GH79(73-466)"	"N"	"GH79"	"Y(1-25)"
+"KAF7800188.1"	NA	"Belongs to the RNR ribonuclease family"	NA	NA	NA	NA	NA
+"KAF7800196.1"	NA	"Belongs to the glutamine synthetase family"	NA	NA	NA	NA	NA
+"KAF7800201.1"	NA	"Belongs to the cytochrome P450 family"	NA	NA	NA	NA	NA
+"KAF7800212.1"	"Carbonic anhydrase"	"Belongs to the beta-class carbonic anhydrase family"	"4.2.1.1"	NA	NA	NA	NA
+"KAF7800217.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7800217.1"	NA	"Belongs to the small heat shock protein (HSP20) family"	NA	NA	NA	NA	NA
+"KAF7800230.1"	NA	NA	NA	"N"	"GH10+CBM1"	"N"	"Y(1-22)"
+"KAF7800234.1"	NA	"Belongs to the MRE11/RAD32 family"	NA	"N"	"N"	"GH72"	"N"
+"KAF7800240.1"	"tRNA-dihydrouridine(47) synthase [NAD(P)(+)]"	"Belongs to the dus family. Dus3 subfamily"	"1.3.1.89"	NA	NA	NA	NA
+"KAF7800240.1"	"tRNA-dihydrouridine(47) synthase [NAD(P)(+)]"	"Belongs to the dus family. Dus3 subfamily"	"1.3.1.-"	NA	NA	NA	NA
+"KAF7800247.1"	NA	NA	NA	"N"	"N"	"GH47"	"N"
+"KAF7800248.1"	NA	NA	NA	"GH13_1(58-362)"	"CBM20"	"GH13_1"	"Y(1-20)"
+"KAF7800256.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(34-212)"	"AA2"	"AA2"	"N"
+"KAF7800256.1"	"Peroxidase"	"Belongs to the peroxidase family"	"1.11.1.-"	"AA2(34-212)"	"AA2"	"AA2"	"N"
+"KAF7800256.1"	"Peroxidase"	"Belongs to the peroxidase family. Ligninase subfamily"	"1.11.1.-"	"AA2(34-212)"	"AA2"	"AA2"	"N"
+"KAF7800257.1"	NA	"Belongs to the aldehyde dehydrogenase family"	NA	NA	NA	NA	NA
+"KAF7800258.1"	"Endonuclease"	"Belongs to the DNA/RNA non-specific endonuclease family"	"3.1.30.-"	NA	NA	NA	NA
+"KAF7800263.1"	"Glucanase"	"Belongs to the glycosyl hydrolase 7 (cellulase C) family"	"3.2.1.-"	"GH7(61-489)"	"GH7+CBM1"	"CBM1+GH7"	"N"
+"KAF7800268.1"	"Tubulin gamma chain"	"Belongs to the tubulin family"	NA	NA	NA	NA	NA
+"KAF7800270.1"	"Mitochondrial escape protein 2"	"Belongs to the YME2 family"	NA	NA	NA	NA	NA
+"KAF7800272.1"	NA	"Belongs to the 5'-nucleotidase family"	NA	NA	NA	NA	NA
+"KAF7800277.1"	"Protein-serine/threonine kinase"	"Belongs to the PDK/BCKDK protein kinase family"	"2.7.11.-"	NA	NA	NA	NA
+"KAF7800279.1"	NA	"Belongs to the AAA ATPase family"	NA	NA	NA	NA	NA
+"KAF7800301.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7800307.1"	"Hydrophobin"	"Belongs to the fungal hydrophobin family"	NA	NA	NA	NA	NA
+"KAF7800324.1"	NA	"Belongs to the arginase family"	NA	NA	NA	NA	NA
+"KAF7800350.1"	"Enhancer of polycomb-like protein"	"Belongs to the enhancer of polycomb family"	NA	NA	NA	NA	NA
+"KAF7800353.1"	NA	"Belongs to the mitochondrial carrier (TC 2.A.29) family"	NA	NA	NA	NA	NA
+"KAF7800356.1"	"Glycogen [starch] synthase"	"Belongs to the glycosyltransferase 3 family"	"2.4.1.11"	"GT3(18-642)"	"GT3"	"GT3"	"N"
